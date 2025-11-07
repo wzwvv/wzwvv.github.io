@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Ziwei Wang"
-description              : "CV for Ziwei Wang. "
+title                    : "Ziwei Wang (王紫薇)"
+description              : # "CV for Ziwei Wang. "
 repository               : "wzwvv/wzwvv.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Ziwei Wang"
+  name             : "Ziwei Wang (王紫薇)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  bio              : "PhD Student @HUST"
+  location         : "Wuhan, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=fjlXqvQAAAAJ&hl=en"
