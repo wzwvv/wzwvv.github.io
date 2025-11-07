@@ -1,4 +1,4 @@
-<img width="450" height="64" alt="image" src="https://github.com/user-attachments/assets/e4f49a8c-7802-4983-bd98-92e4c88bdcb1" />---
+---
 permalink: /
 title: "Ziwei (Vivi) Wang — BCI & EEG"
 excerpt: "Ph.D. candidate at HUST · Brain–Computer Interfaces · Machine Learning · Smart Healthcare"
