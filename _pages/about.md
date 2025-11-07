@@ -19,7 +19,7 @@ redirect_from:
 
 I am a third-year Ph.D. candidate in the School of Artificial Intelligence & Automation at Huazhong University of Science and Technology (HUST), supervised by [Prof. Dongrui Wu](https://lab.bciml.cn/). My work lies at brain–computer interfaces and machine learning for smart healthcare. I study EEG decoding under distribution shift and data scarcity, focusing on cross-subject/domain generalization, knowledge-driven data generation, and cross-species/modality seizure detection. Looking ahead, I am building **large-scale EEG foundation models** that are parameter-efficient, privacy-aware, and transferable across species, tasks, populations, and sensing modalities, with an emphasis on clinical reliability and deployment.
 
-My research interests include Brain–Computer Interfaces and Machine Learning. I have published 8 first-author papers, five on CAS Q1/Top iournals <a href='https://scholar.google.com/citations?user=fjlXqvQAAAAJ&hl=en'>google scholar citations <strong><span id='total_cit'>130+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=fjlXqvQAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests include Brain–Computer Interfaces and Machine Learning. I have published 8 first-author papers, five on CAS Q1/Top iournals <a href='https://scholar.google.com/citations?user=fjlXqvQAAAAJ&hl=en'>google scholar citations <strong><span id='total_cit'>130+</span></strong></a>.
 
 # 🔥 News
 - *2025.10*: &nbsp;🎉 Awarded **National Ph.D. Scholarship**; Ministry of Education of China.
