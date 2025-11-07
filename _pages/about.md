@@ -32,7 +32,7 @@ My research interest includes Brain-Computer Interfaces and Machine Learning. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NSR 2025</div><img src='images/500x300.png' alt="nsr-2025" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NSR 2025</div><img src='images/CST.png' alt="nsr-2025" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Canine EEG helps human: Cross-species and cross-modality epileptic seizure detection via multi-space alignment]()
