@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Ziwei Wang"
-description              : "CV for Ziwei Wang. "
+description              : # "CV for Ziwei Wang. "
 repository               : "wzwvv/wzwvv.github.io"
 google_scholar_stats_use_cdn : true
 
