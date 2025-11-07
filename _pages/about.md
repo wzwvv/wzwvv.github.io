@@ -19,7 +19,7 @@ redirect_from:
 
 I am a Ph.D. candidate in the School of Artificial Intelligence & Automation at Huazhong University of Science and Technology (HUST), supervised by [Prof. Dongrui Wu](https://lab.bciml.cn/). My work lies at brain–computer interfaces and machine learning for smart healthcare. I study EEG decoding under distribution shift and data scarcity, focusing on cross-subject/domain generalization, knowledge-driven data generation, and cross-species/modality seizure detection. Looking ahead, I am building **large-scale EEG foundation models** that are parameter-efficient, privacy-aware, and transferable across species, tasks, populations, and sensing modalities, with an emphasis on clinical reliability and deployment.
 
-My research interests include brain–computer interface, smart healthcare, and machine learning. To date, I have published eight first-author papers (**five in CAS Q1/Top journals**), and six co-authored A-class journals.
+To date, I have published **eight first-author** papers (**five in CAS Q1/Top journals**), and six co-authored A-class journals.
 
 # 🔥 News
 - *2025.10*: &nbsp;🎉 Awarded **National Scholarship (PhD)**; Ministry of Education of China.
@@ -109,13 +109,13 @@ My research interests include brain–computer interface, smart healthcare, and 
 </div>
 
 <!-- IEEE CIS Student Grant 2021 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE CIS 2021</div><img src='images/CIS_Grant.png' alt="ieee-cis-2021-student-grant" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE CIS 2022</div><img src='images/CIS_Grant.png' alt="ieee-cis-2021-student-grant" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [EEG-Based Seizure Prediction Using Transfer Learning](https://cis.ieee.org/images/files/Documents/GrantRecipientsReports/2021/CIS_Wang.pdf)
 
-**Z. Wang** and D. Wu*, *IEEE Computational Intelligence Society*, Student Grant Paper, 2021. (Global Top 5)
-- Transfer learning pipeline for children’s epilepsy prediction; awarded IEEE CIS Student Research Grant (global top 5).
+**Z. Wang** and D. Wu*, *IEEE Computational Intelligence Society*, Student Grant Paper, 2022. (Global Top 5)
+- Transfer learning pipeline for epilepsy seizure prediction; awarded IEEE CIS Student Research Grant (global top 5).
 </div>
 </div>
 
