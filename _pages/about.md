@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ziwei (Vivi) Wang — BCI & EEG"
+title: "Ziwei Wang — BCI & Machine Learning"
 excerpt: "Ph.D. candidate at HUST · Brain–Computer Interfaces · Machine Learning · Smart Healthcare"
 author_profile: true
 redirect_from: 
@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year Ph.D. candidate in the School of Artificial Intelligence & Automation at Huazhong University of Science and Technology (HUST), supervised by [Prof. Dongrui Wu](https://lab.bciml.cn/). My work lies at brain–computer interfaces and machine learning for smart healthcare. I study EEG decoding under distribution shift and data scarcity, focusing on cross-subject/domain generalization, knowledge-driven data generation, and cross-species/modality seizure detection. Looking ahead, I am building **large-scale EEG foundation models** that are parameter-efficient, privacy-aware, and transferable across species, tasks, populations, and sensing modalities, with an emphasis on clinical reliability and deployment.
+I am a Ph.D. candidate in the School of Artificial Intelligence & Automation at Huazhong University of Science and Technology (HUST), supervised by [Prof. Dongrui Wu](https://lab.bciml.cn/). My work lies at brain–computer interfaces and machine learning for smart healthcare. I study EEG decoding under distribution shift and data scarcity, focusing on cross-subject/domain generalization, knowledge-driven data generation, and cross-species/modality seizure detection. Looking ahead, I am building **large-scale EEG foundation models** that are parameter-efficient, privacy-aware, and transferable across species, tasks, populations, and sensing modalities, with an emphasis on clinical reliability and deployment.
 
 My research interests include Brain–Computer Interfaces and Machine Learning. I have published 8 first-author papers, five on CAS Q1/Top iournals <a href='https://scholar.google.com/citations?user=fjlXqvQAAAAJ&hl=en'>google scholar citations <strong><span id='total_cit'>130+</span></strong></a>.
 
