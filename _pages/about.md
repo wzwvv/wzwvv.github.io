@@ -22,15 +22,15 @@ I am a Ph.D. candidate in the School of Artificial Intelligence & Automation at 
 My research interests include Brain–Computer Interfaces and Machine Learning. I have published 8 first-author papers, five on CAS Q1/Top iournals <a href='https://scholar.google.com/citations?user=fjlXqvQAAAAJ&hl=en'>google scholar citations <strong><span id='total_cit'>130+</span></strong></a>.
 
 # 🔥 News
-- *2025.10*: &nbsp;🎉 Awarded **National Ph.D. Scholarship**; Ministry of Education of China.
+- *2025.10*: &nbsp;🎉 Awarded **National Scholarship (PhD)**; Ministry of Education of China.
 - *2025.10*: &nbsp;🏅 Named **HUST Model Student of Merit (Pacesetter)** (**Highest Student Honor**); Huazhong University of Science and Technology. [Media coverage](https://mp.weixin.qq.com/s/euTiOZLJ2kkt3wenn1wq-A?scene=1)
+- *2025.10*: &nbsp;📝 **DBConformer** has been **accepted** by the IEEE Journal of Biomedical and Health Informatics (IEEE JBHI). Congratulations! 🎉 (DOI: 10.1109/JBHI.2025.3622725).
 - *2025.09*: &nbsp;🎉 Awarded **Ant Group InTech Scholarship** (Global Top 10; Top 2 in Digital Medicine); Ant Group / Ant Science and Technology Award. [Zhejiang Daily](https://zjrb.zjol.com.cn/html/2025-09/14/content_3851946.htm?div=-1), [Media coverage](https://aia.hust.edu.cn/info/1524/10644.htm)
 - *2025.08*: &nbsp;🏆 **World Robot Contest — BCI**, National Second Prize; Chinese Institute of Electronics.
-- *2025.05*: &nbsp;🎤 Oral at **China Systems Science Conference**: *Cross-species & cross-modality seizure detection via multi-space alignment*; Kunming, China.
-- *2025.04*: &nbsp;📝 Paper accepted **IEEE JBHI (in press)**: *DBConformer: Dual-branch Convolutional Transformer for EEG decoding* (DOI: 10.1109/JBHI.2025.3622725).
+- *2025.05*: &nbsp;🎤 Oral at **China Systems Science Conference 2025**: *Cross-species & cross-modality seizure detection via multi-space alignment*; Kunming, China.
 - *2024.12*: &nbsp;🖼️ Poster at **First China Brain–Computer Intelligence Conference**: *Channel Reflection: Knowledge-Driven Data Augmentation for EEG-Based BCIs*; Hangzhou, China.
 - *2024.12*: &nbsp;🖼️ Poster at **SAAC 2025**: *Channel Reflection: Knowledge-Driven Data Augmentation for EEG-Based BCIs*; Wuhan, China.
-- *2024.10*: &nbsp;🎉 Awarded **National Ph.D. Scholarship**; Ministry of Education of China.
+- *2024.10*: &nbsp;🎉 Awarded **National Scholarship (PhD)**; Ministry of Education of China.
 - *2024.09*: &nbsp;🎤 Oral at **Alibaba Cloud Yunqi Conference** (AI for Science showcase): *EEG-based Automatic Seizure Detection*; Hangzhou, China.
 - *2024.08*: &nbsp;🏅 Selected for **Huanao “Top-10 BCI Highlights in China”**; Haihe Laboratory of BCI & Human–Machine Integration.
 - *2024*: &nbsp;✅ **IOP Trusted Reviewer**; IOP Publishing.
