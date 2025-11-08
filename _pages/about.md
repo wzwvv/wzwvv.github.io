@@ -27,10 +27,10 @@ I am a Ph.D. candidate in the School of Artificial Intelligence & Automation at 
 <!-- quick topics badges (inline, no extra CSS needed) -->
 <div style="display:flex;flex-wrap:wrap;gap:8px;margin:6px 0 4px;">
   <span style="background:#eef6ff;border:1px solid #cfe3ff;border-radius:999px;padding:2px 10px;font-size:12px;">BCI & EEG</span>
-  <span style="background:#eef6ff;border:1px solid #cfe3ff;border-radius:999px;padding:2px 10px;font-size:12px;">Domain Generalization</span>
+  <span style="background:#eef6ff;border:1px solid #cfe3ff;border-radius:999px;padding:2px 10px;font-size:12px;">Machine Learning</span>
+  <span style="background:#eef6ff;border:1px solid #cfe3ff;border-radius:999px;padding:2px 10px;font-size:12px;">Smart Healthcare</span>
   <span style="background:#eef6ff;border:1px solid #cfe3ff;border-radius:999px;padding:2px 10px;font-size:12px;">Data Generation</span>
-  <span style="background:#eef6ff;border:1px solid #cfe3ff;border-radius:999px;padding:2px 10px;font-size:12px;">Cross-species & Cross-modality</span>
-  <span style="background:#eef6ff;border:1px solid #cfe3ff;border-radius:999px;padding:2px 10px;font-size:12px;">Foundation Models</span>
+  <span style="background:#eef6ff;border:1px solid #cfe3ff;border-radius:999px;padding:2px 10px;font-size:12px;">Foundation Model</span>
 </div>
 
 <ul>
