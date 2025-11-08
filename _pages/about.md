@@ -22,22 +22,23 @@ I am a Ph.D. candidate in the School of Artificial Intelligence & Automation at 
 To date, I have published **eight first-author** papers (**five in CAS Q1/Top journals**), and six co-authored A-class journals.
 
 # 🔥 News
-- *2025.10*: &nbsp;🎉 Awarded **National Scholarship (PhD)**; Ministry of Education of China.
-- *2025.10*: &nbsp;🏅 Named **HUST Model Student of Merit (Pacesetter)** (**Highest Student Honor at HUST**); Huazhong University of Science and Technology. [Media coverage](https://mp.weixin.qq.com/s/euTiOZLJ2kkt3wenn1wq-A?scene=1)
-- *2025.10*: &nbsp;📝 **DBConformer** has been **accepted** by the IEEE Journal of Biomedical and Health Informatics (IEEE JBHI). Congratulations! 🎉 (DOI: 10.1109/JBHI.2025.3622725).
-- *2025.09*: &nbsp;🎉 Awarded **Ant Group InTech Scholarship** ((**10 Awardees Worldwide; 2 Awardees in Digital Medicine**)); Ant Group / Ant Science and Technology Award. [Zhejiang Daily](https://zjrb.zjol.com.cn/html/2025-09/14/content_3851946.htm?div=-1), [Media coverage](https://aia.hust.edu.cn/info/1524/10644.htm)
-- *2025.08*: &nbsp;🏆 **World Robot Contest — BCI**, National Second Prize; Chinese Institute of Electronics.
-- *2025.05*: &nbsp;🎤 Oral at **China Systems Science Conference 2025**: *Cross-species & cross-modality seizure detection via multi-space alignment*; Kunming, China.
-- *2025.03*: &nbsp;📝 **CST** has been **accepted** by the National Science Review (NSR, IF=17.1). Congratulations! 🎉. [EurekAlert](https://www.eurekalert.org/news-releases/1079947), [Public coverage](https://mp.weixin.qq.com/s/41BTiP_SJ3_5UuKTy1U4nA)
-- *2024.12*: &nbsp;🖼️ Poster at **First China Brain–Computer Intelligence Conference**: *Channel Reflection: Knowledge-Driven Data Augmentation for EEG-Based BCIs*; Hangzhou, China.
-- *2024.12*: &nbsp;🖼️ Poster at **SAAC 2025**: *Channel Reflection: Knowledge-Driven Data Augmentation for EEG-Based BCIs*; Wuhan, China.
-- *2024.10*: &nbsp;🎉 Awarded **National Scholarship (PhD)**; Ministry of Education of China.
-- *2024.09*: &nbsp;🎤 Oral at **Alibaba Cloud Yunqi Conference** (AI for Science showcase): *EEG-based Automatic Seizure Detection*; Hangzhou, China.
-- *2024.08*: &nbsp;🏅 Selected for **Huanao “Top-10 BCI Highlights in China”**; Haihe Laboratory of BCI & Human–Machine Integration.
-- *2024.12*: &nbsp;✅ **IOP Trusted Reviewer**; IOP Publishing.
-- *2023.11*: &nbsp;🎤 **ICONIP Tutorial**: *Transfer Learning for EEG-based Brain–Computer Interfaces*; Changsha, China.
-- *2023.08*: &nbsp;🏆 **World Robot Contest — BCI**, National First Prize; Chinese Institute of Electronics.
-- *2022.03*: &nbsp;🎉 **IEEE Computational Intelligence Society Scholarship** (**10 Awardees Worldwide**); IEEE CIS.
+- *2025.10*: &nbsp; Awarded **National Scholarship (PhD)**. Congratulations🎉!
+- *2025.10*: &nbsp; Named **HUST Model Student of Merit (Pacesetter)** (**Highest Student Honor at HUST**). Congratulations🎉! [Media coverage](https://mp.weixin.qq.com/s/euTiOZLJ2kkt3wenn1wq-A?scene=1)
+- *2025.10*: &nbsp; Awarded the reviewer certificate by **Springer Nature**.
+- *2025.10*: &nbsp; **DBConformer** has been **accepted** by the IEEE Journal of Biomedical and Health Informatics (IEEE JBHI). Congratulations🎉! (DOI: 10.1109/JBHI.2025.3622725).
+- *2025.09*: &nbsp; Awarded **Ant Group InTech Scholarship** (**10 Awardees Worldwide; 2 Awardees in Digital Medicine**). Congratulations🎉! [Zhejiang Daily](https://zjrb.zjol.com.cn/html/2025-09/14/content_3851946.htm?div=-1), [Ant Group](https://mp.weixin.qq.com/s/pALzvWcTkthtOgQeR8K3Yw), [Media coverage](https://aia.hust.edu.cn/info/1524/10644.htm)
+- *2025.08*: &nbsp; World Robot Contest—Brain Controlled Robot Contest, **National Second Prize**. Congratulations🏆!
+- *2025.05*: &nbsp; Oral at **China Systems Science Conference 2025**: *Cross-species & cross-modality seizure detection via multi-space alignment*; Kunming, China.
+- *2025.03*: &nbsp; **CST** has been **accepted** by the National Science Review (NSR, IF=17.1). Congratulations🎉! [EurekAlert](https://www.eurekalert.org/news-releases/1079947), [Public coverage](https://mp.weixin.qq.com/s/41BTiP_SJ3_5UuKTy1U4nA)
+- *2024.12*: &nbsp; Poster at **First China Brain–Computer Intelligence Conference**: *Channel Reflection: Knowledge-Driven Data Augmentation for EEG-Based BCIs*; Hangzhou, China.
+- *2024.12*: &nbsp; Poster at **SAAC 2025**: *Channel Reflection: Knowledge-Driven Data Augmentation for EEG-Based BCIs*; Wuhan, China.
+- *2024.10*: &nbsp; Awarded **National Scholarship (PhD)**. Congratulations🎉!
+- *2024.09*: &nbsp; Oral at **Alibaba Cloud Yunqi Conference** (AI for Science showcase): *EEG-based Automatic Seizure Detection*; Hangzhou, China. [Media coverage](https://mp.weixin.qq.com/s/lJsdU3i5ZfsIrgZKIVH_ag)
+- *2024.08*: &nbsp; Awarded **Huanao “Top-10 BCI Highlights in China”**. Congratulations🎉!
+- *2024.12*: &nbsp; **IOP Trusted Reviewer**. Congratulations🎉!
+- *2023.11*: &nbsp; **ICONIP Tutorial**: *Transfer Learning for EEG-based Brain–Computer Interfaces*; Changsha, China.
+- *2023.08*: &nbsp; World Robot Contest—Brain Controlled Robot Contest, **National First Prize**. Congratulations🏆!
+- *2022.03*: &nbsp; **IEEE Computational Intelligence Society Scholarship** (**5 Awardees Worldwide**). Congratulations🏆!
 
 # 📝 Publications 
 
