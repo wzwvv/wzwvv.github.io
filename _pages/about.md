@@ -17,9 +17,31 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate in the School of Artificial Intelligence & Automation at Huazhong University of Science and Technology (HUST), supervised by [Prof. Dongrui Wu](https://lab.bciml.cn/). My work lies at brain–computer interfaces and machine learning for smart healthcare. I study EEG decoding under distribution shift and data scarcity, focusing on cross-subject/domain generalization, knowledge-driven data generation, and cross-species/modality seizure detection. Looking ahead, I am building **large-scale EEG foundation models** that are parameter-efficient, privacy-aware, and transferable across species, tasks, populations, and sensing modalities, with an emphasis on clinical reliability and deployment.
 
-To date, I have published **eight first-author** papers (**five in CAS Q1/Top journals**), and six co-authored A-class journals.
+<div id="about" markdown="1">
+
+<p class="lead">
+I am a Ph.D. candidate in the School of Artificial Intelligence & Automation at Huazhong University of Science and Technology (HUST), supervised by <a href="https://lab.bciml.cn/">Prof. Dongrui Wu</a>. My work lies at the <strong>intersection of brain–computer interfaces and machine learning</strong> for smart healthcare. I study EEG decoding under distribution shift and data scarcity, focusing on <strong>cross-species/device/modality/subject generalization</strong> and <strong>knowledge-driven brain-signal generation</strong>. Looking ahead, I am building <strong>large-scale EEG foundation models</strong> that are parameter-efficient, privacy-aware, and transferable across species, tasks, populations, and sensing modalities, with an emphasis on clinical reliability and deployment.
+</p>
+
+<!-- quick topics badges (inline, no extra CSS needed) -->
+<div style="display:flex;flex-wrap:wrap;gap:8px;margin:6px 0 4px;">
+  <span style="background:#eef6ff;border:1px solid #cfe3ff;border-radius:999px;padding:2px 10px;font-size:12px;">BCI & EEG</span>
+  <span style="background:#eef6ff;border:1px solid #cfe3ff;border-radius:999px;padding:2px 10px;font-size:12px;">Domain Generalization</span>
+  <span style="background:#eef6ff;border:1px solid #cfe3ff;border-radius:999px;padding:2px 10px;font-size:12px;">Data Generation</span>
+  <span style="background:#eef6ff;border:1px solid #cfe3ff;border-radius:999px;padding:2px 10px;font-size:12px;">Cross-species & Cross-modality</span>
+  <span style="background:#eef6ff;border:1px solid #cfe3ff;border-radius:999px;padding:2px 10px;font-size:12px;">Foundation Models</span>
+</div>
+
+<ul>
+  <li><strong>Publications & Patents.</strong> To date, I have published <strong>8 first-author</strong> papers—<strong>5 in CAS Q1/top journals</strong> (e.g., <em>National Science Review</em>, IF 17.1)—plus <strong>6 co-authored papers</strong> (CAA Class-A), and hold <strong>5 PRC national invention patents</strong> (authorized/publicly disclosed).</li>
+
+  <li><strong>Honors.</strong> Two <strong>National Scholarships</strong> (PhD); <strong> National Scholarship (Undergraduate)</strong>; <strong>Ant Group InTech Scholarship</strong> (<strong>1 of 10 worldwide</strong>); <strong>IEEE CIS Scholarship</strong> (<strong>1 of 5 worldwide</strong>); <strong>Outstanding Graduate of Hunan Province</strong>; <strong>Huanao Top-10 BCI Highlights in China</strong>; <strong>World Robot Contest–BCI</strong> National First & Second Prizes.</li>
+
+  <li><strong>Service.</strong> Long-standing reviewer for leading venues (IEEE TFS, IEEE JBHI, IEEE TNSRE, IEEE TBIOM, JNE, <em>Scientific Reports</em>); recognized as an <strong>IOP Trusted Reviewer</strong>.</li>
+</ul>
+
+</div>
 
 # 🔥 News
 - *2025.10*: &nbsp; Awarded **National Scholarship (PhD)**. Congratulations🎉!
@@ -29,7 +51,7 @@ To date, I have published **eight first-author** papers (**five in CAS Q1/Top jo
 - *2025.09*: &nbsp; Awarded **Ant Group InTech Scholarship** (**10 Awardees Worldwide; 2 Awardees in Digital Medicine**). Congratulations🎉! [Zhejiang Daily](https://zjrb.zjol.com.cn/html/2025-09/14/content_3851946.htm?div=-1), [Ant Group](https://mp.weixin.qq.com/s/pALzvWcTkthtOgQeR8K3Yw), [Media coverage](https://aia.hust.edu.cn/info/1524/10644.htm)
 - *2025.08*: &nbsp; World Robot Contest—Brain Controlled Robot Contest, **National Second Prize**. Congratulations🏆!
 - *2025.05*: &nbsp; Oral at **China Systems Science Conference 2025**: *Cross-species & cross-modality seizure detection via multi-space alignment*; Kunming, China.
-- *2025.03*: &nbsp; **CST** has been **accepted** by the National Science Review (NSR, IF=17.1). Congratulations🎉! [EurekAlert](https://www.eurekalert.org/news-releases/1079947), [Public coverage](https://mp.weixin.qq.com/s/41BTiP_SJ3_5UuKTy1U4nA)
+- *2025.03*: &nbsp; **CST** has been **accepted** by the National Science Review (NSR, IF=17.1). Congratulations🎉! [EurekAlert](https://www.eurekalert.org/news-releases/1079947), [Media coverage](https://mp.weixin.qq.com/s/41BTiP_SJ3_5UuKTy1U4nA)
 - *2024.12*: &nbsp; Poster at **First China Brain–Computer Intelligence Conference**: *Channel Reflection: Knowledge-Driven Data Augmentation for EEG-Based BCIs*; Hangzhou, China.
 - *2024.12*: &nbsp; Poster at **SAAC 2025**: *Channel Reflection: Knowledge-Driven Data Augmentation for EEG-Based BCIs*; Wuhan, China.
 - *2024.10*: &nbsp; Awarded **National Scholarship (PhD)**. Congratulations🎉!
@@ -134,7 +156,7 @@ To date, I have published **eight first-author** papers (**five in CAS Q1/Top jo
 </div>
 
 # 🎖 Honors and Awards
-- *2025.09* **Ant Group InTech Scholarship** (**10 Awardees Worldwide; 2 Awardees in Digital Medicine**); Ant Group / Ant Science and Technology Award
+- *2025.09* **Ant Group InTech Scholarship** (**10 Awardees Worldwide; 2 in Digital Medicine**); Ant Group / Ant Science and Technology Award
 - *2025.10* **National Scholarship (PhD)**; Ministry of Education of the People’s Republic of China
 - *2024.10* **National Scholarship (PhD)**; Ministry of Education of the People’s Republic of China
 - *2025.10* **HUST Model Student of Merit (Pacesetter)** (**Highest Student Honor at HUST**); Huazhong University of Science and Technology
