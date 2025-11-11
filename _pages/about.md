@@ -169,7 +169,7 @@ Cross-species and cross-modality epileptic seizure detection via multi-space ali
 </div>
 
 <!-- IEEE CIM 2025 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSSC 2025</div><img src='images/SML-CIM2025.png' alt="cim-2025-sml" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE CIM 2025</div><img src='images/SML_CIM2025.png' alt="cim-2025-sml" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Black-Box Test-Time Ensemble
@@ -261,17 +261,17 @@ X. Chen, S. Li, Y. Tu, **Z. Wang**, and D. Wu*, *Journal of Neural Engineering*,
 - *05 / 2021* <strong style="color:#dc2626;">Outstanding Graduate of Hunan Province</strong>; Hunan Provincial Department of Education
 - *02 / 2022* <strong style="color:#dc2626;">IEEE Computational Intelligence Society Scholarship</strong> (**5 Awardees Worldwide**); IEEE Computational Intelligence Society
 - *08 / 2023* <strong style="color:#dc2626;">National First Prize</strong> in World Robot Contest — BCI; Chinese Institute of Electronics
+- *08 / 2024* <strong style="color:#dc2626;">Huanao Top-10 BCI Highlights in China</strong>; Haihe Laboratory of BCI & HMI (provincial–ministerial joint platform)
 - *08 / 2025* **National Second Prize** in World Robot Contest — BCI; Chinese Institute of Electronics
 - *09 / 2021* **National Second Prize** in World Robot Contest — BCI; Chinese Institute of Electronics
-- *08 / 2024* <strong style="color:#dc2626;">Huanao Top-10 BCI Highlights in China</strong>; Haihe Laboratory of BCI & HMI (provincial–ministerial joint platform)
 - *12 / 2024* **IOP Trusted Reviewer**; Institute of Physics (IOP Publishing)
 - *05 / 2021* **Outstanding Graduate**; Central South University
 - *12 / 2020* **Special Scholarship (Top Award)**; Central South University
 
 
 # 📖 Educations
-- *09 / 2021 - now*, Ph.D. (MS–Ph.D. program), **Huazhong University of Science and Technology (HUST)**, Intelligent Science & Technology (Advisor: Prof. Dongrui Wu) 
-- *09 / 2017 - 06 / 2021*, B.Eng., **Central South University (CSU)**, Measurement, Control Technology & Instruments 
+- *09 / 2021 - now*, Ph.D. (MS–Ph.D. program), **Huazhong University of Science and Technology**, Intelligent Science & Technology
+- *09 / 2017 - 06 / 2021*, B.Eng., **Central South University**, Measurement, Control Technology & Instruments 
 
 # 💬 Invited Talks
 - *11 / 2023*, **ICONIP 2023 — Tutorial**: *Transfer learning for EEG-based brain–computer interfaces: A tutorial*; Changsha, China.
