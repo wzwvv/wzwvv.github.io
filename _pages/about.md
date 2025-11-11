@@ -79,7 +79,7 @@ I am a Ph.D. candidate in the School of Artificial Intelligence & Automation at 
 
 Canine EEG helps human: Cross-species and cross-modality epileptic seizure detection via multi-space alignment
 
-**Z. Wang**, S. Li, D. Wu\*, *National Science Review*, vol.12, no.6, p. nwaf086, 2025. (CAS Q1 Top journal)
+**Z. Wang**, S. Li, D. Wu\*, *National Science Review*, vol.12, no.6, p. nwaf086, 2025. (**CAS Q1 Top** journal)
 
 [Paper](https://academic.oup.com/nsr/article/12/6/nwaf086/8052010)|[Code](https://github.com/wzwvv/CST)|[Supplementary](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/nsr/12/6/10.1093_nsr_nwaf086/2/nwaf086_supplemental_file.pdf?Expires=1765547375&Signature=cUzKn4rWgXszOpTemiCAPdLlT2oxigE4MDzUjM~sFCTgd21BMm32YVi~4KsjLS4RC1teCu34FX3bq361szPcu0aJcQ4YCi-euBiRB5tLcZbIfRRgKQb7xK0ZX28XcSksk14b9ZvsSQjIcjpcq~04nSJlYsV6HqEt~o9Yhw6EBAIs1fJPW7Ne3l8l0k3QjAAnwkJnAuFKxXxwPP3GOqGsg7x-JFug3TwE45IlbkULJXCa3JsAx6sfuCA6LN9yjzeXashToGW1VpzJxlB2Mc1yiwu897-Lvz1H8cIOwlfvmyeruAKg3-UZ2naWXyPTQBFwU8e~5tGT3Z900VSlCUe7Vg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)|[EurekAlert](https://www.eurekalert.org/news-releases/1079947)|[Media coverage](https://mp.weixin.qq.com/s/41BTiP_SJ3_5UuKTy1U4nA)
 </div>
@@ -91,7 +91,7 @@ Canine EEG helps human: Cross-species and cross-modality epileptic seizure detec
 
 DBConformer: Dual-branch convolutional Transformer for EEG decoding
 
-**Z. Wang**, H. Wang, T. Jia, X. He, S. Li, and D. Wu\*, *IEEE Journal of Biomedical and Health Informatics*, 2025, Early access. DOI: 10.1109/JBHI.2025.3622725. (CAS Q1 Top journal)
+**Z. Wang**, H. Wang, T. Jia, X. He, S. Li, and D. Wu\*, *IEEE Journal of Biomedical and Health Informatics*, 2025, Early access. DOI: 10.1109/JBHI.2025.3622725. (**CAS Q1 Top** journal)
 
 [Paper](https://doi.org/10.1109/JBHI.2025.3622725)|[Code](https://github.com/wzwvv/DBConformer)
 </div>
@@ -103,7 +103,7 @@ DBConformer: Dual-branch convolutional Transformer for EEG decoding
 
 Channel reflection: Knowledge-driven data augmentation for EEG-based BCIs
 
-**Z. Wang**†, S. Li†, J. Luo, J. Liu, and D. Wu\*, *Neural Networks*, vol.176, p.106351, 2024. (CAS Q1 Top journal)
+**Z. Wang**†, S. Li†, J. Luo, J. Liu, and D. Wu\*, *Neural Networks*, vol.176, p.106351, 2024. (**CAS Q1 Top** journal)
 
 [Paper](https://www.sciencedirect.com/science/article/pii/S0893608024002752)|[Code](https://github.com/wzwvv/EEGAug)|[Media coverage](https://mp.weixin.qq.com/s/W5QptXMF3hLB_pRyGWjvOQ)
 </div>
@@ -115,7 +115,7 @@ Channel reflection: Knowledge-driven data augmentation for EEG-based BCIs
 
 Time-frequency transform based EEG data augmentation for brain-computer interfaces
 
-**Z. Wang**, S. Li, X. Chen, and D. Wu\*, *Knowledge-Based Systems*, vol.311, p.113074, 2025. (CAS Q1 Top journal)
+**Z. Wang**, S. Li, X. Chen, and D. Wu\*, *Knowledge-Based Systems*, vol.311, p.113074, 2025. (**CAS Q1 Top** journal)
 
 [Paper](https://www.sciencedirect.com/science/article/pii/S0950705125001212)|[Code](https://github.com/wzwvv/CSDA)
 </div>
@@ -127,7 +127,7 @@ Time-frequency transform based EEG data augmentation for brain-computer interfac
 
 MVCNet: Multi-view contrastive network for motor imagery classification
 
-**Z. Wang**, S. Li, X. Chen, and D. Wu\*, *Knowledge-Based Systems*, vol.328, p.114205, 2025. (CAS Q1 Top journal)
+**Z. Wang**, S. Li, X. Chen, and D. Wu\*, *Knowledge-Based Systems*, vol.328, p.114205, 2025. (**CAS Q1 Top** journal)
 
 [Paper](https://www.sciencedirect.com/science/article/pii/S0950705125012468)|[Code](https://github.com/wzwvv/MVCNet)
 </div>
@@ -164,6 +164,7 @@ EEG-based seizure prediction using transfer learning
 Cross-species and cross-modality epileptic seizure detection via multi-space alignment
 
 **Z. Wang**, S. Li, D. Wu\*, *China Systems Science Conference (CSSC)*, **Oral**, 2025.5.16-2025.5.18, Kunming, China. (First author; CAA C-class conference)
+
 [Oral](https://cssc2025.kust.edu.cn/index.htm)
 </div>
 </div>
