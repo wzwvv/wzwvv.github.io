@@ -34,11 +34,11 @@ I am a Ph.D. candidate in the School of Artificial Intelligence & Automation at 
 </div>
 
 <ul>
-  <li><strong>Publications.</strong> To date, I have published <strong>8 first-author</strong> papers—<strong style="color:#dc2626;">5 in CAS Q1/Top journals</strong> (e.g., <em>National Science Review</em>, IF=17.1), <strong>7 co-authored papers</strong> (CAA Class-A), and hold <strong>5 PRC national invention patents</strong>.</li>
+  <li><strong>Publications:</strong> To date, I have published <strong>8 first-author</strong> papers—<strong style="color:#dc2626;">5 in CAS Q1/Top journals</strong> (e.g., <em>National Science Review</em>, IF=17.1), <strong>7 co-authored papers</strong> (CAA Class-A), and hold <strong>5 PRC national invention patents</strong>.</li>
 
-  <li><strong>Honors.</strong> Two <strong>National Scholarships (PhD)</strong>; <strong> National Scholarship (Undergraduate)</strong>; <strong>Ant Group InTech Scholarship</strong> (<strong>1 of 10 worldwide</strong>); <strong>IEEE CIS Scholarship</strong> (<strong>1 of 5 worldwide</strong>); <strong>Outstanding Graduate of Hunan Province</strong>; <strong>Huanao Top-10 BCI Highlights in China</strong>; <strong>World Robot Contest–BCI</strong> National First & Second Prizes.</li>
+  <li><strong>Honors:</strong> <strong>Two National Scholarships (PhD)</strong>; <strong> National Scholarship (Undergraduate)</strong>; <strong>Ant Group InTech Scholarship</strong> (<strong>1 of 10 worldwide</strong>); <strong>IEEE CIS Scholarship</strong> (<strong>1 of 5 worldwide</strong>); <strong>Outstanding Graduate of Hunan Province</strong>; <strong>Huanao Top-10 BCI Highlights in China</strong>; <strong>World Robot Contest–BCI</strong> National First & Second Prizes.</li>
 
-  <li><strong>Service.</strong> Long-standing reviewer for leading journals and conferences (IEEE TFS, IEEE JBHI, IEEE TNSRE, IEEE TBIOM, JNE, Scientific Reports, ICONIP2024, ICONIP2025, IEEE SMC2022); recognized as <strong>IOP Trusted Reviewer</strong>.</li>
+  <li><strong>Service:</strong> Long-standing reviewer for leading journals and conferences (IEEE TFS, IEEE JBHI, IEEE TNSRE, IEEE TBIOM, JNE, Scientific Reports, ICONIP 2024, ICONIP 2025, IEEE SMC 2022); recognized as <strong>IOP Trusted Reviewer</strong>.</li>
 </ul>
 
 </div>
