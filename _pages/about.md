@@ -34,7 +34,7 @@ I am a Ph.D. candidate in the School of Artificial Intelligence & Automation at 
 </div>
 
 <ul>
-  <li><strong>Publications & Patents.</strong> To date, I have published <strong>8 first-author</strong> papers—<strong>5 in CAS Q1/top journals</strong> (e.g., <em>National Science Review</em>, IF=17.1), <strong>6 co-authored papers</strong> (CAA Class-A), and hold <strong>5 PRC national invention patents</strong>.</li>
+  <li><strong>Publications.</strong> To date, I have published <strong>8 first-author</strong> papers—<strong>5 in CAS Q1/top journals</strong> (e.g., <em>National Science Review</em>, IF=17.1), <strong>6 co-authored papers</strong> (CAA Class-A), and hold <strong>5 PRC national invention patents</strong>.</li>
 
   <li><strong>Honors.</strong> Two <strong>National Scholarships (PhD)</strong>; <strong> National Scholarship (Undergraduate)</strong>; <strong>Ant Group InTech Scholarship</strong> (<strong>1 of 10 worldwide</strong>); <strong>IEEE CIS Scholarship</strong> (<strong>1 of 5 worldwide</strong>); <strong>Outstanding Graduate of Hunan Province</strong>; <strong>Huanao Top-10 BCI Highlights in China</strong>; <strong>World Robot Contest–BCI</strong> National First & Second Prizes.</li>
 
@@ -45,10 +45,10 @@ I am a Ph.D. candidate in the School of Artificial Intelligence & Automation at 
 
 # 🔥 News
 - *2025.10*: &nbsp; Awarded **National Scholarship (PhD)**. Congratulations🎉!
-- *2025.10*: &nbsp; Awarded **HUST Model Student of Merit (Pacesetter)** (**Highest Student Honor at HUST**). Congratulations🎉! [Media coverage](https://mp.weixin.qq.com/s/euTiOZLJ2kkt3wenn1wq-A?scene=1)
+- *2025.10*: &nbsp; Awarded <strong style="color:#dc2626;">HUST Model Student of Merit (Pacesetter)</strong> (**Highest Student Honor at HUST**). Congratulations🎉! [Media coverage](https://mp.weixin.qq.com/s/euTiOZLJ2kkt3wenn1wq-A?scene=1)
 - *2025.10*: &nbsp; Awarded the reviewer certificate by **Springer Nature**.
 - *2025.10*: &nbsp; **DBConformer** has been **accepted** by the IEEE Journal of Biomedical and Health Informatics (IEEE JBHI). Congratulations🎉! (DOI: 10.1109/JBHI.2025.3622725).
-- *2025.09*: &nbsp; Awarded **Ant Group InTech Scholarship** (**10 Awardees Worldwide; 2 Awardees in Digital Medicine**). Congratulations🎉! [Zhejiang Daily](https://zjrb.zjol.com.cn/html/2025-09/14/content_3851946.htm?div=-1), [Ant Group](https://mp.weixin.qq.com/s/pALzvWcTkthtOgQeR8K3Yw), [Media coverage](https://aia.hust.edu.cn/info/1524/10644.htm)
+- *2025.09*: &nbsp; Awarded <strong style="color:#dc2626;">Ant Group InTech Scholarship</strong> (**10 Awardees Worldwide; 2 Awardees in Digital Medicine**). Congratulations🎉! [Zhejiang Daily](https://zjrb.zjol.com.cn/html/2025-09/14/content_3851946.htm?div=-1), [Ant Group](https://mp.weixin.qq.com/s/pALzvWcTkthtOgQeR8K3Yw), [Media coverage](https://aia.hust.edu.cn/info/1524/10644.htm)
 - *2025.08*: &nbsp; World Robot Contest—Brain Controlled Robot Contest, **National Second Prize**. Congratulations🏆!
 - *2025.05*: &nbsp; Oral at **China Systems Science Conference 2025**: *Cross-species & cross-modality seizure detection via multi-space alignment*; Kunming, China.
 - *2025.03*: &nbsp; **CST** has been **accepted** by the National Science Review (NSR, IF=17.1). Congratulations🎉! [EurekAlert](https://www.eurekalert.org/news-releases/1079947), [Media coverage](https://mp.weixin.qq.com/s/41BTiP_SJ3_5UuKTy1U4nA)
