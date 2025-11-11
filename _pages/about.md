@@ -77,13 +77,11 @@ I am a Ph.D. candidate in the School of Artificial Intelligence & Automation at 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NSR 2025</div><img src='images/CST.png' alt="nsr-2025" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Canine EEG helps human: Cross-species and cross-modality epileptic seizure detection via multi-space alignment](https://academic.oup.com/nsr/article/12/6/nwaf086/8052010)
+Canine EEG helps human: Cross-species and cross-modality epileptic seizure detection via multi-space alignment
 
 **Z. Wang**, S. Li, D. Wu*, *National Science Review*, vol.12, no.6, p. nwaf086, 2025. (CAS Q1 Top journal)
 
-[**Supplementary Material**](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/nsr/12/6/10.1093_nsr_nwaf086/2/nwaf086_supplemental_file.pdf?Expires=1765547375&Signature=cUzKn4rWgXszOpTemiCAPdLlT2oxigE4MDzUjM~sFCTgd21BMm32YVi~4KsjLS4RC1teCu34FX3bq361szPcu0aJcQ4YCi-euBiRB5tLcZbIfRRgKQb7xK0ZX28XcSksk14b9ZvsSQjIcjpcq~04nSJlYsV6HqEt~o9Yhw6EBAIs1fJPW7Ne3l8l0k3QjAAnwkJnAuFKxXxwPP3GOqGsg7x-JFug3TwE45IlbkULJXCa3JsAx6sfuCA6LN9yjzeXashToGW1VpzJxlB2Mc1yiwu897-Lvz1H8cIOwlfvmyeruAKg3-UZ2naWXyPTQBFwU8e~5tGT3Z900VSlCUe7Vg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA) <strong><span class='show_paper_citations' data='nsr2025-wang'></span></strong>
-- Cross-species (human/canine) and cross-modality (scalp/intracranial) transfer via multi-space alignment; The 1-st systematic validation for epileptic seizure detection.
-- [EurekAlert](https://www.eurekalert.org/news-releases/1079947), [Media coverage](https://mp.weixin.qq.com/s/41BTiP_SJ3_5UuKTy1U4nA)
+[Paper](https://academic.oup.com/nsr/article/12/6/nwaf086/8052010)|[Code](https://github.com/wzwvv/CST)|[Supplementary](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/nsr/12/6/10.1093_nsr_nwaf086/2/nwaf086_supplemental_file.pdf?Expires=1765547375&Signature=cUzKn4rWgXszOpTemiCAPdLlT2oxigE4MDzUjM~sFCTgd21BMm32YVi~4KsjLS4RC1teCu34FX3bq361szPcu0aJcQ4YCi-euBiRB5tLcZbIfRRgKQb7xK0ZX28XcSksk14b9ZvsSQjIcjpcq~04nSJlYsV6HqEt~o9Yhw6EBAIs1fJPW7Ne3l8l0k3QjAAnwkJnAuFKxXxwPP3GOqGsg7x-JFug3TwE45IlbkULJXCa3JsAx6sfuCA6LN9yjzeXashToGW1VpzJxlB2Mc1yiwu897-Lvz1H8cIOwlfvmyeruAKg3-UZ2naWXyPTQBFwU8e~5tGT3Z900VSlCUe7Vg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)|[EurekAlert](https://www.eurekalert.org/news-releases/1079947)|[Media coverage](https://mp.weixin.qq.com/s/41BTiP_SJ3_5UuKTy1U4nA)
 </div>
 </div>
 
@@ -91,10 +89,11 @@ I am a Ph.D. candidate in the School of Artificial Intelligence & Automation at 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE JBHI 2025</div><img src='images/DBConformer.png' alt="jbhi-2025-dbconformer" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DBConformer: Dual-branch convolutional Transformer for EEG decoding](https://doi.org/10.1109/JBHI.2025.3622725)
+DBConformer: Dual-branch convolutional Transformer for EEG decoding
 
 **Z. Wang**, H. Wang, T. Jia, X. He, S. Li, and D. Wu*, *IEEE Journal of Biomedical and Health Informatics*, 2025, Early access. DOI: 10.1109/JBHI.2025.3622725. (CAS Q1 Top journal)
-- Parallel spatio–temporal branches with convolutional and Transformer modules for robust, interpretable EEG decoding.
+
+[Paper](https://doi.org/10.1109/JBHI.2025.3622725)|[Code](https://github.com/wzwvv/DBConformer)
 </div>
 </div>
 
@@ -102,11 +101,11 @@ I am a Ph.D. candidate in the School of Artificial Intelligence & Automation at 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Networks 2024</div><img src='images/CR.png' alt="nn-2024-channel-reflection" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Channel reflection: Knowledge-driven data augmentation for EEG-based BCIs](https://www.sciencedirect.com/science/article/pii/S0893608024002752)
+Channel reflection: Knowledge-driven data augmentation for EEG-based BCIs
 
 **Z. Wang**†, S. Li†, J. Luo, J. Liu, and D. Wu*, *Neural Networks*, vol.176, p.106351, 2024. (CAS Q1 Top journal)
-- Knowledge-driven EEG data augmentation by utilizing neuroscience prior knowledge for brain signal decoding.
-- [Media coverage](https://mp.weixin.qq.com/s/W5QptXMF3hLB_pRyGWjvOQ)
+
+[Paper](https://www.sciencedirect.com/science/article/pii/S0893608024002752)|[Code](https://github.com/wzwvv/EEGAug)|[Media coverage](https://mp.weixin.qq.com/s/W5QptXMF3hLB_pRyGWjvOQ)
 </div>
 </div>
 
@@ -114,10 +113,11 @@ I am a Ph.D. candidate in the School of Artificial Intelligence & Automation at 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS 2025</div><img src='images/CSDA.png' alt="kbs-2025-tf-aug" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Time-frequency transform based EEG data augmentation for brain-computer interfaces](https://www.sciencedirect.com/science/article/pii/S0950705125001212)
+Time-frequency transform based EEG data augmentation for brain-computer interfaces
 
 **Z. Wang**, S. Li, X. Chen, and D. Wu*, *Knowledge-Based Systems*, vol.311, p.113074, 2025. (CAS Q1 Top journal)
-- Time–frequency transformation based EEG data augmentation to enrich EEG patterns and improve cross-subject decoding robustness.
+
+[Paper](https://www.sciencedirect.com/science/article/pii/S0950705125001212)|[Code](https://github.com/wzwvv/CSDA)
 </div>
 </div>
 
@@ -125,10 +125,11 @@ I am a Ph.D. candidate in the School of Artificial Intelligence & Automation at 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS 2025</div><img src='images/MVCNet.png' alt="kbs-2025-mvcnet" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MVCNet: Multi-view contrastive network for motor imagery classification](https://www.sciencedirect.com/science/article/pii/S0950705125012468)
+MVCNet: Multi-view contrastive network for motor imagery classification
 
 **Z. Wang**, S. Li, X. Chen, and D. Wu*, *Knowledge-Based Systems*, vol.328, p.114205, 2025. (CAS Q1 Top journal)
-- Multi-view contrastive learning for MI-EEG feature learning and performance enhancement.
+
+[Paper](https://www.sciencedirect.com/science/article/pii/S0950705125012468)|[Code](https://github.com/wzwvv/MVCNet)
 </div>
 </div>
 
@@ -136,10 +137,11 @@ I am a Ph.D. candidate in the School of Artificial Intelligence & Automation at 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JNE 2023</div><img src='images/TASA.png' alt="jne-2023-uda" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Unsupervised domain adaptation for cross-patient seizure classification](https://iopscience.iop.org/article/10.1088/1741-2552/ad0859/meta)
+Unsupervised domain adaptation for cross-patient seizure classification
 
-**Z. Wang**, W. Zhang, S. Li, X. Chen, and D. Wu*, *Journal of Neural Engineering*, vol.20, no.6, p.066002, 2023. (**CAA Class-A** journal)
-- UDA framework mitigating patient shift for epileptic seizure detection.
+**Z. Wang**, W. Zhang, S. Li, X. Chen, and D. Wu*, *Journal of Neural Engineering*, vol.20, no.6, p.066002, 2023. (**CAA A-class** journal)
+
+[Paper](https://iopscience.iop.org/article/10.1088/1741-2552/ad0859/meta)|[Code](https://github.com/wzwvv/TASA)
 </div>
 </div>
 
@@ -147,10 +149,11 @@ I am a Ph.D. candidate in the School of Artificial Intelligence & Automation at 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE CIS 2022</div><img src='images/CIS_Grant.png' alt="ieee-cis-2021-student-grant" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[EEG-based seizure prediction using transfer learning](https://cis.ieee.org/images/files/Documents/GrantRecipientsReports/2021/CIS_Wang.pdf)
+EEG-based seizure prediction using transfer learning
 
 **Z. Wang** and D. Wu*, *IEEE Computational Intelligence Society*, Student Grant Paper, 2022.
-- Transfer learning pipeline for epilepsy seizure prediction; awarded IEEE CIS Student Research Grant.
+
+[Paper](https://cis.ieee.org/images/files/Documents/GrantRecipientsReports/2021/CIS_Wang.pdf)|[Link](https://cis.ieee.org/activities/educational-activites/research-grants)
 </div>
 </div>
 
@@ -158,42 +161,127 @@ I am a Ph.D. candidate in the School of Artificial Intelligence & Automation at 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSSC 2025</div><img src='images/CSSC_Conf.png' alt="cssc-2025-oral" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Cross-species and cross-modality epileptic seizure detection via multi-space alignment](https://cssc2025.kust.edu.cn/index.htm)
+Cross-species and cross-modality epileptic seizure detection via multi-space alignment
 
-**Z. Wang**, S. Li, D. Wu, *China Systems Science Conference (CSSC)*, **Oral**, 2025.5.16-2025.5.18, Kunming, China. (First author; CAA Class-C conference)
+**Z. Wang**, S. Li, D. Wu*, *China Systems Science Conference (CSSC)*, **Oral**, 2025.5.16-2025.5.18, Kunming, China. (First author; CAA C-class conference)
+[Oral](https://cssc2025.kust.edu.cn/index.htm)
+</div>
+</div>
+
+<!-- IEEE CIM 2025 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSSC 2025</div><img src='images/SML-CIM2025.png' alt="cim-2025-sml" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Black-Box Test-Time Ensemble
+
+S. Li, **Z. Wang**, C. Liu, and D. Wu*, *IEEE Computational Intelligence Magazine*, early access, 2025. (**JCR Q1** journal)
+
+[Code](https://github.com/sylyoung/TestEnsemble)
+</div>
+</div>
+
+<!-- IEEE TNSRE 2024 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNSRE 2024</div><img src='images/ABAT-TNSRE2024.png' alt="tnsre-2024-abat" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Alignment-based adversarial training (ABAT) for improving the robustness and accuracy of EEG-based BCIs
+
+X. Chen, **Z. Wang**, and D. Wu*, *IEEE Trans. on Neural Systems and Rehabilitation Engineering*, vol. 32, pp. 1703-1714, 2024. (**CAS Q1** journal)
+
+[Paper](https://ieeexplore.ieee.org/abstract/document/10506624)|[Code](https://github.com/xqchen914/ABAT)
+</div>
+</div>
+
+<!-- IEEE TBME 2023 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TBME 2023</div><img src='images/TTIME-TBME2023.png' alt="tbme-2023-ttime" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+T-TIME: Test time information maximization ensemble for plug-and-play BCIs
+
+S. Li, **Z. Wang**, and D. Wu*, *IEEE Trans. on Biomedical Engineering*, vol. 71, pp. 423-432, 2023. (**CAA A-class** journal)
+
+[Paper](https://ieeexplore.ieee.org/abstract/document/10210666/)|[Code](https://github.com/sylyoung/DeepTransferEEG)
+</div>
+</div>
+
+<!-- IEEE TNSRE 2022 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNSRE 2022</div><img src='images/MSDT-TNSRE2022.png' alt="tnsre-2022-msdt" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Multi-source decentralized transfer for privacy-preserving BCIs
+
+W. Zhang, **Z. Wang**, and D. Wu*, *IEEE Trans. on Neural Systems and Rehabilitation Engineering*, vol. 30, pp. 2710-2720, 2022. (**CAS Q1** journal)
+
+[Paper](https://ieeexplore.ieee.org/abstract/document/9894428)
+</div>
+</div>
+
+<!-- IEEE TBME 2023 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TBME 2023</div><img src='images/DS3TL-TBME2023.png' alt="tbme-2023-ds3tl" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Deep source semi-supervised transfer learning (DS3TL) for cross-subject EEG classification
+
+X. Jiang, L. Meng, **Z. Wang**, and D. Wu*, *IEEE Trans. on Biomedical Engineering*, vol. 71, pp. 1308-1318, 2023. (**CAA A-class** journal)
+
+[Paper](https://ieeexplore.ieee.org/abstract/document/10319796)|[Code](https://github.com/jxgogo/DS3TL.git)
+</div>
+</div>
+
+<!-- IEEE TBME 2025 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TBME 2025</div><img src='images/SDDA-TBME2025.png' alt="tbme-2025-sdda" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Spatial Distillation based Distribution Alignment (SDDA) for Cross-Headset EEG Classification
+
+D. Liu, S. Li, **Z. Wang**, W. Li*, and D. Wu*, *IEEE Trans. on Biomedical Engineering*, early access, 2025. (**CAA A-class** journal)
+
+[Code](https://github.com/Dingkun0817/SDDA)
+</div>
+</div>
+
+<!-- JNE 2025 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JNE 2025</div><img src='images/UWP-JNE2025.png' alt="jne-2025-uwp" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+User-wise perturbations for user identity protection in EEG-based BCIs
+
+X. Chen, S. Li, Y. Tu, **Z. Wang**, and D. Wu*, *Journal of Neural Engineering*, vol. 22, no. 1, p. 016040, 2025. (**CAA A-class** journal)
+
+[Paper](https://iopscience.iop.org/article/10.1088/1741-2552/ad88a5/meta)|[Code](https://github.com/Dingkun0817/SDDA)
 </div>
 </div>
 
 # 🎖 Honors and Awards
-- *2025.09* **Ant Group InTech Scholarship** (**10 Awardees Worldwide; 2 in Digital Medicine**); Ant Group / Ant Science and Technology Award
-- *2025.10* **National Scholarship (PhD)**; Ministry of Education of the People’s Republic of China
-- *2024.10* **National Scholarship (PhD)**; Ministry of Education of the People’s Republic of China
-- *2025.10* **HUST Model Student of Merit (Pacesetter)** (**Highest Student Honor at HUST**); Huazhong University of Science and Technology
-- *2020.10* **National Scholarship (Undergraduate)**; Ministry of Education of the People’s Republic of China
-- *2021.06* **Outstanding Graduate of Hunan Province**; Hunan Provincial Department of Education
-- *2022.02* **IEEE Computational Intelligence Society Scholarship** (**5 Awardees Worldwide**); IEEE Computational Intelligence Society
-- *2023.08* **World Robot Contest — BCI, National First Prize**; Chinese Institute of Electronics
-- *2025.08* **World Robot Contest — BCI, National Second Prize**; Chinese Institute of Electronics
-- *2021.07* **World Robot Contest — BCI, National Second Prize**; Chinese Institute of Electronics
-- *2025.01* **Huanao “Top-10 BCI Highlights in China”** (National Top 10); Haihe Laboratory of BCI & Human–Machine Integration (provincial–ministerial joint platform)
-- *2024.12* **IOP Trusted Reviewer**; Institute of Physics (IOP Publishing)
-- *2021.06* **Outstanding Graduate**; Central South University
-- *2020.12* **Special Scholarship (Top Award)**; Central South University
+- *09 / 2025* <strong style="color:#dc2626;">Ant Group InTech Scholarship</strong> (**10 Awardees Worldwide; 2 in Digital Medicine**); Ant Group / Ant Science and Technology Award
+- *10 / 2025* <strong style="color:#dc2626;">National Scholarship (PhD)</strong>; Ministry of Education of the People’s Republic of China
+- *10 / 2024* <strong style="color:#dc2626;">National Scholarship (PhD)</strong>; Ministry of Education of the People’s Republic of China
+- *10 / 2025* <strong style="color:#dc2626;">HUST Model Student of Merit (Pacesetter)</strong> (**Highest Student Honor at HUST**); Huazhong University of Science and Technology
+- *12 / 2020* <strong style="color:#dc2626;">National Scholarship (Undergraduate)</strong>; Ministry of Education of the People’s Republic of China
+- *05 / 2021* <strong style="color:#dc2626;">Outstanding Graduate of Hunan Province</strong>; Hunan Provincial Department of Education
+- *02 / 2022* <strong style="color:#dc2626;">IEEE Computational Intelligence Society Scholarship</strong> (**5 Awardees Worldwide**); IEEE Computational Intelligence Society
+- *08 / 2023* <strong style="color:#dc2626;">National First Prize</strong> in World Robot Contest — BCI; Chinese Institute of Electronics
+- *08 / 2025* **National Second Prize** in World Robot Contest — BCI; Chinese Institute of Electronics
+- *09 / 2021* **National Second Prize** in World Robot Contest — BCI; Chinese Institute of Electronics
+- *08 / 2024* <strong style="color:#dc2626;">Huanao Top-10 BCI Highlights in China</strong>; Haihe Laboratory of BCI & HMI (provincial–ministerial joint platform)
+- *12 / 2024* **IOP Trusted Reviewer**; Institute of Physics (IOP Publishing)
+- *05 / 2021* **Outstanding Graduate**; Central South University
+- *12 / 2020* **Special Scholarship (Top Award)**; Central South University
 
 
 # 📖 Educations
-- *2021.09 - now*, Ph.D. (MS–Ph.D. program), **Huazhong University of Science and Technology (HUST)**, Intelligent Science & Technology (Advisor: Prof. Dongrui Wu) 
-- *2017.09 - 2021.06*, B.Eng., **Central South University (CSU)**, Measurement, Control Technology & Instruments 
+- *09 / 2021 - now*, Ph.D. (MS–Ph.D. program), **Huazhong University of Science and Technology (HUST)**, Intelligent Science & Technology (Advisor: Prof. Dongrui Wu) 
+- *09 / 2017 - 06 / 2021*, B.Eng., **Central South University (CSU)**, Measurement, Control Technology & Instruments 
 
 # 💬 Invited Talks
-- *2023.11*, **ICONIP 2023 — Tutorial**: *Transfer learning for EEG-based brain–computer interfaces: A tutorial*; Changsha, China.
-- *2025.05*, **China Systems Science Conference (CSSC)** — **Oral**: *Cross-species & cross-modality seizure detection via multi-space alignment*; Kunming, China.
-- *2024.12*, **First China Brain–Computer Intelligence Conference** — **Poster**: *Channel reflection: Knowledge-driven data augmentation for EEG-based BCIs*; Hangzhou, China.
-- *2024.09*, **Alibaba Cloud Yunqi Conference** (AI for Science showcase) — **Oral**: *EEG-based automatic seizure detection*; Hangzhou, China.
-- *2024.12*, **SAAC 2025** — **Poster**: *Channel reflection: Knowledge-driven data augmentation for EEG-based BCIs*; Wuhan, China.
+- *11 / 2023*, **ICONIP 2023 — Tutorial**: *Transfer learning for EEG-based brain–computer interfaces: A tutorial*; Changsha, China.
+- *05 / 2025*, **China Systems Science Conference (CSSC)** — **Oral**: *Cross-species & cross-modality seizure detection via multi-space alignment*; Kunming, China.
+- *12 / 2024*, **First China Brain–Computer Intelligence Conference** — **Poster**: *Channel reflection: Knowledge-driven data augmentation for EEG-based BCIs*; Hangzhou, China.
+- *09 / 2024*, **Alibaba Cloud Yunqi Conference** (AI for Science showcase) — **Oral**: *EEG-based automatic seizure detection*; Hangzhou, China.
+- *12 / 2024*, **SAAC 2025** — **Poster**: *Channel reflection: Knowledge-driven data augmentation for EEG-based BCIs*; Wuhan, China.
 
 # 💻 Internships
-- *2022.10 - 2023.04*, [Alibaba Cloud](https://www.alibabacloud.com/), China.
+- *10 / 2022 - 04 / 2023*, [Alibaba Cloud](https://www.alibabacloud.com/), China.
   - **Anomaly-aware data augmentation:** designing **five augmentation operators** leveraging **N-grams** and **TF-IDF** to augment positive-class samples, increasing data availability and improving the **generalization** of fault-detection models.
   - **Long-sequence forecasting with Transformer:** Quantified anomaly-feature importance to identify **salient/sparse queries**, and designed a **SparseAttention** module to handle long sequences more efficiently.
   - **Domain-generalized MoE architecture:** Addressed substantial temporal and device-level distribution shifts in server-fault data by designing a **domain-generalized Mixture-of-Experts** model for robust prediction under distribution shift.
