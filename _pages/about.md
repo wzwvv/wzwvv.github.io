@@ -46,26 +46,26 @@ I am a Ph.D. candidate in the School of Artificial Intelligence & Automation at 
 # 🔥 News
 - *10 / 2025*: &nbsp; Awarded <strong style="color:#dc2626;">National Scholarship (PhD)</strong>.
 - *10 / 2025*: &nbsp; Awarded <strong style="color:#dc2626;">HUST Model Student of Merit (Pacesetter)</strong> (**Highest Student Honor at HUST**). [Media coverage](https://mp.weixin.qq.com/s/euTiOZLJ2kkt3wenn1wq-A?scene=1)
-- *10 / 2025*: &nbsp; Awarded the reviewer certificate by <strong style="color:#dc2626;">Springer Nature</strong>.
+- *10 / 2025*: &nbsp; Awarded the reviewer certificate by **Springer Nature**.
 - *10 / 2025*: &nbsp; [**DBConformer**](https://ieeexplore.ieee.org/document/11215634) has been **accepted** by the IEEE Journal of Biomedical and Health Informatics (CAS Q1/Top, JCR Q1, IF=6.8).
 - *10 / 2025*: &nbsp; [**MVCNet**](https://www.sciencedirect.com/science/article/pii/S0950705125012468) has been **accepted** by the Knowledge-Based Systems (CAS Q1/Top, JCR Q1, IF=7.3).
-- *09 / 2025*: &nbsp; Awarded <strong style="color:#dc2626;">Ant Group InTech Scholarship</strong> (**1 of 10 Worldwide; 2 Awardees in Digital Medicine**). [Zhejiang Daily](https://zjrb.zjol.com.cn/html/2025-09/14/content_3851946.htm?div=-1), [Ant Group](https://mp.weixin.qq.com/s/pALzvWcTkthtOgQeR8K3Yw), [Media coverage](https://aia.hust.edu.cn/info/1524/10644.htm)
-- *08 / 2025*: &nbsp; World Robot Contest—Brain Controlled Robot Contest, **National Second Prize**.
-- *05 / 2025*: &nbsp; Oral at **China Systems Science Conference 2025**: *Cross-species & cross-modality seizure detection via multi-space alignment*; Kunming, China.
+- *09 / 2025*: &nbsp; Awarded <strong style="color:#dc2626;">Ant Group InTech Scholarship</strong> (**1 of 10 Worldwide; 2 in Digital Medicine**). [Zhejiang Daily](https://zjrb.zjol.com.cn/html/2025-09/14/content_3851946.htm?div=-1), [Ant Group](https://mp.weixin.qq.com/s/pALzvWcTkthtOgQeR8K3Yw), [Media coverage](https://aia.hust.edu.cn/info/1524/10644.htm)
+- *08 / 2025*: &nbsp; **National Second Prize** in World Robot Contest—Brain Controlled Robot Contest.
+- *05 / 2025*: &nbsp; Oral at **China Systems Science Conference 2025**; Kunming, China.
 - *03 / 2025*: &nbsp; [**CST**](https://academic.oup.com/nsr/article/12/6/nwaf086/8052010?login=true) has been **accepted** by the <strong style="color:#dc2626;">National Science Review (IF=17.1)</strong>. [EurekAlert](https://www.eurekalert.org/news-releases/1079947), [Media coverage](https://mp.weixin.qq.com/s/41BTiP_SJ3_5UuKTy1U4nA)
 - *02 / 2025*: &nbsp; [**CSDA**](https://www.sciencedirect.com/science/article/pii/S0950705125001212) has been **accepted** by the Knowledge-Based Systems (CAS Q1/Top, JCR Q1, IF=7.3).
 - *12 / 2024*: &nbsp; Awarded **IOP Trusted Reviewer**.
-- *12 / 2024*: &nbsp; Poster at **First China Brain–Computer Intelligence Conference**: *Channel Reflection: Knowledge-Driven Data Augmentation for EEG-Based BCIs*; Hangzhou, China.
-- *12 / 2024*: &nbsp; Poster at **SAAC 2025**: *Channel Reflection: Knowledge-Driven Data Augmentation for EEG-Based BCIs*; Wuhan, China.
+- *12 / 2024*: &nbsp; Poster at **First China Brain–Computer Intelligence Conference**; Hangzhou, China.
+- *12 / 2024*: &nbsp; Poster at **SAAC 2025**; Wuhan, China.
 - *10 / 2024*: &nbsp; Awarded <strong style="color:#dc2626;">National Scholarship (PhD)</strong>.
-- *09 / 2024*: &nbsp; Oral at **Alibaba Cloud Yunqi Conference** (AI for Science showcase): *EEG-based Automatic Seizure Detection*; Hangzhou, China. [Media coverage](https://mp.weixin.qq.com/s/lJsdU3i5ZfsIrgZKIVH_ag)
+- *09 / 2024*: &nbsp; Oral at **Alibaba Cloud Yunqi Conference** (AI for Science showcase); Hangzhou, China. [Media coverage](https://mp.weixin.qq.com/s/lJsdU3i5ZfsIrgZKIVH_ag)
 - *08 / 2024*: &nbsp; Awarded <strong style="color:#dc2626;">Huanao Top-10 BCI Highlights in China</strong>.
 - *04 / 2024*: &nbsp; [**CR**](https://www.sciencedirect.com/science/article/pii/S0893608024002752) has been **accepted** by the Neural Networks (CAS Q1/Top, JCR Q1, IF=6.3).
 - *11 / 2023*: &nbsp; **ICONIP Tutorial**: *Transfer Learning for EEG-based Brain–Computer Interfaces*; Changsha, China.
 - *10 / 2023*: &nbsp; [**TASA-SDS**](https://www.sciencedirect.com/science/article/pii/S0950705125012468) has been **accepted** by the Journal of Neural Engineering (CAA A, Top journal in BCI).
-- *08 / 2023*: &nbsp; World Robot Contest—Brain Controlled Robot Contest, <strong style="color:#dc2626;">National First Prize</strong>.
-- *03 / 2022*: &nbsp; **IEEE Computational Intelligence Society Scholarship** (**1 of 5 Worldwide**).
-- *09 / 2021*: &nbsp; World Robot Contest—Brain Controlled Robot Contest, **National Second Prize**.
+- *08 / 2023*: &nbsp; <strong style="color:#dc2626;">National First Prize</strong> in World Robot Contest—Brain Controlled Robot Contest.
+- *03 / 2022*: &nbsp; Awarded <strong style="color:#dc2626;">**IEEE Computational Intelligence Society Scholarship** (**1 of 5 Worldwide**)</strong>.
+- *09 / 2021*: &nbsp; **National Second Prize** in World Robot Contest—Brain Controlled Robot Contest.
 - *05 / 2021*: &nbsp; Awarded <strong style="color:#dc2626;">Outstanding Graduate of Hunan Province (TOP 1%)</strong>.
 - *05 / 2021*: &nbsp; Awarded **Outstanding Graduate in Central South University**.
 - *12 / 2020*: &nbsp; Awarded <strong style="color:#dc2626;">National Scholarship (Undergraduate)</strong>.
