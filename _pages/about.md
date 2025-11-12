@@ -69,7 +69,7 @@ I am a Ph.D. candidate in the School of Artificial Intelligence & Automation at 
 - *05 / 2021*: &nbsp; Awarded <strong style="color:#dc2626;">Outstanding Graduate of Hunan Province (TOP 1%)</strong>.
 - *05 / 2021*: &nbsp; Awarded **Outstanding Graduate in Central South University**.
 - *12 / 2020*: &nbsp; Awarded <strong style="color:#dc2626;">National Scholarship (Undergraduate)</strong>.
-- *12 / 2020*: &nbsp; Awarded <strong style="color:#dc2626;">Special Scholarship (Top 1%)</strong>.
+- *12 / 2020*: &nbsp; Awarded <strong style="color:#dc2626;">Special Scholarship (Highest Scholarship at CSU)</strong>.
 
 # Publications 
 
