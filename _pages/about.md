@@ -21,7 +21,9 @@ redirect_from:
 <div id="about" markdown="1">
 
 <p class="lead">
-I am a Ph.D. candidate in the School of Artificial Intelligence & Automation at Huazhong University of Science and Technology (HUST), supervised by <a href="https://lab.bciml.cn/">Prof. Dongrui Wu</a>. My work lies at the <strong>intersection of brain–computer interfaces and machine learning</strong> for smart healthcare. I was selected for the Youth Student Fundamental Research Project from NSFC (<strong style="color:#dc2626;">国家自然科学基金博士生项目入选者</strong>) and the Young Elite Scientists Sponsorship Program-Doctoral Student Special Plan from CAST (<strong style="color:#dc2626;">中国科协青年人才培育工程-博士生专项入选者</strong>), with a total funding of 340,000 RMB (~ 48,000 USD).
+I am a Ph.D. candidate in the School of Artificial Intelligence & Automation at Huazhong University of Science and Technology (HUST), supervised by <a href="https://lab.bciml.cn/">Prof. Dongrui Wu</a>. My work lies at the <strong>intersection of brain–computer interfaces and machine learning</strong> for smart healthcare. 
+  
+I was selected for the Youth Student Fundamental Research Project from NSFC (<strong style="color:#dc2626;">国家自然科学基金博士生项目入选者</strong>) and the Young Elite Scientists Sponsorship Program-Doctoral Student Special Plan from CAST (<strong style="color:#dc2626;">中国科协青年人才培育工程-博士生专项入选者</strong>), with a total funding of 340,000 RMB (~ 48,000 USD).
 <!--I study EEG decoding under distribution shift and data scarcity, focusing on <strong>cross-species/device/modality/subject generalization</strong> and <strong>knowledge-driven brain-signal generation</strong>. Looking ahead, I am building <strong>large-scale EEG foundation models</strong> that are parameter-efficient, privacy-aware, and transferable across species, tasks, populations, and sensing modalities, with an emphasis on clinical reliability and deployment.-->
 </p>
 
