@@ -21,7 +21,7 @@ redirect_from:
 <div id="about" markdown="1">
 
 <p class="lead">
-I am a Ph.D. candidate in the School of Artificial Intelligence & Automation at Huazhong University of Science and Technology (HUST), supervised by <a href="https://lab.bciml.cn/">Prof. Dongrui Wu</a>. My work lies at the <strong>intersection of brain–computer interfaces and machine learning</strong> for smart healthcare. 
+I am pursuing a Ph.D. at Huazhong University of Science and Technology, supervised by <a href="https://lab.bciml.cn/">Prof. Dongrui Wu</a>. My research interests focus on Brain–Computer Interface, Smart Healthcare, World Model, and Machine Learning. 
 </p>
 
 <p class="lead">
