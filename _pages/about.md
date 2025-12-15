@@ -44,6 +44,7 @@ I am a Ph.D. candidate in the School of Artificial Intelligence & Automation at 
 </div>
 
 # News
+- *12 / 2025*: &nbsp; I was supported by the Youth Student Fundamental Research Project from NSFC (国家自然科学基金博士生项目), which is a grant of 300,000 RMB (~ 42,500 USD).
 - *10 / 2025*: &nbsp; Awarded <strong style="color:#dc2626;">National Scholarship (PhD)</strong>.
 - *10 / 2025*: &nbsp; Awarded <strong style="color:#dc2626;">HUST Model Student of Merit (Pacesetter)</strong> (**Highest Student Honor at HUST**). [Media coverage](https://mp.weixin.qq.com/s/euTiOZLJ2kkt3wenn1wq-A?scene=1)
 - *10 / 2025*: &nbsp; Awarded the reviewer certificate by **Springer Nature**.
