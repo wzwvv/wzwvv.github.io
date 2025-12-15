@@ -21,7 +21,8 @@ redirect_from:
 <div id="about" markdown="1">
 
 <p class="lead">
-I am a Ph.D. candidate in the School of Artificial Intelligence & Automation at Huazhong University of Science and Technology (HUST), supervised by <a href="https://lab.bciml.cn/">Prof. Dongrui Wu</a>. My work lies at the <strong>intersection of brain–computer interfaces and machine learning</strong> for smart healthcare. I study EEG decoding under distribution shift and data scarcity, focusing on <strong>cross-species/device/modality/subject generalization</strong> and <strong>knowledge-driven brain-signal generation</strong>. Looking ahead, I am building <strong>large-scale EEG foundation models</strong> that are parameter-efficient, privacy-aware, and transferable across species, tasks, populations, and sensing modalities, with an emphasis on clinical reliability and deployment.
+I am a Ph.D. candidate in the School of Artificial Intelligence & Automation at Huazhong University of Science and Technology (HUST), supervised by <a href="https://lab.bciml.cn/">Prof. Dongrui Wu</a>. My work lies at the <strong>intersection of brain–computer interfaces and machine learning</strong> for smart healthcare. I was selected for the Youth Student Fundamental Research Project from NSFC (<strong style="color:#dc2626;">国家自然科学基金博士生项目入选者</strong>) and the Young Elite Scientists Sponsorship Program-Doctoral Student Special Plan from CAST (<strong style="color:#dc2626;">中国科协青年人才培育工程-博士生专项入选者</strong>), with a total funding of 340,000 RMB (~ 48,000 USD).
+< !–I study EEG decoding under distribution shift and data scarcity, focusing on <strong>cross-species/device/modality/subject generalization</strong> and <strong>knowledge-driven brain-signal generation</strong>. Looking ahead, I am building <strong>large-scale EEG foundation models</strong> that are parameter-efficient, privacy-aware, and transferable across species, tasks, populations, and sensing modalities, with an emphasis on clinical reliability and deployment.–>
 </p>
 
 <!-- quick topics badges (inline, no extra CSS needed) -->
@@ -36,7 +37,7 @@ I am a Ph.D. candidate in the School of Artificial Intelligence & Automation at 
 <ul>
   <li><strong>Publications:</strong> To date, I have published <strong>8 first-author</strong> papers—<strong style="color:#dc2626;">5 in CAS Q1/Top journals</strong> (e.g., <em>National Science Review</em>, IF=17.1), <strong>7 co-authored papers</strong> (CAA Class-A), and hold <strong>5 PRC national invention patents</strong>.</li>
 
-  <li><strong>Honors:</strong> <strong>Two National Scholarships (PhD)</strong>; <strong> National Scholarship (Undergraduate)</strong>; <strong>Ant Group InTech Scholarship</strong> (<strong>1 of 10 worldwide</strong>); <strong>IEEE CIS Scholarship</strong> (<strong>1 of 5 worldwide</strong>); <strong>Outstanding Graduate of Hunan Province</strong>; <strong>Huanao Top-10 BCI Highlights in China</strong>; <strong>World Robot Contest–BCI</strong> National First & Second Prizes.</li>
+  <li><strong>Honors:</strong> <strong> National Scholarship ×3 (2 for PhD)</strong>; <strong>Ant Group InTech Scholarship</strong> (<strong>1 of 10 worldwide</strong>); <strong>IEEE CIS Scholarship</strong> (<strong>1 of 5 worldwide</strong>); <strong>Outstanding Graduate of Hunan Province</strong>; <strong>Huanao Top-10 BCI Highlights in China</strong>; <strong>World Robot Contest–BCI</strong> National First & Second Prizes.</li>
 
   <li><strong>Service:</strong> Long-standing reviewer for leading journals and conferences (IEEE TFS, IEEE JBHI, IEEE TNSRE, IEEE TBIOM, JNE, Scientific Reports, ICONIP 2024, ICONIP 2025, IEEE SMC 2022); recognized as <strong>IOP Trusted Reviewer</strong>.</li>
 </ul>
@@ -44,7 +45,8 @@ I am a Ph.D. candidate in the School of Artificial Intelligence & Automation at 
 </div>
 
 # News
-- *12 / 2025*: &nbsp; I was supported by the  <strong style="color:#dc2626;">Youth Student Fundamental Research Project from NSFC (国家自然科学基金博士生项目)</strong>, which is a grant of 300,000 RMB (~ 42,500 USD).
+- *12 / 2025*: &nbsp; I was supported by the <strong style="color:#dc2626;">Young Elite Scientists Sponsorship Program-Doctoral Student Special Plan by CAST (中国科协青年人才培育工程-博士生专项)</strong>, which is a grant of 40,000 RMB (~ 5,600 USD).
+- *12 / 2025*: &nbsp; I was supported by the <strong style="color:#dc2626;">Youth Student Fundamental Research Project from NSFC (国家自然科学基金博士生项目)</strong>, which is a grant of 300,000 RMB (~ 42,500 USD).
 - *10 / 2025*: &nbsp; Awarded <strong style="color:#dc2626;">National Scholarship (PhD)</strong>.
 - *10 / 2025*: &nbsp; Awarded <strong style="color:#dc2626;">HUST Model Student of Merit (Pacesetter)</strong> (**Highest Student Honor at HUST**). [Media coverage](https://mp.weixin.qq.com/s/euTiOZLJ2kkt3wenn1wq-A?scene=1)
 - *10 / 2025*: &nbsp; Awarded the reviewer certificate by **Springer Nature**.
