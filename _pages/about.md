@@ -41,7 +41,7 @@ I was selected for the Youth Student Fundamental Research Project from NSFC (<st
 <ul>
   <li><strong>Publications:</strong> To date, I have published <strong>8 first-author</strong> papers—<strong style="color:#dc2626;">5 in CAS Q1/Top journals</strong> (e.g., <em>National Science Review</em>, IF=17.1), <strong>7 co-authored papers</strong> (CAA Class-A), and hold <strong>5 PRC national invention patents</strong>.</li>
 
-  <li><strong>Honors:</strong> <strong> National Scholarship ×3 (2 for PhD)</strong>; <strong>Ant Group InTech Scholarship</strong> (1 of 10 worldwide); <strong>IEEE CIS Scholarship</strong> (1 of 5 worldwide); <strong>Outstanding Graduate of Hunan Province</strong>; Huanao Top-10 BCI Highlights in China; World Robot Contest–BCI National First & Second Prizes.</li>
+  <li><strong>Honors:</strong> <strong> National Scholarship ×3 (2 for PhD)</strong>; Ant Group InTech Scholarship (<strong>1 of 10 worldwide<strong>); IEEE CIS Scholarship (<strong>1 of 5 worldwide<strong>); Merit student Pacesetter (<strong>Highest Student Honor at HUST<strong>), <strong>Outstanding Graduate of Hunan Province</strong>; Huanao Top-10 BCI Highlights in China; World Robot Contest–BCI National First & Second Prizes.</li>
 
   <li><strong>Service:</strong> Long-standing reviewer for leading journals and conferences (IEEE TFS, IEEE JBHI, IEEE TNSRE, IEEE TBIOM, JNE, Scientific Reports, ICONIP 2024, ICONIP 2025, IEEE SMC 2022); recognized as <strong>IOP Trusted Reviewer</strong>.</li>
 </ul>
@@ -52,7 +52,7 @@ I was selected for the Youth Student Fundamental Research Project from NSFC (<st
 - *12 / 2025*: &nbsp; I was supported by the Young Elite Scientists Sponsorship Program-Doctoral Student Special Plan by CAST (<strong style="color:#dc2626;">中国科协青年人才培育工程-博士生专项</strong>), which is a grant of 40,000 RMB (~ 5,600 USD).
 - *12 / 2025*: &nbsp; I was supported by the Youth Student Fundamental Research Project from NSFC (<strong style="color:#dc2626;">国家自然科学基金博士生项目</strong>), which is a grant of 300,000 RMB (~ 42,500 USD).
 - *10 / 2025*: &nbsp; Awarded <strong style="color:#dc2626;">National Scholarship (PhD)</strong>.
-- *10 / 2025*: &nbsp; Awarded <strong style="color:#dc2626;">HUST Model Student of Merit (Pacesetter)</strong> (**Highest Student Honor at HUST**). [Media coverage](https://mp.weixin.qq.com/s/TWtBHEq5u_VMCQzgyAZs-g), [Media coverage](https://mp.weixin.qq.com/s/euTiOZLJ2kkt3wenn1wq-A?scene=1)
+- *10 / 2025*: &nbsp; Awarded <strong style="color:#dc2626;">Merit student Pacesetter</strong> (**Highest Student Honor at HUST**). [Media coverage](https://mp.weixin.qq.com/s/TWtBHEq5u_VMCQzgyAZs-g), [Media coverage](https://mp.weixin.qq.com/s/euTiOZLJ2kkt3wenn1wq-A?scene=1)
 - *10 / 2025*: &nbsp; Awarded the reviewer certificate by **Springer Nature**.
 - *10 / 2025*: &nbsp; [**DBConformer**](https://ieeexplore.ieee.org/document/11215634) has been **accepted** by the IEEE Journal of Biomedical and Health Informatics (CAS Q1/Top, JCR Q1, IF=6.8).
 - *10 / 2025*: &nbsp; [**MVCNet**](https://www.sciencedirect.com/science/article/pii/S0950705125012468) has been **accepted** by the Knowledge-Based Systems (CAS Q1/Top, JCR Q1, IF=7.3).
