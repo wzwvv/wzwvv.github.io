@@ -49,6 +49,7 @@ I was selected for the Youth Student Fundamental Research Project from NSFC (<st
 </div>
 
 # News
+- *12 / 2025*: &nbsp; Poster at **SAAC 2025**; Wuhan, China.
 - *12 / 2025*: &nbsp; I was supported by the Young Elite Scientists Sponsorship Program-Doctoral Student Special Plan by CAST (<strong style="color:#dc2626;">中国科协青年人才培育工程-博士生专项</strong>), which is a grant of 40,000 RMB (~ 5,600 USD).
 - *12 / 2025*: &nbsp; I was supported by the Youth Student Fundamental Research Project from NSFC (<strong style="color:#dc2626;">国家自然科学基金博士生项目</strong>), which is a grant of 300,000 RMB (~ 42,500 USD).
 - *10 / 2025*: &nbsp; Awarded <strong style="color:#dc2626;">National Scholarship (PhD)</strong>.
@@ -63,7 +64,7 @@ I was selected for the Youth Student Fundamental Research Project from NSFC (<st
 - *02 / 2025*: &nbsp; [**CSDA**](https://www.sciencedirect.com/science/article/pii/S0950705125001212) has been **accepted** by the Knowledge-Based Systems (CAS Q1/Top, JCR Q1, IF=7.3).
 - *12 / 2024*: &nbsp; Awarded **IOP Trusted Reviewer**.
 - *12 / 2024*: &nbsp; Poster at **First China Brain–Computer Intelligence Conference**; Hangzhou, China.
-- *12 / 2024*: &nbsp; Poster at **SAAC 2025**; Wuhan, China.
+- *12 / 2024*: &nbsp; Poster at **SAAC 2024**; Wuhan, China.
 - *10 / 2024*: &nbsp; Awarded <strong style="color:#dc2626;">National Scholarship (PhD)</strong>.
 - *09 / 2024*: &nbsp; Oral at **Alibaba Cloud Yunqi Conference** (AI for Science showcase); Hangzhou, China. [Media coverage](https://mp.weixin.qq.com/s/lJsdU3i5ZfsIrgZKIVH_ag)
 - *08 / 2024*: &nbsp; Awarded <strong style="color:#dc2626;">Huanao Top-10 BCI Highlights in China</strong>.
@@ -286,7 +287,8 @@ X. Chen, S. Li, Y. Tu, **Z. Wang**, and D. Wu*, *Journal of Neural Engineering*,
 - *05 / 2025*, **China Systems Science Conference (CSSC)** — **Oral**: *Cross-species & cross-modality seizure detection via multi-space alignment*; Kunming, China.
 - *12 / 2024*, **First China Brain–Computer Intelligence Conference** — **Poster**: *Channel reflection: Knowledge-driven data augmentation for EEG-based BCIs*; Hangzhou, China.
 - *09 / 2024*, **Alibaba Cloud Yunqi Conference** (AI for Science showcase) — **Oral**: *EEG-based automatic seizure detection*; Hangzhou, China.
-- *12 / 2024*, **SAAC 2025** — **Poster**: *Channel reflection: Knowledge-driven data augmentation for EEG-based BCIs*; Wuhan, China.
+- *12 / 2024*, **SAAC 2024** — **Poster**: *Channel reflection: Knowledge-driven data augmentation for EEG-based BCIs*; Wuhan, China.
+- *12 / 2025*, **SAAC 2025** — **Poster**: *DBConformer: Dual-Branch Convolutional Transformer for EEG Decoding*; Wuhan, China.
 
 # Internships
 - *10 / 2022 - 04 / 2023*, [Alibaba Cloud](https://www.alibabacloud.com/), China.
