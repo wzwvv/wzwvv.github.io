@@ -39,7 +39,7 @@ I was selected for the Youth Student Fundamental Research Project from NSFC (<st
 </div>
 
 <ul>
-  <li><strong>Publications:</strong> To date, I have published <strong>8 first-author</strong> papers—<strong style="color:#dc2626;">5 in CAS Q1/Top journals</strong> (e.g., <em>National Science Review</em>, IF=17.1), <strong>7 co-authored papers</strong> (CAA Class-A), and hold <strong>5 PRC national invention patents</strong>.</li>
+  <li><strong>Publications:</strong> To date, I have published <strong>8 first-author</strong> papers—<strong style="color:#dc2626;">5 in CAS Q1/Top journals</strong> (e.g., <em>National Science Review</em>, IF=17.1), <strong>8 co-authored papers</strong> (CAA Class-A), and hold <strong>5 PRC national invention patents</strong>.</li>
 
   <li><strong>Honors:</strong> <strong>National Scholarship×3</strong> (2 for PhD); Ant Group InTech Scholarship (<strong>1 of 10 worldwide</strong>); IEEE CIS Scholarship (<strong>1 of 5 worldwide</strong>); Merit student Pacesetter (<strong>Highest Student Honor at HUST</strong>); Outstanding Graduate of Hunan Province; Huanao Top-10 BCI Highlights in China; World Robot Contest–BCI National First & Second Prizes.</li>
 
@@ -49,6 +49,8 @@ I was selected for the Youth Student Fundamental Research Project from NSFC (<st
 </div>
 
 # News
+- *2 / 2026*: &nbsp; PGAP has been **accepted** by the IEEE CIM (IF=11.2).
+- *1 / 2026*: &nbsp; [SML-OVR](https://ieeexplore.ieee.org/abstract/document/11353100) has been **published** by the IEEE CIM (IF=11.2).
 - *12 / 2025*: &nbsp; Poster at **SAAC 2025**; Wuhan, China.
 - *12 / 2025*: &nbsp; I was supported by the Young Elite Scientists Sponsorship Program-Doctoral Student Special Plan by CAST (<strong style="color:#dc2626;">中国科协青年人才培育工程-博士生专项</strong>), which is a grant of 40,000 RMB (~ 5,600 USD).
 - *12 / 2025*: &nbsp; I was supported by the Youth Student Fundamental Research Project from NSFC (<strong style="color:#dc2626;">国家自然科学基金博士生项目</strong>), which is a grant of 300,000 RMB (~ 42,500 USD).
@@ -177,15 +179,27 @@ Cross-species and cross-modality epileptic seizure detection via multi-space ali
 </div>
 </div>
 
-<!-- IEEE CIM 2025 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE CIM 2025</div><img src='images/SML_CIM2025.png' alt="cim-2025-sml" width="100%"></div></div>
+<!-- IEEE CIM 2026 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE CIM 2026</div><img src='images/PGAP_CIM2026.png' alt="cim-2026-pgap" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+PGAP: Purity-Guided Active Prompting for EEG Decoding with LLMs
+
+J. Luo, **Z. Wang**, D. Liu, and D. Wu\*, *IEEE Computational Intelligence Magazine*, in press, 2026. (**JCR Q1** journal, IF=11.2)
+
+[Code](https://github.com/jingweiluo/PGAP)
+</div>
+</div>
+
+<!-- IEEE CIM 2026 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE CIM 2026</div><img src='images/SML_CIM2025.png' alt="cim-2026-sml" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Black-Box Test-Time Ensemble
 
-S. Li, **Z. Wang**, C. Liu, and D. Wu\*, *IEEE Computational Intelligence Magazine*, early access, 2025. (**JCR Q1** journal)
+S. Li, **Z. Wang**, C. Liu, and D. Wu\*, *IEEE Computational Intelligence Magazine*, vol. 21, no. 2, pp. 57-68, 2026. (**JCR Q1** journal, IF=11.2)
 
-[Code](https://github.com/sylyoung/TestEnsemble)
+[Paper](https://ieeexplore.ieee.org/abstract/document/11353100)|[Code](https://github.com/sylyoung/TestEnsemble)
 </div>
 </div>
 
