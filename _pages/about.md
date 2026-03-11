@@ -43,7 +43,7 @@ I was selected for the Youth Student Fundamental Research Project from NSFC (<st
 
   <li><strong>Honors:</strong> <strong>National Scholarship×3</strong> (2 for PhD); Ant Group InTech Scholarship (<strong>1 of 10 worldwide</strong>); IEEE CIS Scholarship (<strong>1 of 5 worldwide</strong>); Merit student Pacesetter (<strong>Highest Student Honor at HUST</strong>); Outstanding Graduate of Hunan Province; Huanao Top-10 BCI Highlights in China; World Robot Contest–BCI National First & Second Prizes.</li>
 
-  <li><strong>Service:</strong> Long-standing reviewer for leading journals and conferences (IEEE TFS, IEEE JBHI, IEEE TNSRE, IEEE TBIOM, JNE, Scientific Reports, ICONIP 2024, ICONIP 2025, IEEE SMC 2022); recognized as <strong>IOP Trusted Reviewer</strong>.</li>
+  <li><strong>Service:</strong> Long-standing reviewer for leading journals and conferences (IEEE TFS, IEEE JBHI, IEEE TNSRE, KBS, IEEE TBIOM, JNE, Scientific Reports, ICONIP 2024, ICONIP 2025, IEEE SMC 2022); recognized as <strong>IOP Trusted Reviewer</strong>.</li>
 </ul>
 
 </div>
