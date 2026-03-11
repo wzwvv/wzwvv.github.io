@@ -50,8 +50,8 @@ I was selected for the Youth Student Fundamental Research Project from NSFC (<st
 
 # News
 - *2 / 2026*: &nbsp; Selected for the **Top 10 Advances in Brain–Computer Interfaces in China (Huanau Award)**.
-- *2 / 2026*: &nbsp; PGAP has been **accepted** by the IEEE CIM (IF=11.2).
-- *1 / 2026*: &nbsp; [SML-OVR](https://ieeexplore.ieee.org/abstract/document/11353100) has **published** on the IEEE CIM (IF=11.2).
+- *2 / 2026*: &nbsp; PGAP has been **accepted** by the IEEE CIM (JCR Q1, IF=11.2).
+- *1 / 2026*: &nbsp; [SML-OVR](https://ieeexplore.ieee.org/abstract/document/11353100) has **published** on the IEEE CIM (JCR Q1, IF=11.2).
 - *12 / 2025*: &nbsp; Poster at **SAAC 2025**; Wuhan, China.
 - *12 / 2025*: &nbsp; I was supported by the Young Elite Scientists Sponsorship Program-Doctoral Student Special Plan by CAST (<strong style="color:#dc2626;">中国科协青年人才培育工程-博士生专项</strong>), which is a grant of 40,000 RMB (~ 5,600 USD).
 - *12 / 2025*: &nbsp; I was supported by the Youth Student Fundamental Research Project from NSFC (<strong style="color:#dc2626;">国家自然科学基金博士生项目</strong>), which is a grant of 300,000 RMB (~ 42,500 USD).
