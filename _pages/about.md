@@ -48,6 +48,8 @@ I was selected for the Youth Student Fundamental Research Project from NSFC (<st
 
 </div>
 
+<span class='anchor' id='news'></span>
+
 # News
 - *2 / 2026*: &nbsp; Selected for the **Top 10 Advances in Brain–Computer Interfaces in China (Huanau Award)**.
 - *2 / 2026*: &nbsp; PGAP has been **accepted** by the IEEE CIM (JCR Q1, IF=11.2).
