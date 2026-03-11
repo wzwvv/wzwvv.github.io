@@ -277,7 +277,7 @@ X. Chen, S. Li, Y. Tu, **Z. Wang**, and D. Wu*, *Journal of Neural Engineering*,
 </div>
 
 # Honors and Awards
-- *02 / 2026* <strong style="color:#dc2626;">**Top 10 Advances in Brain–Computer Interfaces in China (Huanau Award)**; Haihe Laboratory of BCI & HMI (provincial–ministerial joint platform)
+- *02 / 2026* <strong style="color:#dc2626;">Top 10 Advances in Brain–Computer Interfaces in China (Huanau Award)</strong>; Haihe Laboratory of BCI & HMI (provincial–ministerial joint platform)
 - *09 / 2025* <strong style="color:#dc2626;">Ant Group InTech Scholarship</strong> (**10 Awardees Worldwide; 2 in Digital Medicine**); Ant Group / Ant Science and Technology Award
 - *10 / 2025* <strong style="color:#dc2626;">National Scholarship (PhD)</strong>; Ministry of Education of the People’s Republic of China
 - *10 / 2024* <strong style="color:#dc2626;">National Scholarship (PhD)</strong>; Ministry of Education of the People’s Republic of China
@@ -286,7 +286,7 @@ X. Chen, S. Li, Y. Tu, **Z. Wang**, and D. Wu*, *Journal of Neural Engineering*,
 - *05 / 2021* <strong style="color:#dc2626;">Outstanding Graduate of Hunan Province</strong>; Hunan Provincial Department of Education
 - *02 / 2022* <strong style="color:#dc2626;">IEEE Computational Intelligence Society Scholarship</strong> (**5 Awardees Worldwide**); IEEE Computational Intelligence Society
 - *08 / 2023* <strong style="color:#dc2626;">National First Prize</strong> in World Robot Contest — BCI; Chinese Institute of Electronics
-- *08 / 2024* <strong style="color:#dc2626;">**Top 10 Highlights in Brain–Computer Interfaces in China (Huanau Award)**; Haihe Laboratory of BCI & HMI (provincial–ministerial joint platform)
+- *08 / 2024* <strong style="color:#dc2626;">Top 10 Highlights in Brain–Computer Interfaces in China (Huanau Award)</strong>; Haihe Laboratory of BCI & HMI (provincial–ministerial joint platform)
 - *08 / 2025* **National Second Prize** in World Robot Contest — BCI; Chinese Institute of Electronics
 - *09 / 2021* **National Second Prize** in World Robot Contest — BCI; Chinese Institute of Electronics
 - *12 / 2024* **IOP Trusted Reviewer**; Institute of Physics (IOP Publishing)
