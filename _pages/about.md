@@ -280,9 +280,9 @@ X. Chen, S. Li, Y. Tu, **Z. Wang**, and D. Wu*, *Journal of Neural Engineering*,
 </div>
 </div>
 
-<span class='anchor' id='honors'></span>
+<span class='anchor' id='awards'></span>
 
-# Honors and Awards
+# Awards
 - *09 / 2025* <strong style="color:#dc2626;">Ant Group InTech Scholarship</strong> (**10 Awardees Worldwide; 2 in Digital Medicine**); Ant Group / Ant Science and Technology Award
 - *10 / 2025* <strong style="color:#dc2626;">National Scholarship (PhD)</strong>; Ministry of Education of the People’s Republic of China
 - *10 / 2024* <strong style="color:#dc2626;">National Scholarship (PhD)</strong>; Ministry of Education of the People’s Republic of China
