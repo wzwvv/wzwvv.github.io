@@ -48,8 +48,9 @@ I was selected for the Youth Student Fundamental Research Project from NSFC (<st
 
 </div>
 
+<span class='anchor' id='news'></span>
 
-# News{#news}
+# News
 - *2 / 2026*: &nbsp; Selected for the **Top 10 Advances in Brain–Computer Interfaces in China (Huanau Award)**.
 - *2 / 2026*: &nbsp; PGAP has been **accepted** by the IEEE CIM (JCR Q1, IF=11.2).
 - *1 / 2026*: &nbsp; [SML-OVR](https://ieeexplore.ieee.org/abstract/document/11353100) has **published** on the IEEE CIM (JCR Q1, IF=11.2).
@@ -83,7 +84,9 @@ I was selected for the Youth Student Fundamental Research Project from NSFC (<st
 - *12 / 2020*: &nbsp; Awarded <strong style="color:#dc2626;">National Scholarship (Undergraduate)</strong>.
 - *12 / 2020*: &nbsp; Awarded <strong style="color:#dc2626;">Special Scholarship (Highest Scholarship at CSU)</strong>.
 
-# Publications {#publications}
+<span class='anchor' id='publications'></span>
+
+# Publications
 
 <!-- NSR 2025 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NSR 2025</div><img src='images/CST.png' alt="nsr-2025" width="100%"></div></div>
@@ -277,7 +280,9 @@ X. Chen, S. Li, Y. Tu, **Z. Wang**, and D. Wu*, *Journal of Neural Engineering*,
 </div>
 </div>
 
-# Honors and Awards{#honors}
+<span class='anchor' id='honors'></span>
+
+# Honors and Awards
 - *09 / 2025* <strong style="color:#dc2626;">Ant Group InTech Scholarship</strong> (**10 Awardees Worldwide; 2 in Digital Medicine**); Ant Group / Ant Science and Technology Award
 - *10 / 2025* <strong style="color:#dc2626;">National Scholarship (PhD)</strong>; Ministry of Education of the People’s Republic of China
 - *10 / 2024* <strong style="color:#dc2626;">National Scholarship (PhD)</strong>; Ministry of Education of the People’s Republic of China
@@ -294,11 +299,15 @@ X. Chen, S. Li, Y. Tu, **Z. Wang**, and D. Wu*, *Journal of Neural Engineering*,
 - *05 / 2021* **Outstanding Graduate**; Central South University
 - *12 / 2020* **Special Scholarship (Top Award)**; Central South University
 
-# Education{#education}
+<span class='anchor' id='education'></span>
+
+# Education
 - *09 / 2021 - now*, Ph.D. (MS–Ph.D. program), **Huazhong University of Science and Technology**, Intelligent Science & Technology
 - *09 / 2017 - 06 / 2021*, B.Eng., **Central South University**, Measurement, Control Technology & Instruments 
 
-# Invited Talks{#talks}
+<span class='anchor' id='talks'></span>
+
+# Invited Talks
 - *11 / 2023*, **ICONIP 2023 — Tutorial**: *Transfer learning for EEG-based brain–computer interfaces: A tutorial*; Changsha, China.
 - *05 / 2025*, **China Systems Science Conference (CSSC)** — **Oral**: *Cross-species & cross-modality seizure detection via multi-space alignment*; Kunming, China.
 - *12 / 2024*, **First China Brain–Computer Intelligence Conference** — **Poster**: *Channel reflection: Knowledge-driven data augmentation for EEG-based BCIs*; Hangzhou, China.
@@ -306,7 +315,9 @@ X. Chen, S. Li, Y. Tu, **Z. Wang**, and D. Wu*, *Journal of Neural Engineering*,
 - *12 / 2024*, **SAAC 2024** — **Poster**: *Channel reflection: Knowledge-driven data augmentation for EEG-based BCIs*; Wuhan, China.
 - *12 / 2025*, **SAAC 2025** — **Poster**: *DBConformer: Dual-Branch Convolutional Transformer for EEG Decoding*; Wuhan, China.
 
-# Internships{#internships}
+<span class='anchor' id='internships'></span>
+
+# Internships
 - *10 / 2022 - 04 / 2023*, [Alibaba Cloud](https://www.alibabacloud.com/), China.
   - **Anomaly-aware data augmentation:** designing **five augmentation operators** leveraging **N-grams** and **TF-IDF** to augment positive-class samples, increasing data availability and improving the **generalization** of fault-detection models.
   - **Long-sequence forecasting with Transformer:** Quantified anomaly-feature importance to identify **salient/sparse queries**, and designed a **SparseAttention** module to handle long sequences more efficiently.
