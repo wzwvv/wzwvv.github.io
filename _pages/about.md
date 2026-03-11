@@ -49,7 +49,7 @@ I was selected for the Youth Student Fundamental Research Project from NSFC (<st
 </div>
 
 # News
-- *2 / 2026*: &nbsp; Selected for the Top 10 Advances in Brain–Computer Interfaces in China (Huanau Award).
+- *2 / 2026*: &nbsp; Selected for the **Top 10 Advances in Brain–Computer Interfaces in China (Huanau Award)**.
 - *2 / 2026*: &nbsp; PGAP has been **accepted** by the IEEE CIM (IF=11.2).
 - *1 / 2026*: &nbsp; [SML-OVR](https://ieeexplore.ieee.org/abstract/document/11353100) has **published** on the IEEE CIM (IF=11.2).
 - *12 / 2025*: &nbsp; Poster at **SAAC 2025**; Wuhan, China.
@@ -70,7 +70,7 @@ I was selected for the Youth Student Fundamental Research Project from NSFC (<st
 - *12 / 2024*: &nbsp; Poster at **SAAC 2024**; Wuhan, China.
 - *10 / 2024*: &nbsp; Awarded <strong style="color:#dc2626;">National Scholarship (PhD)</strong>.
 - *09 / 2024*: &nbsp; Oral at **Alibaba Cloud Yunqi Conference** (AI for Science showcase); Hangzhou, China. [Media coverage](https://mp.weixin.qq.com/s/lJsdU3i5ZfsIrgZKIVH_ag)
-- *08 / 2024*: &nbsp; Selected for the “Top 10 Highlights in Brain–Computer Interfaces in China (Huanau Award)”.
+- *08 / 2024*: &nbsp; Selected for the **Top 10 Highlights in Brain–Computer Interfaces in China (Huanau Award)**.
 - *04 / 2024*: &nbsp; [**CR**](https://www.sciencedirect.com/science/article/pii/S0893608024002752) has been **accepted** by the Neural Networks (CAS Q1/Top, JCR Q1, IF=6.3).
 - *11 / 2023*: &nbsp; **ICONIP Tutorial**: *Transfer Learning for EEG-based Brain–Computer Interfaces*; Changsha, China.
 - *10 / 2023*: &nbsp; [**TASA-SDS**](https://www.sciencedirect.com/science/article/pii/S0950705125012468) has been **accepted** by the Journal of Neural Engineering (CAA A, Top journal in BCI).
@@ -277,7 +277,7 @@ X. Chen, S. Li, Y. Tu, **Z. Wang**, and D. Wu*, *Journal of Neural Engineering*,
 </div>
 
 # Honors and Awards
-- *02 / 2026* <strong style="color:#dc2626;">Top 10 Advances in Brain–Computer Interfaces in China (Huanau Award); Haihe Laboratory of BCI & HMI (provincial–ministerial joint platform)
+- *02 / 2026* <strong style="color:#dc2626;">**Top 10 Advances in Brain–Computer Interfaces in China (Huanau Award)**; Haihe Laboratory of BCI & HMI (provincial–ministerial joint platform)
 - *09 / 2025* <strong style="color:#dc2626;">Ant Group InTech Scholarship</strong> (**10 Awardees Worldwide; 2 in Digital Medicine**); Ant Group / Ant Science and Technology Award
 - *10 / 2025* <strong style="color:#dc2626;">National Scholarship (PhD)</strong>; Ministry of Education of the People’s Republic of China
 - *10 / 2024* <strong style="color:#dc2626;">National Scholarship (PhD)</strong>; Ministry of Education of the People’s Republic of China
@@ -286,7 +286,7 @@ X. Chen, S. Li, Y. Tu, **Z. Wang**, and D. Wu*, *Journal of Neural Engineering*,
 - *05 / 2021* <strong style="color:#dc2626;">Outstanding Graduate of Hunan Province</strong>; Hunan Provincial Department of Education
 - *02 / 2022* <strong style="color:#dc2626;">IEEE Computational Intelligence Society Scholarship</strong> (**5 Awardees Worldwide**); IEEE Computational Intelligence Society
 - *08 / 2023* <strong style="color:#dc2626;">National First Prize</strong> in World Robot Contest — BCI; Chinese Institute of Electronics
-- *08 / 2024* <strong style="color:#dc2626;">Top 10 Highlights in Brain–Computer Interfaces in China (Huanau Award); Haihe Laboratory of BCI & HMI (provincial–ministerial joint platform)
+- *08 / 2024* <strong style="color:#dc2626;">**Top 10 Highlights in Brain–Computer Interfaces in China (Huanau Award)**; Haihe Laboratory of BCI & HMI (provincial–ministerial joint platform)
 - *08 / 2025* **National Second Prize** in World Robot Contest — BCI; Chinese Institute of Electronics
 - *09 / 2021* **National Second Prize** in World Robot Contest — BCI; Chinese Institute of Electronics
 - *12 / 2024* **IOP Trusted Reviewer**; Institute of Physics (IOP Publishing)
