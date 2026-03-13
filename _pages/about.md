@@ -25,7 +25,7 @@ I am pursuing a Ph.D. at Huazhong University of Science and Technology, supervis
 </p>
 
 <p class="lead">
-I was selected for the Youth Student Fundamental Research Project from NSFC (<strong style="color:#dc2626;">国家自然科学基金博士生项目入选者</strong>) and the Young Elite Scientists Sponsorship Program-Doctoral Student Special Plan from CAST (<strong style="color:#dc2626;">中国科协青年人才培育工程-博士生专项入选者</strong>), with a total funding of 340,000 RMB (~ 48,000 USD).
+I was selected for the Youth Student Fundamental Research Project from NSFC (<strong style="color:#dc2626;">国家自然科学基金博士生项目入选者</strong>) and the Doctoral Student Program of the Young S&T Talents Cultivation Project from CAST (<strong style="color:#dc2626;">中国科协青年人才培育工程-博士生专项入选者</strong>), with a total funding of 340,000 RMB (~ 48,000 USD).
 </p>
 <!--I study EEG decoding under distribution shift and data scarcity, focusing on <strong>cross-species/device/modality/subject generalization</strong> and <strong>knowledge-driven brain-signal generation</strong>. Looking ahead, I am building <strong>large-scale EEG foundation models</strong> that are parameter-efficient, privacy-aware, and transferable across species, tasks, populations, and sensing modalities, with an emphasis on clinical reliability and deployment.-->
 
@@ -55,7 +55,7 @@ I was selected for the Youth Student Fundamental Research Project from NSFC (<st
 - *2 / 2026*: &nbsp; PGAP has been **accepted** by the IEEE CIM (JCR Q1, IF=11.2).
 - *1 / 2026*: &nbsp; [SML-OVR](https://ieeexplore.ieee.org/abstract/document/11353100) has **published** on the IEEE CIM (JCR Q1, IF=11.2).
 - *12 / 2025*: &nbsp; Poster at **SAAC 2025**; Wuhan, China.
-- *12 / 2025*: &nbsp; I was supported by the Young Elite Scientists Sponsorship Program-Doctoral Student Special Plan by CAST (<strong style="color:#dc2626;">中国科协青年人才培育工程-博士生专项</strong>), which is a grant of 40,000 RMB (~ 5,600 USD).
+- *12 / 2025*: &nbsp; I was supported by the Doctoral Student Program of the Young S&T Talents Cultivation Project from CAST (<strong style="color:#dc2626;">中国科协青年人才培育工程-博士生专项</strong>), which is a grant of 40,000 RMB (~ 5,600 USD).
 - *12 / 2025*: &nbsp; I was supported by the Youth Student Fundamental Research Project from NSFC (<strong style="color:#dc2626;">国家自然科学基金博士生项目</strong>), which is a grant of 300,000 RMB (~ 42,500 USD).
 - *10 / 2025*: &nbsp; Awarded <strong style="color:#dc2626;">National Scholarship (PhD)</strong>.
 - *10 / 2025*: &nbsp; Awarded <strong style="color:#dc2626;">Merit student Pacesetter</strong> (Highest Student Honor at HUST). [Media coverage](https://mp.weixin.qq.com/s/TWtBHEq5u_VMCQzgyAZs-g), [Media coverage](https://mp.weixin.qq.com/s/euTiOZLJ2kkt3wenn1wq-A?scene=1)
