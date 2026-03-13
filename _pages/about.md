@@ -55,27 +55,27 @@ I was selected for the Youth Student Fundamental Research Project from NSFC (<st
 - *2 / 2026*: &nbsp; PGAP has been accepted by the **IEEE CIM** (JCR Q1, IF=11.2).
 - *1 / 2026*: &nbsp; [SML-OVR](https://ieeexplore.ieee.org/abstract/document/11353100) has published on the **IEEE CIM** (JCR Q1, IF=11.2).
 - *12 / 2025*: &nbsp; Poster at **SAAC 2025**; Wuhan, China.
-- *12 / 2025*: &nbsp; I was supported by the Doctoral Student Program of the Young S&T Talents Cultivation Project from CAST (<strong style="color:#dc2626;">中国科协青年人才培育工程-博士生专项</strong>), which is a grant of 40,000 RMB (~ 5,600 USD).
-- *12 / 2025*: &nbsp; I was supported by the Youth Student Fundamental Research Project from NSFC (<strong style="color:#dc2626;">国家自然科学基金博士生项目</strong>), which is a grant of 300,000 RMB (~ 42,500 USD).
+- *12 / 2025*: &nbsp; I was supported by the **Doctoral Student Program of the Young S&T Talents Cultivation Project from CAST** (<strong style="color:#dc2626;">中国科协青年人才培育工程-博士生专项</strong>), which is a grant of 40,000 RMB (~ 5,600 USD).
+- *12 / 2025*: &nbsp; I was supported by the **Youth Student Fundamental Research Project from NSFC** (<strong style="color:#dc2626;">国家自然科学基金博士生项目</strong>), which is a grant of 300,000 RMB (~ 42,500 USD).
 - *10 / 2025*: &nbsp; Awarded <strong style="color:#dc2626;">National Scholarship (PhD)</strong>.
 - *10 / 2025*: &nbsp; Awarded <strong style="color:#dc2626;">Merit student Pacesetter</strong> (Highest Student Honor at HUST). [Media coverage](https://mp.weixin.qq.com/s/TWtBHEq5u_VMCQzgyAZs-g), [Media coverage](https://mp.weixin.qq.com/s/euTiOZLJ2kkt3wenn1wq-A?scene=1)
 - *10 / 2025*: &nbsp; Awarded the reviewer certificate by **Springer Nature**.
-- *10 / 2025*: &nbsp; [**DBConformer**](https://ieeexplore.ieee.org/document/11215634) has been **accepted** by the IEEE Journal of Biomedical and Health Informatics (CAS Q1/Top, JCR Q1, IF=6.8).
-- *10 / 2025*: &nbsp; [**MVCNet**](https://www.sciencedirect.com/science/article/pii/S0950705125012468) has been **accepted** by the Knowledge-Based Systems (CAS Q1/Top, JCR Q1, IF=7.3).
+- *10 / 2025*: &nbsp; [**DBConformer**](https://ieeexplore.ieee.org/document/11215634) has been accepted by the **IEEE JBHI** (CAS Q1/Top, JCR Q1, IF=6.8).
+- *10 / 2025*: &nbsp; [**MVCNet**](https://www.sciencedirect.com/science/article/pii/S0950705125012468) has been accepted by the **KBS** (CAS Q1/Top, JCR Q1, IF=7.3).
 - *09 / 2025*: &nbsp; Awarded <strong style="color:#dc2626;">Ant Group InTech Scholarship</strong> (**1 of 10 Worldwide; 2 in Digital Medicine**). [Zhejiang Daily](https://zjrb.zjol.com.cn/html/2025-09/14/content_3851946.htm?div=-1), [Ant Group](https://mp.weixin.qq.com/s/pALzvWcTkthtOgQeR8K3Yw), [Media coverage](https://aia.hust.edu.cn/info/1524/10644.htm)
 - *08 / 2025*: &nbsp; **National Second Prize** in World Robot Contest—Brain Controlled Robot Contest.
-- *05 / 2025*: &nbsp; Oral at **China Systems Science Conference 2025**; Kunming, China.
-- *03 / 2025*: &nbsp; [**CST**](https://academic.oup.com/nsr/article/12/6/nwaf086/8052010?login=true) has been **accepted** by the <strong style="color:#dc2626;">National Science Review (IF=17.1)</strong>. [EurekAlert](https://www.eurekalert.org/news-releases/1079947), [Media coverage](https://mp.weixin.qq.com/s/41BTiP_SJ3_5UuKTy1U4nA)
-- *02 / 2025*: &nbsp; [**CSDA**](https://www.sciencedirect.com/science/article/pii/S0950705125001212) has been **accepted** by the Knowledge-Based Systems (CAS Q1/Top, JCR Q1, IF=7.3).
+- *05 / 2025*: &nbsp; Oral at **CSSC 2025**; Kunming, China.
+- *03 / 2025*: &nbsp; [**CST**](https://academic.oup.com/nsr/article/12/6/nwaf086/8052010?login=true) has been accepted by the <strong style="color:#dc2626;">National Science Review (IF=17.1)</strong>. [EurekAlert](https://www.eurekalert.org/news-releases/1079947), [Media coverage](https://mp.weixin.qq.com/s/41BTiP_SJ3_5UuKTy1U4nA)
+- *02 / 2025*: &nbsp; [**CSDA**](https://www.sciencedirect.com/science/article/pii/S0950705125001212) has been accepted by the **KBS** (CAS Q1/Top, JCR Q1, IF=7.3).
 - *12 / 2024*: &nbsp; Awarded **IOP Trusted Reviewer**.
 - *12 / 2024*: &nbsp; Poster at **First China Brain–Computer Intelligence Conference**; Hangzhou, China.
 - *12 / 2024*: &nbsp; Poster at **SAAC 2024**; Wuhan, China.
 - *10 / 2024*: &nbsp; Awarded <strong style="color:#dc2626;">National Scholarship (PhD)</strong>.
 - *09 / 2024*: &nbsp; Oral at **Alibaba Cloud Yunqi Conference** (AI for Science showcase); Hangzhou, China. [Media coverage](https://mp.weixin.qq.com/s/lJsdU3i5ZfsIrgZKIVH_ag)
 - *08 / 2024*: &nbsp; Selected for the **Top 10 Highlights in Brain–Computer Interfaces in China (Huanau Award)**.
-- *04 / 2024*: &nbsp; [**CR**](https://www.sciencedirect.com/science/article/pii/S0893608024002752) has been **accepted** by the Neural Networks (CAS Q1/Top, JCR Q1, IF=6.3).
+- *04 / 2024*: &nbsp; [**CR**](https://www.sciencedirect.com/science/article/pii/S0893608024002752) has been accepted by the **Neural Networks** (CAS Q1/Top, JCR Q1, IF=6.3).
 - *11 / 2023*: &nbsp; **ICONIP Tutorial**: *Transfer Learning for EEG-based Brain–Computer Interfaces*; Changsha, China.
-- *10 / 2023*: &nbsp; [**TASA-SDS**](https://www.sciencedirect.com/science/article/pii/S0950705125012468) has been **accepted** by the Journal of Neural Engineering (CAA A, Top journal in BCI).
+- *10 / 2023*: &nbsp; [**TASA-SDS**](https://www.sciencedirect.com/science/article/pii/S0950705125012468) has been accepted by the **JNE** (CAA A, Top journal in BCI).
 - *08 / 2023*: &nbsp; <strong style="color:#dc2626;">National First Prize</strong> in World Robot Contest—Brain Controlled Robot Contest.
 - *03 / 2022*: &nbsp; Awarded <strong style="color:#dc2626;">**IEEE Computational Intelligence Society Scholarship** (**1 of 5 Worldwide**)</strong>.
 - *09 / 2021*: &nbsp; **National Second Prize** in World Robot Contest—Brain Controlled Robot Contest.
