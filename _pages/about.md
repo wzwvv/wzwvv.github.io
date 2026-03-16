@@ -51,6 +51,7 @@ I was selected for the Youth Student Fundamental Research Project from NSFC (<st
 <span class='anchor' id='news'></span>
 
 # News
+- *3 / 2026*: &nbsp; Our new survey on data generation in BCIs is now available on [arXiv](https://arxiv.org/abs/2603.12296v1).
 - *2 / 2026*: &nbsp; Selected for the **Top 10 Advances in Brain–Computer Interfaces in China (Huanau Award)**.
 - *2 / 2026*: &nbsp; PGAP has been accepted by the **IEEE CIM** (JCR Q1, IF=11.2).
 - *1 / 2026*: &nbsp; [SML-OVR](https://ieeexplore.ieee.org/abstract/document/11353100) has published on the **IEEE CIM** (JCR Q1, IF=11.2).
