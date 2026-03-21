@@ -41,7 +41,7 @@ I was selected for the Youth Student Fundamental Research Project from NSFC (<st
 <ul>
   <li><strong>Publications:</strong> To date, I have published <strong>8 first-author</strong> papers—<strong style="color:#dc2626;">5 in CAS Q1/Top journals</strong> (e.g., <em>National Science Review</em>, IF=17.1), <strong>8 co-authored papers</strong> (CAA Class-A), and hold <strong>5 PRC national invention patents</strong>.</li>
 
-  <li><strong>Honors:</strong> <strong>National Scholarship×3</strong> (2 for PhD); Ant Group InTech Scholarship (<strong>1 of 10 worldwide</strong>); IEEE CIS Scholarship (<strong>1 of 5 worldwide</strong>); Merit student Pacesetter (<strong>Highest Student Honor at HUST</strong>); Outstanding Graduate of Hunan Province; Huanao Top-10 BCI Highlights in China; World Robot Contest–BCI National First & Second Prizes.</li>
+  <li><strong>Honors:</strong> <strong>National Scholarship×3</strong> (2 for PhD); Ant Group InTech Scholarship (<strong>1 of 10 worldwide</strong>); IEEE CIS Scholarship (<strong>1 of 5 worldwide</strong>); Merit student Pacesetter (<strong>Highest Student Honor at HUST</strong>); Outstanding Graduate of Hunan Province; 2025 Huanao Top-10 BCI Advances in China; 2024Huanao Top-10 BCI Highlights in China; World Robot Contest–BCI National First & Second Prizes.</li>
 
   <li><strong>Service:</strong> Long-standing reviewer for leading journals and conferences (IEEE TFS, IEEE JBHI, IEEE TNSRE, KBS, IEEE TBIOM, JNE, Scientific Reports, ICONIP 2024, ICONIP 2025, IEEE SMC 2022); recognized as <strong>IOP Trusted Reviewer</strong>.</li>
 </ul>
@@ -51,7 +51,8 @@ I was selected for the Youth Student Fundamental Research Project from NSFC (<st
 <span class='anchor' id='news'></span>
 
 # News
-- *3 / 2026*: &nbsp; Our new survey on data generation in BCIs is now available on [arXiv](https://arxiv.org/abs/2603.12296v1).
+- *3 / 2026*: &nbsp; Our new survey on data generation in BCIs is now available on [arXiv](https://arxiv.org/abs/2603.12296v1). Special thanks to Tiki🐱, my cat, for kindly providing her photo for the figures.
+
 - *2 / 2026*: &nbsp; Selected for the **Top 10 Advances in Brain–Computer Interfaces in China (Huanau Award)**.
 - *2 / 2026*: &nbsp; PGAP has been accepted by the **IEEE CIM** (JCR Q1, IF=11.2).
 - *1 / 2026*: &nbsp; [SML-OVR](https://ieeexplore.ieee.org/abstract/document/11353100) has published on the **IEEE CIM** (JCR Q1, IF=11.2).
