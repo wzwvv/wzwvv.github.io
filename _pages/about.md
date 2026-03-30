@@ -35,7 +35,7 @@ redirect_from:
       </div>
 
       <div class="hero-links">
-        <a href="https://scholar.google.com/citations?user=你的ScholarID" target="_blank" rel="noopener">Google Scholar</a>
+        <a href="https://scholar.google.com/citations?user=fjlXqvQAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>
         <a href="https://github.com/wzwvv" target="_blank" rel="noopener">GitHub</a>
         <a href="/files/CV_Ziwei_Wang.pdf" target="_blank" rel="noopener">CV</a>
         <a href="mailto:vivi@hust.edu.cn">Email</a>
