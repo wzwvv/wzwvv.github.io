@@ -3,7 +3,7 @@ permalink: /
 title: "Ziwei Wang | BCI, EEG, and Machine Learning"
 excerpt: "Ph.D. candidate at HUST working on BCI, EEG decoding, and machine learning for smart healthcare."
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
