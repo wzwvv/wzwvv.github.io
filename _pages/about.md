@@ -84,7 +84,6 @@ redirect_from:
 
 </div>
 
-<span class='anchor' id='news'></span>
 
 ## News
 
@@ -111,11 +110,10 @@ redirect_from:
   <a href="#publications"><strong>Jump to publications →</strong></a>
 </p>
 
-<span class='anchor' id='publications'></span>
 
-## Selected Publications
+## Publications
 
-<div class="section-note">Representative first-author and co-authored papers. (* indicates representative links)</div>
+<div class="section-note">First-author and selected co-authored publications.</div>
 
 <div class="pub-card">
   <div class="pub-thumb"><img src="images/CST.png" alt="CST"></div>
@@ -127,7 +125,9 @@ redirect_from:
     <div class="pub-links">
       <a href="https://academic.oup.com/nsr/article/12/6/nwaf086/8052010?login=true">Paper</a>
       <a href="https://github.com/wzwvv/CST">Code</a>
-      <a href="https://www.eurekalert.org/news-releases/1079947">News</a>
+      <a href="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/nsr/12/6/10.1093_nsr_nwaf086/2/nwaf086_supplemental_file.pdf?Expires=1765547375&Signature=cUzKn4rWgXszOpTemiCAPdLlT2oxigE4MDzUjM~sFCTgd21BMm32YVi~4KsjLS4RC1teCu34FX3bq361szPcu0aJcQ4YCi-euBiRB5tLcZbIfRRgKQb7xK0ZX28XcSksk14b9ZvsSQjIcjpcq~04nSJlYsV6HqEt~o9Yhw6EBAIs1fJPW7Ne3l8l0k3QjAAnwkJnAuFKxXxwPP3GOqGsg7x-JFug3TwE45IlbkULJXCa3JsAx6sfuCA6LN9yjzeXashToGW1VpzJxlB2Mc1yiwu897-Lvz1H8cIOwlfvmyeruAKg3-UZ2naWXyPTQBFwU8e~5tGT3Z900VSlCUe7Vg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA">Supplement</a>
+      <a href="https://www.eurekalert.org/news-releases/1079947">Media</a>
+      <a href="https://mp.weixin.qq.com/s/41BTiP_SJ3_5UuKTy1U4nA">News</a>
     </div>
   </div>
 </div>
@@ -147,7 +147,7 @@ redirect_from:
 </div>
 
 <div class="pub-card">
-  <div class="pub-thumb"><img src="images/CR.png" alt="CR"></div>
+  <div class="pub-thumb"><img src="images/CR.png" alt="Channel Reflection"></div>
   <div class="pub-content">
     <div class="pub-venue">Neural Networks 2024</div>
     <div class="pub-title">Channel reflection: Knowledge-driven data augmentation for EEG-based BCIs</div>
@@ -156,6 +156,7 @@ redirect_from:
     <div class="pub-links">
       <a href="https://www.sciencedirect.com/science/article/pii/S0893608024002752">Paper</a>
       <a href="https://github.com/wzwvv/EEGAug">Code</a>
+      <a href="https://mp.weixin.qq.com/s/W5QptXMF3hLB_pRyGWjvOQ">Media</a>
     </div>
   </div>
 </div>
@@ -163,7 +164,7 @@ redirect_from:
 <div class="pub-card">
   <div class="pub-thumb"><img src="images/CSDA.png" alt="CSDA"></div>
   <div class="pub-content">
-    <div class="pub-venue">KBS 2025</div>
+    <div class="pub-venue">Knowledge-Based Systems 2025</div>
     <div class="pub-title">Time-frequency transform based EEG data augmentation for brain-computer interfaces</div>
     <div class="pub-authors"><strong>Z. Wang</strong>, S. Li, X. Chen, and D. Wu*</div>
     <div class="pub-meta"><em>Knowledge-Based Systems</em>, vol. 311, p. 113074, 2025. <span class="pub-tag">CAS Q1 Top</span></div>
@@ -177,7 +178,7 @@ redirect_from:
 <div class="pub-card">
   <div class="pub-thumb"><img src="images/MVCNet.png" alt="MVCNet"></div>
   <div class="pub-content">
-    <div class="pub-venue">KBS 2025</div>
+    <div class="pub-venue">Knowledge-Based Systems 2025</div>
     <div class="pub-title">MVCNet: Multi-view contrastive network for motor imagery classification</div>
     <div class="pub-authors"><strong>Z. Wang</strong>, S. Li, X. Chen, and D. Wu*</div>
     <div class="pub-meta"><em>Knowledge-Based Systems</em>, vol. 328, p. 114205, 2025. <span class="pub-tag">CAS Q1 Top</span></div>
@@ -191,7 +192,7 @@ redirect_from:
 <div class="pub-card">
   <div class="pub-thumb"><img src="images/TASA.png" alt="TASA"></div>
   <div class="pub-content">
-    <div class="pub-venue">JNE 2023</div>
+    <div class="pub-venue">Journal of Neural Engineering 2023</div>
     <div class="pub-title">Unsupervised domain adaptation for cross-patient seizure classification</div>
     <div class="pub-authors"><strong>Z. Wang</strong>, W. Zhang, S. Li, X. Chen, and D. Wu*</div>
     <div class="pub-meta"><em>Journal of Neural Engineering</em>, vol. 20, no. 6, p. 066002, 2023. <span class="pub-tag">CAA A-class</span></div>
@@ -202,11 +203,141 @@ redirect_from:
   </div>
 </div>
 
-<p style="margin-top: 12px;">
-  <a href="/publications/"><strong>View full publication list →</strong></a>
-</p>
+<div class="pub-card">
+  <div class="pub-thumb"><img src="images/CIS_Grant.png" alt="IEEE CIS Student Grant"></div>
+  <div class="pub-content">
+    <div class="pub-venue">IEEE CIS 2022</div>
+    <div class="pub-title">EEG-based seizure prediction using transfer learning</div>
+    <div class="pub-authors"><strong>Z. Wang</strong> and D. Wu*</div>
+    <div class="pub-meta"><em>IEEE Computational Intelligence Society</em>, Student Grant Paper, 2022. <span class="pub-tag">Award Paper</span></div>
+    <div class="pub-links">
+      <a href="https://cis.ieee.org/images/files/Documents/GrantRecipientsReports/2021/CIS_Wang.pdf">Paper</a>
+      <a href="https://cis.ieee.org/activities/educational-activites/research-grants">Link</a>
+    </div>
+  </div>
+</div>
 
-<span class='anchor' id='awards'></span>
+<div class="pub-card">
+  <div class="pub-thumb"><img src="images/CSSC_Conf.png" alt="CSSC 2025"></div>
+  <div class="pub-content">
+    <div class="pub-venue">CSSC 2025</div>
+    <div class="pub-title">Cross-species and cross-modality epileptic seizure detection via multi-space alignment</div>
+    <div class="pub-authors"><strong>Z. Wang</strong>, S. Li, and D. Wu*</div>
+    <div class="pub-meta"><em>China Systems Science Conference</em>, Oral, May 16–18, 2025, Kunming, China. <span class="pub-tag">Conference</span></div>
+    <div class="pub-links">
+      <a href="https://cssc2025.kust.edu.cn/index.htm">Talk</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-thumb"><img src="images/PGAP_CIM2026.png" alt="PGAP"></div>
+  <div class="pub-content">
+    <div class="pub-venue">IEEE CIM 2026</div>
+    <div class="pub-title">PGAP: Purity-Guided Active Prompting for EEG Decoding with LLMs</div>
+    <div class="pub-authors">J. Luo, <strong>Z. Wang</strong>, D. Liu, and D. Wu*</div>
+    <div class="pub-meta"><em>IEEE Computational Intelligence Magazine</em>, in press, 2026. <span class="pub-tag">JCR Q1</span></div>
+    <div class="pub-links">
+      <a href="https://github.com/jingweiluo/PGAP">Code</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-thumb"><img src="images/SML_CIM2025.png" alt="SML-OVR"></div>
+  <div class="pub-content">
+    <div class="pub-venue">IEEE CIM 2026</div>
+    <div class="pub-title">Black-Box Test-Time Ensemble</div>
+    <div class="pub-authors">S. Li, <strong>Z. Wang</strong>, C. Liu, and D. Wu*</div>
+    <div class="pub-meta"><em>IEEE Computational Intelligence Magazine</em>, vol. 21, no. 2, pp. 57–68, 2026. <span class="pub-tag">JCR Q1</span></div>
+    <div class="pub-links">
+      <a href="https://ieeexplore.ieee.org/abstract/document/11353100">Paper</a>
+      <a href="https://github.com/sylyoung/TestEnsemble">Code</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-thumb"><img src="images/ABAT-TNSRE2024.png" alt="ABAT"></div>
+  <div class="pub-content">
+    <div class="pub-venue">IEEE TNSRE 2024</div>
+    <div class="pub-title">Alignment-based adversarial training (ABAT) for improving the robustness and accuracy of EEG-based BCIs</div>
+    <div class="pub-authors">X. Chen, <strong>Z. Wang</strong>, and D. Wu*</div>
+    <div class="pub-meta"><em>IEEE Transactions on Neural Systems and Rehabilitation Engineering</em>, vol. 32, pp. 1703–1714, 2024. <span class="pub-tag">CAS Q1</span></div>
+    <div class="pub-links">
+      <a href="https://ieeexplore.ieee.org/abstract/document/10506624">Paper</a>
+      <a href="https://github.com/xqchen914/ABAT">Code</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-thumb"><img src="images/TTIME-TBME2023.png" alt="T-TIME"></div>
+  <div class="pub-content">
+    <div class="pub-venue">IEEE TBME 2023</div>
+    <div class="pub-title">T-TIME: Test time information maximization ensemble for plug-and-play BCIs</div>
+    <div class="pub-authors">S. Li, <strong>Z. Wang</strong>, and D. Wu*</div>
+    <div class="pub-meta"><em>IEEE Transactions on Biomedical Engineering</em>, vol. 71, pp. 423–432, 2023. <span class="pub-tag">CAA A-class</span></div>
+    <div class="pub-links">
+      <a href="https://ieeexplore.ieee.org/abstract/document/10210666/">Paper</a>
+      <a href="https://github.com/sylyoung/DeepTransferEEG">Code</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-thumb"><img src="images/MSDT-TNSRE2022.png" alt="MSDT"></div>
+  <div class="pub-content">
+    <div class="pub-venue">IEEE TNSRE 2022</div>
+    <div class="pub-title">Multi-source decentralized transfer for privacy-preserving BCIs</div>
+    <div class="pub-authors">W. Zhang, <strong>Z. Wang</strong>, and D. Wu*</div>
+    <div class="pub-meta"><em>IEEE Transactions on Neural Systems and Rehabilitation Engineering</em>, vol. 30, pp. 2710–2720, 2022. <span class="pub-tag">CAS Q1</span></div>
+    <div class="pub-links">
+      <a href="https://ieeexplore.ieee.org/abstract/document/9894428">Paper</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-thumb"><img src="images/DS3TL-TBME2023.png" alt="DS3TL"></div>
+  <div class="pub-content">
+    <div class="pub-venue">IEEE TBME 2023</div>
+    <div class="pub-title">Deep source semi-supervised transfer learning (DS3TL) for cross-subject EEG classification</div>
+    <div class="pub-authors">X. Jiang, L. Meng, <strong>Z. Wang</strong>, and D. Wu*</div>
+    <div class="pub-meta"><em>IEEE Transactions on Biomedical Engineering</em>, vol. 71, pp. 1308–1318, 2023. <span class="pub-tag">CAA A-class</span></div>
+    <div class="pub-links">
+      <a href="https://ieeexplore.ieee.org/abstract/document/10319796">Paper</a>
+      <a href="https://github.com/jxgogo/DS3TL.git">Code</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-thumb"><img src="images/SDDA-TBME2025.png" alt="SDDA"></div>
+  <div class="pub-content">
+    <div class="pub-venue">IEEE TBME 2025</div>
+    <div class="pub-title">Spatial Distillation based Distribution Alignment (SDDA) for Cross-Headset EEG Classification</div>
+    <div class="pub-authors">D. Liu, S. Li, <strong>Z. Wang</strong>, W. Li*, and D. Wu*</div>
+    <div class="pub-meta"><em>IEEE Transactions on Biomedical Engineering</em>, early access, 2025. <span class="pub-tag">CAA A-class</span></div>
+    <div class="pub-links">
+      <a href="https://github.com/Dingkun0817/SDDA">Code</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-thumb"><img src="images/UWP-JNE2025.png" alt="UWP"></div>
+  <div class="pub-content">
+    <div class="pub-venue">Journal of Neural Engineering 2025</div>
+    <div class="pub-title">User-wise perturbations for user identity protection in EEG-based BCIs</div>
+    <div class="pub-authors">X. Chen, S. Li, Y. Tu, <strong>Z. Wang</strong>, and D. Wu*</div>
+    <div class="pub-meta"><em>Journal of Neural Engineering</em>, vol. 22, no. 1, p. 016040, 2025. <span class="pub-tag">CAA A-class</span></div>
+    <div class="pub-links">
+      <a href="https://iopscience.iop.org/article/10.1088/1741-2552/ad88a5/meta">Paper</a>
+      <a href="https://github.com/Dingkun0817/SDDA">Code</a>
+    </div>
+  </div>
+</div>
 
 ## Awards
 
