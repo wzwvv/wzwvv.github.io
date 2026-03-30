@@ -3,79 +3,84 @@ permalink: /
 title: "Ziwei Wang | BCI, EEG, and Machine Learning"
 excerpt: "Ph.D. candidate at HUST working on BCI, EEG decoding, and machine learning for smart healthcare."
 author_profile: true
-redirect_from:
+redirect_from: 
   - /about/
   - /about.html
 ---
 
 <div class="home-hero">
 
-<div class="home-hero-top">
-<div class="home-hero-intro">
-<h1 class="home-name">Ziwei Wang 王紫薇</h1>
-<p class="home-position">
-Ph.D. Candidate, Huazhong University of Science and Technology
-</p>
+  <div class="home-hero-top">
+    <div class="home-hero-intro">
+      <div class="home-small-title">Academic Homepage</div>
+      <h1 class="home-name">Ziwei Wang 王紫薇</h1>
+      <p class="home-position">
+        Ph.D. Candidate, Huazhong University of Science and Technology
+      </p>
 
-<p class="home-summary">
-I work on <strong>brain–computer interfaces</strong> and <strong>smart healthcare</strong>.
-My recent research focuses on BCI foundation models.
-</p>
+      <p class="home-summary">
+        I am a Ph.D. candidate at Huazhong University of Science and Technology, supervised by
+        <a href="https://lab.bciml.cn/">Prof. Dongrui Wu</a>. My research focuses on
+        <strong>brain–computer interfaces (BCI)</strong>, <strong>EEG decoding</strong>,
+        <strong>machine learning</strong>, and <strong>smart healthcare</strong>, with particular
+        interests in cross-subject / cross-dataset generalization, knowledge-driven EEG data generation,
+        cross-species transfer, and clinically reliable brain-signal modeling.
+      </p>
 
-<p class="home-summary home-summary-compact">
-Supported by the <strong>NSFC Youth Student Fundamental Research Project</strong>
-and the <strong>CAST Young S&amp;T Talents Program</strong>
-(total funding: <strong>340,000 RMB</strong>).
-</p>
+      <p class="home-summary">
+        I was selected for the <strong>Youth Student Fundamental Research Project from NSFC</strong>
+        and the <strong>Doctoral Student Program of the Young S&amp;T Talents Cultivation Project from CAST</strong>,
+        with a total funding of <strong>340,000 RMB</strong> (~48,000 USD).
+      </p>
 
-<div class="topic-tags">
-<span>Foundation Models</span>
-<span>Biomedical Engineering</span>
-<span>Smart Healthcare</span>
-</div>
+      <div class="topic-tags">
+        <span>BCI & EEG</span>
+        <span>Machine Learning</span>
+        <span>Smart Healthcare</span>
+        <span>Data Generation</span>
+        <span>Transfer Learning</span>
+        <span>Foundation Models</span>
+      </div>
 
-<div class="hero-links">
-<a href="https://scholar.google.com/citations?user=fjlXqvQAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>
-<a href="https://github.com/wzwvv" target="_blank" rel="noopener">GitHub</a>
-<a href="/files/CV_Ziwei_Wang.pdf" target="_blank" rel="noopener">CV</a>
-<a href="mailto:vivi@hust.edu.cn">Email</a>
-</div>
-</div>
-</div>
+      <div class="hero-links">
+        <a href="https://scholar.google.com/citations?user=YOUR_ID_HERE" target="_blank">Google Scholar</a>
+        <a href="https://github.com/wzwvv" target="_blank">GitHub</a>
+        <a href="/files/CV_Ziwei_Wang.pdf" target="_blank">CV</a>
+        <a href="mailto:YOUR_EMAIL">Email</a>
+      </div>
+    </div>
+  </div>
 
-<div class="home-highlight-grid">
-<div class="highlight-card">
-<div class="highlight-title">Research Focus</div>
-<p>
-EEG decoding under data scarcity and distribution shift, including cross-subject,
-cross-dataset, cross-modality, and cross-species transfer.
-</p>
-</div>
-
-<div class="highlight-card">
-<div class="highlight-title">Selected Achievements</div>
-<p>
-8 first-author papers, including 6 CAS Q1/Top journals such as
-<em>National Science Review</em>, <em>IEEE JBHI</em>, <em>Neural Networks</em>, and <em>KBS</em>.
-</p>
-</div>
-
-<div class="highlight-card">
-<div class="highlight-title">Honors</div>
-<p>
-National Scholarship ×3, Ant Group InTech Scholarship, IEEE CIS Scholarship,
-Merit Student Pacesetter at HUST, and Huanau Top-10 BCI Awards in China.
-</p>
-</div>
-
-<div class="highlight-card">
-<div class="highlight-title">Service</div>
-<p>
-Reviewer for IEEE TFS, IEEE JBHI, IEEE TNSRE, KBS, IEEE TBIOM, JNE,
-Scientific Reports, ICONIP, and IEEE SMC; recognized as an IOP Trusted Reviewer.
-</p>
-</div>
-</div>
+  <div class="home-highlight-grid">
+    <div class="highlight-card">
+      <div class="highlight-title">Research Focus</div>
+      <p>
+        EEG decoding under data scarcity and distribution shift, including cross-subject,
+        cross-dataset, cross-modality, and cross-species transfer.
+      </p>
+    </div>
+    <div class="highlight-card">
+      <div class="highlight-title">Selected Achievements</div>
+      <p>
+        8 first-author papers, including 5 CAS Q1/Top journals such as
+        <em>National Science Review</em>, <em>IEEE JBHI</em>, <em>Neural Networks</em>, and <em>KBS</em>.
+      </p>
+    </div>
+    <div class="highlight-card">
+      <div class="highlight-title">Honors</div>
+      <p>
+        National Scholarship ×3, Ant Group InTech Scholarship, IEEE CIS Scholarship,
+        Merit Student Pacesetter at HUST, and Huanau Top-10 BCI Awards in China.
+      </p>
+    </div>
+    <div class="highlight-card">
+      <div class="highlight-title">Service</div>
+      <p>
+        Reviewer for IEEE TFS, IEEE JBHI, IEEE TNSRE, KBS, IEEE TBIOM, JNE,
+        Scientific Reports, ICONIP, and IEEE SMC; recognized as an IOP Trusted Reviewer.
+      </p>
+    </div>
+  </div>
 
 </div>
 
