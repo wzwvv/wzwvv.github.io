@@ -107,3 +107,188 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.home-hero {
+  margin-top: 0.5rem;
+}
+
+.home-small-title {
+  font-size: 0.95rem;
+  color: #64748b;
+  margin-bottom: 0.25rem;
+  letter-spacing: 0.02em;
+}
+
+.home-name {
+  font-size: 2.2rem;
+  line-height: 1.15;
+  margin-bottom: 0.35rem;
+}
+
+.home-position {
+  font-size: 1.05rem;
+  color: #334155;
+  margin-bottom: 1rem;
+  font-weight: 600;
+}
+
+.home-summary {
+  font-size: 1rem;
+  line-height: 1.8;
+  color: #1e293b;
+  margin-bottom: 0.9rem;
+}
+
+.topic-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 1rem 0 1rem;
+}
+
+.topic-tags span {
+  background: #f1f5f9;
+  border: 1px solid #dbeafe;
+  color: #1e3a8a;
+  border-radius: 999px;
+  padding: 0.28rem 0.8rem;
+  font-size: 0.88rem;
+  font-weight: 500;
+}
+
+.hero-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px;
+  margin: 1rem 0 1.2rem;
+}
+
+.hero-links a {
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.home-highlight-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px;
+  margin: 1.6rem 0 2rem;
+}
+
+.highlight-card {
+  background: #fafcff;
+  border: 1px solid #e5e7eb;
+  border-radius: 16px;
+  padding: 1rem 1rem 0.85rem;
+  box-shadow: 0 4px 14px rgba(15, 23, 42, 0.04);
+}
+
+.highlight-title {
+  font-size: 1rem;
+  font-weight: 700;
+  color: #0f172a;
+  margin-bottom: 0.45rem;
+}
+
+.highlight-card p {
+  margin: 0;
+  line-height: 1.7;
+  color: #334155;
+}
+
+.section-note {
+  color: #64748b;
+  margin-top: -0.2rem;
+  margin-bottom: 1rem;
+  font-size: 0.95rem;
+}
+
+.pub-card {
+  display: flex;
+  gap: 18px;
+  margin: 1.3rem 0;
+  padding: 1rem;
+  border: 1px solid #e5e7eb;
+  border-radius: 18px;
+  background: #ffffff;
+  box-shadow: 0 6px 18px rgba(15, 23, 42, 0.04);
+}
+
+.pub-thumb {
+  flex: 0 0 180px;
+}
+
+.pub-thumb img {
+  width: 100%;
+  border-radius: 12px;
+  display: block;
+}
+
+.pub-content {
+  flex: 1;
+}
+
+.pub-venue {
+  font-size: 0.88rem;
+  color: #2563eb;
+  font-weight: 700;
+  margin-bottom: 0.25rem;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+.pub-title {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: #0f172a;
+  line-height: 1.45;
+  margin-bottom: 0.35rem;
+}
+
+.pub-authors {
+  color: #334155;
+  margin-bottom: 0.3rem;
+}
+
+.pub-meta {
+  color: #475569;
+  margin-bottom: 0.5rem;
+  line-height: 1.7;
+}
+
+.pub-links a {
+  margin-right: 12px;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.pub-tag {
+  display: inline-block;
+  margin-left: 8px;
+  padding: 0.12rem 0.5rem;
+  font-size: 0.78rem;
+  border-radius: 999px;
+  background: #eff6ff;
+  color: #1d4ed8;
+  border: 1px solid #bfdbfe;
+}
+
+@media (max-width: 900px) {
+  .home-highlight-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .pub-card {
+    flex-direction: column;
+  }
+
+  .pub-thumb {
+    flex: none;
+    width: 100%;
+    max-width: 320px;
+  }
+
+  .home-name {
+    font-size: 1.8rem;
+  }
+}
