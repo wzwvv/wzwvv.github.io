@@ -18,10 +18,8 @@ redirect_from:
       </p>
 
       <p class="home-summary">
-        I work on <strong>brain–computer interfaces</strong>, <strong>EEG decoding</strong>,
-        <strong>machine learning</strong>, and <strong>smart healthcare</strong>.
-        My recent research focuses on cross-subject and cross-dataset generalization,
-        knowledge-driven EEG data generation, and clinically reliable brain-signal modeling.
+        I work on <strong>brain–computer interfaces</strong> and <strong>smart healthcare</strong>.
+        My recent research focuses on BCI foundation models.
       </p>
 
       <p class="home-summary home-summary-compact">
@@ -31,18 +29,16 @@ redirect_from:
       </p>
 
       <div class="topic-tags">
-        <span>BCI & EEG</span>
-        <span>Machine Learning</span>
-        <span>Smart Healthcare</span>
-        <span>Data Generation</span>
         <span>Foundation Models</span>
+        <span>Biomedical Engineering</span>
+        <span>Smart Healthcare</span>
       </div>
 
       <div class="hero-links">
         <a href="https://scholar.google.com/citations?user=你的ScholarID" target="_blank" rel="noopener">Google Scholar</a>
         <a href="https://github.com/wzwvv" target="_blank" rel="noopener">GitHub</a>
         <a href="/files/CV_Ziwei_Wang.pdf" target="_blank" rel="noopener">CV</a>
-        <a href="mailto:你的邮箱">Email</a>
+        <a href="mailto:vivi@hust.edu.cn">Email</a>
       </div>
     </div>
   </div>
