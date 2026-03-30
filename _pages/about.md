@@ -34,19 +34,16 @@ redirect_from:
       </p>
 
       <div class="topic-tags">
-        <span>BCI & EEG</span>
-        <span>Machine Learning</span>
-        <span>Smart Healthcare</span>
-        <span>Data Generation</span>
-        <span>Transfer Learning</span>
         <span>Foundation Models</span>
+        <span>Biomedical Engineering</span>
+        <span>Smart Healthcare</span>
       </div>
 
       <div class="hero-links">
-        <a href="https://scholar.google.com/citations?user=YOUR_ID_HERE" target="_blank">Google Scholar</a>
+        <a href="https://scholar.google.com/citations?user=fjlXqvQAAAAJ&hl=en" target="_blank">Google Scholar</a>
         <a href="https://github.com/wzwvv" target="_blank">GitHub</a>
         <a href="/files/CV_Ziwei_Wang.pdf" target="_blank">CV</a>
-        <a href="mailto:YOUR_EMAIL">Email</a>
+        <a href="vivi@hust.edu.cn">Email</a>
       </div>
     </div>
   </div>
@@ -62,7 +59,7 @@ redirect_from:
     <div class="highlight-card">
       <div class="highlight-title">Selected Achievements</div>
       <p>
-        8 first-author papers, including 5 CAS Q1/Top journals such as
+        8 first-author papers, including 6 CAS Q1/Top journals such as
         <em>National Science Review</em>, <em>IEEE JBHI</em>, <em>Neural Networks</em>, and <em>KBS</em>.
       </p>
     </div>
@@ -89,10 +86,8 @@ redirect_from:
 
 <div class="section-note">Recent updates, papers, awards, and invited talks.</div>
 
-- **03 / 2026** — Our new survey on brain signal generation is now available on [arXiv](https://arxiv.org/abs/2603.12296v1). Special thanks to Tiki 🐱 for kindly providing her photo for the figures.
+- **03 / 2026** — Our new survey on brain signal generation is now available on [arXiv](https://arxiv.org/abs/2603.12296v1). Special thanks to Tiki🐱 for kindly providing her photo for the figures.
 - **02 / 2026** — Selected for the **Top 10 Advances in Brain–Computer Interfaces in China (Huanau Award)**.
-- **02 / 2026** — **PGAP** has been accepted by **IEEE Computational Intelligence Magazine**.
-- **01 / 2026** — [SML-OVR](https://ieeexplore.ieee.org/abstract/document/11353100) has been published in **IEEE Computational Intelligence Magazine**.
 - **12 / 2025** — Supported by the **Doctoral Student Program of the Young S&T Talents Cultivation Project from CAST**.
 - **12 / 2025** — Supported by the **Youth Student Fundamental Research Project from NSFC**.
 - **10 / 2025** — Awarded **National Scholarship (Ph.D.)**.
@@ -103,17 +98,12 @@ redirect_from:
 - **03 / 2025** — **CST** accepted by **National Science Review**.
 - **02 / 2025** — **CSDA** accepted by **KBS**.
 - **12 / 2024** — Awarded **IOP Trusted Reviewer**.
+- **10 / 2025** — Awarded **National Scholarship (Ph.D.)**.
 - **08 / 2024** — Selected for the **Top 10 Highlights in Brain–Computer Interfaces in China (Huanau Award)**.
-- **04 / 2024** — **Channel Reflection** accepted by **Neural Networks**.
-
-<p style="margin-top: 8px;">
-  <a href="#publications"><strong>Jump to publications →</strong></a>
-</p>
-
 
 ## Publications
 
-<div class="section-note">First-author and selected co-authored publications.</div>
+<div class="section-note">Selected publications.</div>
 
 <div class="pub-card">
   <div class="pub-thumb"><img src="images/CST.png" alt="CST"></div>
@@ -203,161 +193,30 @@ redirect_from:
   </div>
 </div>
 
-<div class="pub-card">
-  <div class="pub-thumb"><img src="images/CIS_Grant.png" alt="IEEE CIS Student Grant"></div>
-  <div class="pub-content">
-    <div class="pub-venue">IEEE CIS 2022</div>
-    <div class="pub-title">EEG-based seizure prediction using transfer learning</div>
-    <div class="pub-authors"><strong>Z. Wang</strong> and D. Wu*</div>
-    <div class="pub-meta"><em>IEEE Computational Intelligence Society</em>, Student Grant Paper, 2022. <span class="pub-tag">Award Paper</span></div>
-    <div class="pub-links">
-      <a href="https://cis.ieee.org/images/files/Documents/GrantRecipientsReports/2021/CIS_Wang.pdf">Paper</a>
-      <a href="https://cis.ieee.org/activities/educational-activites/research-grants">Link</a>
-    </div>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-thumb"><img src="images/CSSC_Conf.png" alt="CSSC 2025"></div>
-  <div class="pub-content">
-    <div class="pub-venue">CSSC 2025</div>
-    <div class="pub-title">Cross-species and cross-modality epileptic seizure detection via multi-space alignment</div>
-    <div class="pub-authors"><strong>Z. Wang</strong>, S. Li, and D. Wu*</div>
-    <div class="pub-meta"><em>China Systems Science Conference</em>, Oral, May 16–18, 2025, Kunming, China. <span class="pub-tag">Conference</span></div>
-    <div class="pub-links">
-      <a href="https://cssc2025.kust.edu.cn/index.htm">Talk</a>
-    </div>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-thumb"><img src="images/PGAP_CIM2026.png" alt="PGAP"></div>
-  <div class="pub-content">
-    <div class="pub-venue">IEEE CIM 2026</div>
-    <div class="pub-title">PGAP: Purity-Guided Active Prompting for EEG Decoding with LLMs</div>
-    <div class="pub-authors">J. Luo, <strong>Z. Wang</strong>, D. Liu, and D. Wu*</div>
-    <div class="pub-meta"><em>IEEE Computational Intelligence Magazine</em>, in press, 2026. <span class="pub-tag">JCR Q1</span></div>
-    <div class="pub-links">
-      <a href="https://github.com/jingweiluo/PGAP">Code</a>
-    </div>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-thumb"><img src="images/SML_CIM2025.png" alt="SML-OVR"></div>
-  <div class="pub-content">
-    <div class="pub-venue">IEEE CIM 2026</div>
-    <div class="pub-title">Black-Box Test-Time Ensemble</div>
-    <div class="pub-authors">S. Li, <strong>Z. Wang</strong>, C. Liu, and D. Wu*</div>
-    <div class="pub-meta"><em>IEEE Computational Intelligence Magazine</em>, vol. 21, no. 2, pp. 57–68, 2026. <span class="pub-tag">JCR Q1</span></div>
-    <div class="pub-links">
-      <a href="https://ieeexplore.ieee.org/abstract/document/11353100">Paper</a>
-      <a href="https://github.com/sylyoung/TestEnsemble">Code</a>
-    </div>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-thumb"><img src="images/ABAT-TNSRE2024.png" alt="ABAT"></div>
-  <div class="pub-content">
-    <div class="pub-venue">IEEE TNSRE 2024</div>
-    <div class="pub-title">Alignment-based adversarial training (ABAT) for improving the robustness and accuracy of EEG-based BCIs</div>
-    <div class="pub-authors">X. Chen, <strong>Z. Wang</strong>, and D. Wu*</div>
-    <div class="pub-meta"><em>IEEE Transactions on Neural Systems and Rehabilitation Engineering</em>, vol. 32, pp. 1703–1714, 2024. <span class="pub-tag">CAS Q1</span></div>
-    <div class="pub-links">
-      <a href="https://ieeexplore.ieee.org/abstract/document/10506624">Paper</a>
-      <a href="https://github.com/xqchen914/ABAT">Code</a>
-    </div>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-thumb"><img src="images/TTIME-TBME2023.png" alt="T-TIME"></div>
-  <div class="pub-content">
-    <div class="pub-venue">IEEE TBME 2023</div>
-    <div class="pub-title">T-TIME: Test time information maximization ensemble for plug-and-play BCIs</div>
-    <div class="pub-authors">S. Li, <strong>Z. Wang</strong>, and D. Wu*</div>
-    <div class="pub-meta"><em>IEEE Transactions on Biomedical Engineering</em>, vol. 71, pp. 423–432, 2023. <span class="pub-tag">CAA A-class</span></div>
-    <div class="pub-links">
-      <a href="https://ieeexplore.ieee.org/abstract/document/10210666/">Paper</a>
-      <a href="https://github.com/sylyoung/DeepTransferEEG">Code</a>
-    </div>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-thumb"><img src="images/MSDT-TNSRE2022.png" alt="MSDT"></div>
-  <div class="pub-content">
-    <div class="pub-venue">IEEE TNSRE 2022</div>
-    <div class="pub-title">Multi-source decentralized transfer for privacy-preserving BCIs</div>
-    <div class="pub-authors">W. Zhang, <strong>Z. Wang</strong>, and D. Wu*</div>
-    <div class="pub-meta"><em>IEEE Transactions on Neural Systems and Rehabilitation Engineering</em>, vol. 30, pp. 2710–2720, 2022. <span class="pub-tag">CAS Q1</span></div>
-    <div class="pub-links">
-      <a href="https://ieeexplore.ieee.org/abstract/document/9894428">Paper</a>
-    </div>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-thumb"><img src="images/DS3TL-TBME2023.png" alt="DS3TL"></div>
-  <div class="pub-content">
-    <div class="pub-venue">IEEE TBME 2023</div>
-    <div class="pub-title">Deep source semi-supervised transfer learning (DS3TL) for cross-subject EEG classification</div>
-    <div class="pub-authors">X. Jiang, L. Meng, <strong>Z. Wang</strong>, and D. Wu*</div>
-    <div class="pub-meta"><em>IEEE Transactions on Biomedical Engineering</em>, vol. 71, pp. 1308–1318, 2023. <span class="pub-tag">CAA A-class</span></div>
-    <div class="pub-links">
-      <a href="https://ieeexplore.ieee.org/abstract/document/10319796">Paper</a>
-      <a href="https://github.com/jxgogo/DS3TL.git">Code</a>
-    </div>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-thumb"><img src="images/SDDA-TBME2025.png" alt="SDDA"></div>
-  <div class="pub-content">
-    <div class="pub-venue">IEEE TBME 2025</div>
-    <div class="pub-title">Spatial Distillation based Distribution Alignment (SDDA) for Cross-Headset EEG Classification</div>
-    <div class="pub-authors">D. Liu, S. Li, <strong>Z. Wang</strong>, W. Li*, and D. Wu*</div>
-    <div class="pub-meta"><em>IEEE Transactions on Biomedical Engineering</em>, early access, 2025. <span class="pub-tag">CAA A-class</span></div>
-    <div class="pub-links">
-      <a href="https://github.com/Dingkun0817/SDDA">Code</a>
-    </div>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-thumb"><img src="images/UWP-JNE2025.png" alt="UWP"></div>
-  <div class="pub-content">
-    <div class="pub-venue">Journal of Neural Engineering 2025</div>
-    <div class="pub-title">User-wise perturbations for user identity protection in EEG-based BCIs</div>
-    <div class="pub-authors">X. Chen, S. Li, Y. Tu, <strong>Z. Wang</strong>, and D. Wu*</div>
-    <div class="pub-meta"><em>Journal of Neural Engineering</em>, vol. 22, no. 1, p. 016040, 2025. <span class="pub-tag">CAA A-class</span></div>
-    <div class="pub-links">
-      <a href="https://iopscience.iop.org/article/10.1088/1741-2552/ad88a5/meta">Paper</a>
-      <a href="https://github.com/Dingkun0817/SDDA">Code</a>
-    </div>
-  </div>
-</div>
+<p style="margin-top: 12px;">
+  <a href="https://scholar.google.com/citations?user=fjlXqvQAAAAJ&hl=en" target="_blank" rel="noopener">
+    <strong>View full publication list →</strong>
+  </a>
+</p>
 
 ## Awards
 
-- **09 / 2025** — **Ant Group InTech Scholarship** (10 awardees worldwide; 2 in Digital Medicine)
-- **10 / 2025** — **National Scholarship (Ph.D.)**
-- **10 / 2024** — **National Scholarship (Ph.D.)**
-- **10 / 2025** — **Merit Student Pacesetter** (Highest Student Honor at HUST)
-- **02 / 2022** — **IEEE Computational Intelligence Society Scholarship** (5 awardees worldwide)
-- **02 / 2026** — **Top 10 Advances in Brain–Computer Interfaces in China (Huanau Award)**
-- **08 / 2024** — **Top 10 Highlights in Brain–Computer Interfaces in China (Huanau Award)**
-- **12 / 2024** — **IOP Trusted Reviewer**
-
-<span class='anchor' id='education'></span>
+- **Ant Group InTech Scholarship** (10 awardees worldwide; 2 in Digital Medicine)
+- **National Scholarship (Ph.D.)**
+- **National Scholarship (Ph.D.)**
+- **National Scholarship (Undergraduate)**
+- **Outstanding Graduate of Hunan Province**
+- **Merit Student Pacesetter** (Highest Student Honor at HUST)
+- **IEEE Computational Intelligence Society Scholarship** (5 awardees worldwide)
+- **Top 10 Advances in Brain–Computer Interfaces in China (Huanau Award)**
+- **Top 10 Highlights in Brain–Computer Interfaces in China (Huanau Award)**
+- **National First Prize in World Robot Contest**
 
 ## Education
 
-- **09 / 2021 – Present** — Ph.D. candidate, Huazhong University of Science and Technology, Intelligent Science and Technology
-- **09 / 2017 – 06 / 2021** — B.Eng., Central South University, Measurement, Control Technology and Instruments
+- **09 / 2021 – Present** — Ph.D. candidate, Huazhong University of Science and Technology
+- **09 / 2017 – 06 / 2021** — B.Eng., Central South University
 
-<span class='anchor' id='talks'></span>
 
 ## Talks
 
@@ -367,7 +226,6 @@ redirect_from:
 - **12 / 2024** — China Brain–Computer Intelligence Conference Poster
 - **12 / 2025** — SAAC 2025 Poster: *DBConformer*
 
-<span class='anchor' id='internships'></span>
 
 ## Internship
 
@@ -377,4 +235,3 @@ redirect_from:
 - Designed five augmentation operators based on N-grams and TF-IDF for anomaly-aware data augmentation.
 - Proposed a SparseAttention module for long-sequence forecasting.
 - Designed a domain-generalized mixture-of-experts model for robust fault prediction under temporal and device-level shifts.
-- Authorized patent as student first author.
