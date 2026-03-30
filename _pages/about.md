@@ -12,7 +12,6 @@ redirect_from:
 
   <div class="home-hero-top">
     <div class="home-hero-intro">
-      <div class="home-small-title">Academic Homepage</div>
       <h1 class="home-name">Ziwei Wang 王紫薇</h1>
       <p class="home-position">
         Ph.D. Candidate, Huazhong University of Science and Technology
@@ -84,8 +83,6 @@ redirect_from:
 
 ## News
 
-<div class="section-note">Recent updates, papers, awards, and invited talks.</div>
-
 - **03 / 2026** — Our new survey on brain signal generation is now available on [arXiv](https://arxiv.org/abs/2603.12296v1). Special thanks to Tiki🐱 for kindly providing her photo for the figures.
 - **02 / 2026** — Selected for the **Top 10 Advances in Brain–Computer Interfaces in China (Huanau Award)**.
 - **12 / 2025** — Supported by the **Doctoral Student Program of the Young S&T Talents Cultivation Project from CAST**.
@@ -102,8 +99,6 @@ redirect_from:
 - **08 / 2024** — Selected for the **Top 10 Highlights in Brain–Computer Interfaces in China (Huanau Award)**.
 
 ## Publications
-
-<div class="section-note">Selected publications.</div>
 
 <div class="pub-card">
   <div class="pub-thumb"><img src="images/CST.png" alt="CST"></div>
