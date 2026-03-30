@@ -10,69 +10,72 @@ redirect_from:
 
 <div class="home-hero">
 
-  <div class="home-hero-top">
-    <div class="home-hero-intro">
-      <h1 class="home-name">Ziwei Wang 王紫薇</h1>
-      <p class="home-position">
-        Ph.D. Candidate, Huazhong University of Science and Technology
-      </p>
+<div class="home-hero-top">
+<div class="home-hero-intro">
+<h1 class="home-name">Ziwei Wang 王紫薇</h1>
+<p class="home-position">
+Ph.D. Candidate, Huazhong University of Science and Technology
+</p>
 
-      <p class="home-summary">
-        I work on <strong>brain–computer interfaces</strong> and <strong>smart healthcare</strong>.
-        My recent research focuses on BCI foundation models.
-      </p>
+<p class="home-summary">
+I work on <strong>brain–computer interfaces</strong> and <strong>smart healthcare</strong>.
+My recent research focuses on BCI foundation models.
+</p>
 
-      <p class="home-summary home-summary-compact">
-        Supported by the <strong>NSFC Youth Student Fundamental Research Project</strong>
-        and the <strong>CAST Young S&amp;T Talents Program</strong>
-        (total funding: <strong>340,000 RMB</strong>).
-      </p>
+<p class="home-summary home-summary-compact">
+Supported by the <strong>NSFC Youth Student Fundamental Research Project</strong>
+and the <strong>CAST Young S&amp;T Talents Program</strong>
+(total funding: <strong>340,000 RMB</strong>).
+</p>
 
-      <div class="topic-tags">
-        <span>Foundation Models</span>
-        <span>Biomedical Engineering</span>
-        <span>Smart Healthcare</span>
-      </div>
+<div class="topic-tags">
+<span>Foundation Models</span>
+<span>Biomedical Engineering</span>
+<span>Smart Healthcare</span>
+</div>
 
-      <div class="hero-links">
-        <a href="https://scholar.google.com/citations?user=fjlXqvQAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>
-        <a href="https://github.com/wzwvv" target="_blank" rel="noopener">GitHub</a>
-        <a href="/files/CV_Ziwei_Wang.pdf" target="_blank" rel="noopener">CV</a>
-        <a href="mailto:vivi@hust.edu.cn">Email</a>
-      </div>
-    </div>
-  </div>
+<div class="hero-links">
+<a href="https://scholar.google.com/citations?user=fjlXqvQAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>
+<a href="https://github.com/wzwvv" target="_blank" rel="noopener">GitHub</a>
+<a href="/files/CV_Ziwei_Wang.pdf" target="_blank" rel="noopener">CV</a>
+<a href="mailto:vivi@hust.edu.cn">Email</a>
+</div>
+</div>
+</div>
 
-  <div class="home-highlight-grid">
-    <div class="highlight-card">
-      <div class="highlight-title">Research Focus</div>
-      <p>
-        EEG decoding under data scarcity and distribution shift, including cross-subject,
-        cross-dataset, cross-modality, and cross-species transfer.
-      </p>
-    </div>
-    <div class="highlight-card">
-      <div class="highlight-title">Selected Achievements</div>
-      <p>
-        8 first-author papers, including 6 CAS Q1/Top journals such as
-        <em>National Science Review</em>, <em>IEEE JBHI</em>, <em>Neural Networks</em>, and <em>KBS</em>.
-      </p>
-    </div>
-    <div class="highlight-card">
-      <div class="highlight-title">Honors</div>
-      <p>
-        National Scholarship ×3, Ant Group InTech Scholarship, IEEE CIS Scholarship,
-        Merit Student Pacesetter at HUST, and Huanau Top-10 BCI Awards in China.
-      </p>
-    </div>
-    <div class="highlight-card">
-      <div class="highlight-title">Service</div>
-      <p>
-        Reviewer for IEEE TFS, IEEE JBHI, IEEE TNSRE, KBS, IEEE TBIOM, JNE,
-        Scientific Reports, ICONIP, and IEEE SMC; recognized as an IOP Trusted Reviewer.
-      </p>
-    </div>
-  </div>
+<div class="home-highlight-grid">
+<div class="highlight-card">
+<div class="highlight-title">Research Focus</div>
+<p>
+EEG decoding under data scarcity and distribution shift, including cross-subject,
+cross-dataset, cross-modality, and cross-species transfer.
+</p>
+</div>
+
+<div class="highlight-card">
+<div class="highlight-title">Selected Achievements</div>
+<p>
+8 first-author papers, including 6 CAS Q1/Top journals such as
+<em>National Science Review</em>, <em>IEEE JBHI</em>, <em>Neural Networks</em>, and <em>KBS</em>.
+</p>
+</div>
+
+<div class="highlight-card">
+<div class="highlight-title">Honors</div>
+<p>
+National Scholarship ×3, Ant Group InTech Scholarship, IEEE CIS Scholarship,
+Merit Student Pacesetter at HUST, and Huanau Top-10 BCI Awards in China.
+</p>
+</div>
+
+<div class="highlight-card">
+<div class="highlight-title">Service</div>
+<p>
+Reviewer for IEEE TFS, IEEE JBHI, IEEE TNSRE, KBS, IEEE TBIOM, JNE,
+Scientific Reports, ICONIP, and IEEE SMC; recognized as an IOP Trusted Reviewer.
+</p>
+</div>
+</div>
 
 </div>
 
