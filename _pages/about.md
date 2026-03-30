@@ -84,11 +84,16 @@ redirect_from:
 
 </div>
 
+<span class='anchor' id='news'></span>
 
 ## News
 
-- **03 / 2026** — Our new survey on brain signal generation is now available on [arXiv](https://arxiv.org/abs/2603.12296v1). Special thanks to Tiki🐱 for kindly providing her photo for the figures.
+<div class="section-note">Recent updates, papers, awards, and invited talks.</div>
+
+- **03 / 2026** — Our new survey on brain signal generation is now available on [arXiv](https://arxiv.org/abs/2603.12296v1). Special thanks to Tiki 🐱 for kindly providing her photo for the figures.
 - **02 / 2026** — Selected for the **Top 10 Advances in Brain–Computer Interfaces in China (Huanau Award)**.
+- **02 / 2026** — **PGAP** has been accepted by **IEEE Computational Intelligence Magazine**.
+- **01 / 2026** — [SML-OVR](https://ieeexplore.ieee.org/abstract/document/11353100) has been published in **IEEE Computational Intelligence Magazine**.
 - **12 / 2025** — Supported by the **Doctoral Student Program of the Young S&T Talents Cultivation Project from CAST**.
 - **12 / 2025** — Supported by the **Youth Student Fundamental Research Project from NSFC**.
 - **10 / 2025** — Awarded **National Scholarship (Ph.D.)**.
@@ -99,10 +104,18 @@ redirect_from:
 - **03 / 2025** — **CST** accepted by **National Science Review**.
 - **02 / 2025** — **CSDA** accepted by **KBS**.
 - **12 / 2024** — Awarded **IOP Trusted Reviewer**.
-- **10 / 2025** — Awarded **National Scholarship (Ph.D.)**.
 - **08 / 2024** — Selected for the **Top 10 Highlights in Brain–Computer Interfaces in China (Huanau Award)**.
+- **04 / 2024** — **Channel Reflection** accepted by **Neural Networks**.
 
-## Publications
+<p style="margin-top: 8px;">
+  <a href="#publications"><strong>Jump to publications →</strong></a>
+</p>
+
+<span class='anchor' id='publications'></span>
+
+## Selected Publications
+
+<div class="section-note">Representative first-author and co-authored papers. (* indicates representative links)</div>
 
 <div class="pub-card">
   <div class="pub-thumb"><img src="images/CST.png" alt="CST"></div>
@@ -114,9 +127,7 @@ redirect_from:
     <div class="pub-links">
       <a href="https://academic.oup.com/nsr/article/12/6/nwaf086/8052010?login=true">Paper</a>
       <a href="https://github.com/wzwvv/CST">Code</a>
-      <a href="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/nsr/12/6/10.1093_nsr_nwaf086/2/nwaf086_supplemental_file.pdf?Expires=1765547375&Signature=cUzKn4rWgXszOpTemiCAPdLlT2oxigE4MDzUjM~sFCTgd21BMm32YVi~4KsjLS4RC1teCu34FX3bq361szPcu0aJcQ4YCi-euBiRB5tLcZbIfRRgKQb7xK0ZX28XcSksk14b9ZvsSQjIcjpcq~04nSJlYsV6HqEt~o9Yhw6EBAIs1fJPW7Ne3l8l0k3QjAAnwkJnAuFKxXxwPP3GOqGsg7x-JFug3TwE45IlbkULJXCa3JsAx6sfuCA6LN9yjzeXashToGW1VpzJxlB2Mc1yiwu897-Lvz1H8cIOwlfvmyeruAKg3-UZ2naWXyPTQBFwU8e~5tGT3Z900VSlCUe7Vg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA">Supplement</a>
-      <a href="https://www.eurekalert.org/news-releases/1079947">Media</a>
-      <a href="https://mp.weixin.qq.com/s/41BTiP_SJ3_5UuKTy1U4nA">News</a>
+      <a href="https://www.eurekalert.org/news-releases/1079947">News</a>
     </div>
   </div>
 </div>
@@ -136,7 +147,7 @@ redirect_from:
 </div>
 
 <div class="pub-card">
-  <div class="pub-thumb"><img src="images/CR.png" alt="Channel Reflection"></div>
+  <div class="pub-thumb"><img src="images/CR.png" alt="CR"></div>
   <div class="pub-content">
     <div class="pub-venue">Neural Networks 2024</div>
     <div class="pub-title">Channel reflection: Knowledge-driven data augmentation for EEG-based BCIs</div>
@@ -145,7 +156,6 @@ redirect_from:
     <div class="pub-links">
       <a href="https://www.sciencedirect.com/science/article/pii/S0893608024002752">Paper</a>
       <a href="https://github.com/wzwvv/EEGAug">Code</a>
-      <a href="https://mp.weixin.qq.com/s/W5QptXMF3hLB_pRyGWjvOQ">Media</a>
     </div>
   </div>
 </div>
@@ -153,7 +163,7 @@ redirect_from:
 <div class="pub-card">
   <div class="pub-thumb"><img src="images/CSDA.png" alt="CSDA"></div>
   <div class="pub-content">
-    <div class="pub-venue">Knowledge-Based Systems 2025</div>
+    <div class="pub-venue">KBS 2025</div>
     <div class="pub-title">Time-frequency transform based EEG data augmentation for brain-computer interfaces</div>
     <div class="pub-authors"><strong>Z. Wang</strong>, S. Li, X. Chen, and D. Wu*</div>
     <div class="pub-meta"><em>Knowledge-Based Systems</em>, vol. 311, p. 113074, 2025. <span class="pub-tag">CAS Q1 Top</span></div>
@@ -167,7 +177,7 @@ redirect_from:
 <div class="pub-card">
   <div class="pub-thumb"><img src="images/MVCNet.png" alt="MVCNet"></div>
   <div class="pub-content">
-    <div class="pub-venue">Knowledge-Based Systems 2025</div>
+    <div class="pub-venue">KBS 2025</div>
     <div class="pub-title">MVCNet: Multi-view contrastive network for motor imagery classification</div>
     <div class="pub-authors"><strong>Z. Wang</strong>, S. Li, X. Chen, and D. Wu*</div>
     <div class="pub-meta"><em>Knowledge-Based Systems</em>, vol. 328, p. 114205, 2025. <span class="pub-tag">CAS Q1 Top</span></div>
@@ -181,7 +191,7 @@ redirect_from:
 <div class="pub-card">
   <div class="pub-thumb"><img src="images/TASA.png" alt="TASA"></div>
   <div class="pub-content">
-    <div class="pub-venue">Journal of Neural Engineering 2023</div>
+    <div class="pub-venue">JNE 2023</div>
     <div class="pub-title">Unsupervised domain adaptation for cross-patient seizure classification</div>
     <div class="pub-authors"><strong>Z. Wang</strong>, W. Zhang, S. Li, X. Chen, and D. Wu*</div>
     <div class="pub-meta"><em>Journal of Neural Engineering</em>, vol. 20, no. 6, p. 066002, 2023. <span class="pub-tag">CAA A-class</span></div>
@@ -193,29 +203,30 @@ redirect_from:
 </div>
 
 <p style="margin-top: 12px;">
-  <a href="https://scholar.google.com/citations?user=fjlXqvQAAAAJ&hl=en" target="_blank" rel="noopener">
-    <strong>View full publication list →</strong>
-  </a>
+  <a href="/publications/"><strong>View full publication list →</strong></a>
 </p>
+
+<span class='anchor' id='awards'></span>
 
 ## Awards
 
-- **Ant Group InTech Scholarship** (10 awardees worldwide; 2 in Digital Medicine)
-- **National Scholarship (Ph.D.)**
-- **National Scholarship (Ph.D.)**
-- **National Scholarship (Undergraduate)**
-- **Outstanding Graduate of Hunan Province**
-- **Merit Student Pacesetter** (Highest Student Honor at HUST)
-- **IEEE Computational Intelligence Society Scholarship** (5 awardees worldwide)
-- **Top 10 Advances in Brain–Computer Interfaces in China (Huanau Award)**
-- **Top 10 Highlights in Brain–Computer Interfaces in China (Huanau Award)**
-- **National First Prize in World Robot Contest**
+- **09 / 2025** — **Ant Group InTech Scholarship** (10 awardees worldwide; 2 in Digital Medicine)
+- **10 / 2025** — **National Scholarship (Ph.D.)**
+- **10 / 2024** — **National Scholarship (Ph.D.)**
+- **10 / 2025** — **Merit Student Pacesetter** (Highest Student Honor at HUST)
+- **02 / 2022** — **IEEE Computational Intelligence Society Scholarship** (5 awardees worldwide)
+- **02 / 2026** — **Top 10 Advances in Brain–Computer Interfaces in China (Huanau Award)**
+- **08 / 2024** — **Top 10 Highlights in Brain–Computer Interfaces in China (Huanau Award)**
+- **12 / 2024** — **IOP Trusted Reviewer**
+
+<span class='anchor' id='education'></span>
 
 ## Education
 
-- **09 / 2021 – Present** — Ph.D. candidate, Huazhong University of Science and Technology
-- **09 / 2017 – 06 / 2021** — B.Eng., Central South University
+- **09 / 2021 – Present** — Ph.D. candidate, Huazhong University of Science and Technology, Intelligent Science and Technology
+- **09 / 2017 – 06 / 2021** — B.Eng., Central South University, Measurement, Control Technology and Instruments
 
+<span class='anchor' id='talks'></span>
 
 ## Talks
 
@@ -225,6 +236,7 @@ redirect_from:
 - **12 / 2024** — China Brain–Computer Intelligence Conference Poster
 - **12 / 2025** — SAAC 2025 Poster: *DBConformer*
 
+<span class='anchor' id='internships'></span>
 
 ## Internship
 
@@ -234,3 +246,4 @@ redirect_from:
 - Designed five augmentation operators based on N-grams and TF-IDF for anomaly-aware data augmentation.
 - Proposed a SparseAttention module for long-sequence forecasting.
 - Designed a domain-generalized mixture-of-experts model for robust fault prediction under temporal and device-level shifts.
+- Authorized patent as student first author.
