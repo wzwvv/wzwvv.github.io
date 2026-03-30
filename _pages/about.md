@@ -18,34 +18,36 @@ redirect_from:
       </p>
 
       <p class="home-summary">
-        I am a Ph.D. candidate at Huazhong University of Science and Technology, supervised by
-        <a href="https://lab.bciml.cn/">Prof. Dongrui Wu</a>. My research focuses on
-        <strong>brain–computer interfaces (BCI)</strong>, <strong>EEG decoding</strong>,
-        <strong>machine learning</strong>, and <strong>smart healthcare</strong>, with particular
-        interests in cross-subject / cross-dataset generalization, knowledge-driven EEG data generation,
-        cross-species transfer, and clinically reliable brain-signal modeling.
+        I work on <strong>brain–computer interfaces</strong>, <strong>EEG decoding</strong>,
+        <strong>machine learning</strong>, and <strong>smart healthcare</strong>.
+        My recent research focuses on cross-subject and cross-dataset generalization,
+        knowledge-driven EEG data generation, and clinically reliable brain-signal modeling.
       </p>
 
-      <p class="home-summary">
-        I was selected for the <strong>Youth Student Fundamental Research Project from NSFC</strong>
-        and the <strong>Doctoral Student Program of the Young S&amp;T Talents Cultivation Project from CAST</strong>,
-        with a total funding of <strong>340,000 RMB</strong> (~48,000 USD).
+      <p class="home-summary home-summary-compact">
+        Supported by the <strong>NSFC Youth Student Fundamental Research Project</strong>
+        and the <strong>CAST Young S&amp;T Talents Program</strong>
+        (total funding: <strong>340,000 RMB</strong>).
       </p>
 
       <div class="topic-tags">
-        <span>Foundation Models</span>
-        <span>Biomedical Engineering</span>
+        <span>BCI & EEG</span>
+        <span>Machine Learning</span>
         <span>Smart Healthcare</span>
+        <span>Data Generation</span>
+        <span>Foundation Models</span>
       </div>
 
       <div class="hero-links">
-        <a href="https://scholar.google.com/citations?user=fjlXqvQAAAAJ&hl=en" target="_blank">Google Scholar</a>
-        <a href="https://github.com/wzwvv" target="_blank">GitHub</a>
-        <a href="/files/CV_Ziwei_Wang.pdf" target="_blank">CV</a>
-        <a href="vivi@hust.edu.cn">Email</a>
+        <a href="https://scholar.google.com/citations?user=你的ScholarID" target="_blank" rel="noopener">Google Scholar</a>
+        <a href="https://github.com/wzwvv" target="_blank" rel="noopener">GitHub</a>
+        <a href="/files/CV_Ziwei_Wang.pdf" target="_blank" rel="noopener">CV</a>
+        <a href="mailto:你的邮箱">Email</a>
       </div>
     </div>
   </div>
+
+</div>
 
   <div class="home-highlight-grid">
     <div class="highlight-card">
