@@ -43,8 +43,6 @@ redirect_from:
     </div>
   </div>
 
-</div>
-
   <div class="home-highlight-grid">
     <div class="highlight-card">
       <div class="highlight-title">Research Focus</div>
