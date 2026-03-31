@@ -87,13 +87,13 @@ redirect_from:
 - **10 / 2025** — Awarded **Merit Student Pacesetter**, the highest student honor at HUST.
 - **10 / 2025** — **DBConformer** accepted by **IEEE JBHI**.
 - **09 / 2025** — Awarded **Ant Group InTech Scholarship**.
-- **07 / 2025** — **MVCNet** accepted by **KBS**.
+- **07 / 2025** — **MVCNet** accepted by **Knowledge-Based Systems**.
 - **03 / 2025** — **CST** accepted by **National Science Review**.
-- **02 / 2025** — **CSDA** accepted by **KBS**.
+- **02 / 2025** — **CSDA** accepted by **Knowledge-Based Systems**.
 - **12 / 2024** — Awarded **IOP Trusted Reviewer**.
 - **10 / 2024** — Awarded **National Scholarship (Ph.D.)**.
 - **08 / 2024** — Selected for the **Top 10 Highlights in Brain–Computer Interfaces in China (Huanau Award)**.
-- **04 / 2024** - **CR** accepted by **KBS**.
+- **04 / 2024** - **CR** accepted by **Neural Networks**.
 
 ## Publications
 
