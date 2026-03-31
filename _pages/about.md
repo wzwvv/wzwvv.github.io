@@ -58,7 +58,7 @@ with particular interests in <strong>brain foundation models</strong> and <stron
       <div class="highlight-title">Research Highlights</div>
       <p>
         8 first-author papers, including 6 CAS Q1/Top journals such as
-        <em>National Science Review</em>, <em>IEEE JBHI</em>, <em>Neural Networks</em>, and <em>KBS</em>.
+        <em>National Science Review</em>, <em>IEEE JBHI</em>, <em>Neural Networks</em>, and <em>Knowledge-Based Systems</em>.
       </p>
     </div>
     <div class="highlight-card">
