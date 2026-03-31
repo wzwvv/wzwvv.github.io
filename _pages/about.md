@@ -109,7 +109,7 @@ with particular interests in <strong>brain foundation models</strong> and <stron
     <div class="pub-links">
       <a href="https://academic.oup.com/nsr/article/12/6/nwaf086/8052010?login=true">Paper</a>
       <a href="https://github.com/wzwvv/CST">Code</a>
-      <a href="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/nsr/12/6/10.1093_nsr_nwaf086/2/nwaf086_supplemental_file.pdf?Expires=1765547375&Signature=cUzKn4rWgXszOpTemiCAPdLlT2oxigE4MDzUjM~sFCTgd21BMm32YVi~4KsjLS4RC1teCu34FX3bq361szPcu0aJcQ4YCi-euBiRB5tLcZbIfRRgKQb7xK0ZX28XcSksk14b9ZvsSQjIcjpcq~04nSJlYsV6HqEt~o9Yhw6EBAIs1fJPW7Ne3l8l0k3QjAAnwkJnAuFKxXxwPP3GOqGsg7x-JFug3TwE45IlbkULJXCa3JsAx6sfuCA6LN9yjzeXashToGW1VpzJxlB2Mc1yiwu897-Lvz1H8cIOwlfvmyeruAKg3-UZ2naWXyPTQBFwU8e~5tGT3Z900VSlCUe7Vg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA">Supplement</a>
+      <a href="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/nsr/12/6/10.1093_nsr_nwaf086/2/nwaf086_supplemental_file.pdf?Expires=1777943332&Signature=o3KD0EWIHOabtHtCpP~-YqDcEGYWkcwcPvzHX7ee3GSEhiaTOXXM~hKZ9QRVVYsuDhACwz3sJz4jFk1~UGfG8tWF5hvdfE2tgBm8iHNVDVf8uPkLYikKT2frt7cU-99bz6HKh3PilPd78I9hD0ntJfAMZODzOuLOviuCiWktnznd0nD6t4FJB7MS4OSM9Yo4RUcf4yFSac~JjQ8IQi~jnaA58ypxbdoh435nBkgcxkeRQzGN3blzPUZ950q4Ag7Y5PJD-Hf-zXB8cyce-OYu7kIT-is~psnQYb8CUnpwN~uDJZQoq8c7sokvBf05cuIsSc42T-tD46M51cvFPFvVwg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA">Supplement</a>
       <a href="https://www.eurekalert.org/news-releases/1079947">Media</a>
       <a href="https://mp.weixin.qq.com/s/41BTiP_SJ3_5UuKTy1U4nA">News</a>
     </div>
