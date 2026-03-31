@@ -18,9 +18,6 @@ redirect_from:
     <div class="home-hero-intro">
       <div class="home-small-title">Academic Homepage</div>
       <h1 class="home-name">Ziwei Wang 王紫薇</h1>
-      <p class="home-position">
-        Ph.D. Candidate, Huazhong University of Science and Technology
-      </p>
 
       <p class="home-summary">
         I am a Ph.D. candidate at Huazhong University of Science and Technology, supervised by
