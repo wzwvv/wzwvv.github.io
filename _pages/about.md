@@ -19,10 +19,7 @@ redirect_from:
       <h1 class="home-name">Ziwei Wang 王紫薇</h1>
 
       <p class="home-summary">
-        I am a Ph.D. candidate at Huazhong University of Science and Technology, supervised by
-<a href="https://lab.bciml.cn/">Prof. Dongrui Wu</a>. My research focuses on
-<strong>deep learning</strong>, <strong>brain–computer interfaces</strong>, and <strong>smart healthcare</strong>,
-with particular interests in <strong>brain foundation models</strong> and <strong>brain signal generation</strong>.
+        I am a Ph.D. candidate at Huazhong University of Science and Technology, supervised by <a href="https://lab.bciml.cn/">Prof. Dongrui Wu</a>. My research focuses on deep learning, brain–computer interfaces, and smart healthcare, with particular interests in brain foundation models and brain signal generation.
       </p>
 
       <p class="home-summary">
