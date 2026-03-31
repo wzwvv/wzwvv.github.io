@@ -179,7 +179,7 @@ with particular interests in <strong>brain foundation models</strong> and <stron
     <div class="pub-venue">Journal of Neural Engineering 2023</div>
     <div class="pub-title">Unsupervised domain adaptation for cross-patient seizure classification</div>
     <div class="pub-authors"><strong>Z. Wang</strong>, W. Zhang, S. Li, X. Chen, and D. Wu*</div>
-    <div class="pub-meta"><em>Journal of Neural Engineering</em>, vol. 20, no. 6, p. 066002, 2023. <span class="pub-tag">CAA A-class</span></div>
+    <div class="pub-meta"><em>Journal of Neural Engineering</em>, vol. 20, no. 6, p. 066002, 2023. <span class="pub-tag">CAS Q2 Top</span> </div>
     <div class="pub-links">
       <a href="https://iopscience.iop.org/article/10.1088/1741-2552/ad0859/meta">Paper</a>
       <a href="https://github.com/wzwvv/TASA">Code</a>
