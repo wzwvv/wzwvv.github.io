@@ -55,7 +55,7 @@ with particular interests in <strong>brain foundation models</strong> and <stron
       </p>
     </div>
     <div class="highlight-card">
-      <div class="highlight-title">Selected Achievements</div>
+      <div class="highlight-title">Research Highlights</div>
       <p>
         8 first-author papers, including 6 CAS Q1/Top journals such as
         <em>National Science Review</em>, <em>IEEE JBHI</em>, <em>Neural Networks</em>, and <em>KBS</em>.
