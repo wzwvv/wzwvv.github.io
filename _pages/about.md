@@ -20,11 +20,9 @@ redirect_from:
 
       <p class="home-summary">
         I am a Ph.D. candidate at Huazhong University of Science and Technology, supervised by
-        <a href="https://lab.bciml.cn/">Prof. Dongrui Wu</a>. My research focuses on
-        <strong>brain–computer interfaces (BCI)</strong>, <strong>EEG decoding</strong>,
-        <strong>machine learning</strong>, and <strong>smart healthcare</strong>, with particular
-        interests in cross-subject / cross-dataset generalization, knowledge-driven EEG data generation,
-        cross-species transfer, and clinically reliable brain-signal modeling.
+<a href="https://lab.bciml.cn/">Prof. Dongrui Wu</a>. My research focuses on
+<strong>deep learning</strong>, <strong>brain–computer interfaces</strong>, and <strong>smart healthcare</strong>,
+with particular interests in <strong>brain foundation models</strong> and <strong>brain signal generation</strong>.
       </p>
 
       <p class="home-summary">
@@ -34,7 +32,7 @@ redirect_from:
       </p>
 
       <div class="topic-tags">
-        <span>Foundation Models</span>
+        <span>Foundation Model</span>
         <span>Biomedical Engineering</span>
         <span>Smart Healthcare</span>
       </div>
