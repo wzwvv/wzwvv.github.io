@@ -79,20 +79,21 @@ redirect_from:
 
 ## News
 
-- **03 / 2026** — Our new survey on brain signal generation is now available on [arXiv](https://arxiv.org/abs/2603.12296v1). Special thanks to Tiki🐱 for kindly providing her photo for the figures.
+- **03 / 2026** — New survey on brain signal generation is now available on [arXiv](https://arxiv.org/abs/2603.12296v1). Special thanks to Tiki🐱 for kindly providing her photo for the figures.
 - **02 / 2026** — Selected for the **Top 10 Advances in Brain–Computer Interfaces in China (Huanau Award)**.
-- **12 / 2025** — Supported by the **Doctoral Student Program of the Young S&T Talents Cultivation Project from CAST**.
-- **12 / 2025** — Supported by the **Youth Student Fundamental Research Project from NSFC**.
+- **12 / 2025** — Supported by the **Doctoral Student Program of the Young S&T Talents Cultivation Project from CAST** (40,000 RMB).
+- **12 / 2025** — Supported by the **Youth Student Fundamental Research Project from NSFC** (300,000 RMB).
 - **10 / 2025** — Awarded **National Scholarship (Ph.D.)**.
 - **10 / 2025** — Awarded **Merit Student Pacesetter**, the highest student honor at HUST.
 - **10 / 2025** — **DBConformer** accepted by **IEEE JBHI**.
-- **10 / 2025** — **MVCNet** accepted by **KBS**.
 - **09 / 2025** — Awarded **Ant Group InTech Scholarship**.
+- **07 / 2025** — **MVCNet** accepted by **KBS**.
 - **03 / 2025** — **CST** accepted by **National Science Review**.
 - **02 / 2025** — **CSDA** accepted by **KBS**.
 - **12 / 2024** — Awarded **IOP Trusted Reviewer**.
-- **10 / 2025** — Awarded **National Scholarship (Ph.D.)**.
+- **10 / 2024** — Awarded **National Scholarship (Ph.D.)**.
 - **08 / 2024** — Selected for the **Top 10 Highlights in Brain–Computer Interfaces in China (Huanau Award)**.
+- **04 / 2024** - **CR** accepted by **KBS**.
 
 ## Publications
 
