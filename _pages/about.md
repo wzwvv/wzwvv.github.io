@@ -84,8 +84,6 @@ redirect_from:
 
 ## News
 
-<div class="section-note">Recent updates, papers, awards, and invited talks.</div>
-
 - **03 / 2026** — Our new survey on brain signal generation is now available on [arXiv](https://arxiv.org/abs/2603.12296v1). Special thanks to Tiki🐱 for kindly providing her photo for the figures.
 - **02 / 2026** — Selected for the **Top 10 Advances in Brain–Computer Interfaces in China (Huanau Award)**.
 - **12 / 2025** — Supported by the **Doctoral Student Program of the Young S&T Talents Cultivation Project from CAST**.
@@ -102,8 +100,6 @@ redirect_from:
 - **08 / 2024** — Selected for the **Top 10 Highlights in Brain–Computer Interfaces in China (Huanau Award)**.
 
 ## Publications
-
-<div class="section-note">Selected publications.</div>
 
 <div class="pub-card">
   <div class="pub-thumb"><img src="images/CST.png" alt="CST"></div>
@@ -201,16 +197,17 @@ redirect_from:
 
 ## Awards
 
-- **Ant Group InTech Scholarship** (10 awardees worldwide; 2 in Digital Medicine)
-- **National Scholarship (Ph.D.)**
-- **National Scholarship (Ph.D.)**
-- **National Scholarship (Undergraduate)**
-- **Outstanding Graduate of Hunan Province**
-- **Merit Student Pacesetter** (Highest Student Honor at HUST)
-- **IEEE Computational Intelligence Society Scholarship** (5 awardees worldwide)
-- **Top 10 Advances in Brain–Computer Interfaces in China (Huanau Award)**
-- **Top 10 Highlights in Brain–Computer Interfaces in China (Huanau Award)**
-- **National First Prize in World Robot Contest**
+- **2025 Ant Group InTech Scholarship** (10 awardees worldwide; 2 in Digital Medicine)
+- **2025 National Scholarship (Ph.D.)**
+- **2024 National Scholarship (Ph.D.)**
+- **2021 National Scholarship (Undergraduate)**
+- **2021 Outstanding Graduate of Hunan Province**
+- **2025 Merit Student Pacesetter** (Highest Student Honor at HUST)
+- **2022 IEEE Computational Intelligence Society Scholarship** (5 awardees worldwide)
+- **2025 Top 10 Advances in Brain–Computer Interfaces in China (Huanau Award)**
+- **2024 Top 10 Highlights in Brain–Computer Interfaces in China (Huanau Award)**
+- **2023 National First Prize in World Robot Contest**
+- **2025 National Second Prize in World Robot Contest**
 
 ## Education
 
