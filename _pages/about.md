@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Ziwei Wang | BCI, EEG Foundation Models, and Machine Learning"
-excerpt: "Ph.D. candidate at HUST working on EEG decoding, foundation models, and machine learning for brain–computer interfaces and smart healthcare."
+excerpt: "Ph.D. candidate at HUST working on EEG decoding, foundation models, and deep learning for brain–computer interfaces and smart healthcare."
 author_profile: true
 redirect_from: 
   - /about/
@@ -20,7 +20,6 @@ redirect_from:
 
       <p class="home-summary">
         Ph.D. Candidate at Huazhong University of Science and Technology (<strong>HUST</strong>), supervised by <a href="https://lab.bciml.cn/">Prof. Dongrui Wu</a>.<br>
-        <strong>Brain–Computer Interface (BCI)</strong> | <strong>EEG Foundation Models</strong> | <strong>Machine Learning</strong>
       </p>
 
       <p class="home-summary">
