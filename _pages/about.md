@@ -86,14 +86,14 @@ My long-term goal is to build <strong>reliable EEG foundation models</strong> fo
 I am particularly interested in three directions:
 - <strong>Data-efficient learning</strong>: learning robust EEG representations from limited labeled data.
 - <strong>Generalizable modeling</strong>: improving transfer across subjects, datasets, modalities, and even species.
-- <strong>Knowledge-driven intelligence</strong>: integrating neuroscience priors and signal-processing knowledge into data generation and decoding models.
+- <strong>Knowledge-driven intelligence</strong>: integrating neuroscience priors and signal processing knowledge into data generation and decoding models.
 
 ## Selected Contributions
 
-- <strong>Cross-species EEG transfer for seizure detection</strong>: proposed a multi-space alignment framework that transfers knowledge from canine EEG to human seizure detection.
-- <strong>Efficient EEG decoding architectures</strong>: developed DBConformer, a dual-branch convolutional Transformer for accurate and lightweight EEG decoding.
-- <strong>Knowledge-driven EEG augmentation</strong>: introduced Channel Reflection and time-frequency augmentation methods to improve robustness under limited data.
-- <strong>Representation learning for BCIs</strong>: developed MVCNet to enhance motor imagery decoding through multi-view contrastive learning.
+- <strong>Cross-species EEG transfer for seizure detection</strong>: proposed <a href="https://academic.oup.com/nsr/article/12/6/nwaf086/8052010?login=true">ResizeNet+MSA</a> to transfer knowledge from canine EEG to human seizure detection, enabling cross-species and cross-modality generalization under limited target labels.
+- <strong>Efficient EEG decoding architectures</strong>: developed <a href="https://doi.org/10.1109/JBHI.2025.3622725">DBConformer</a>, a dual-branch convolutional Transformer that improves EEG decoding accuracy with a lightweight design.
+- <strong>Knowledge-driven EEG augmentation</strong>: introduced <a href="https://www.sciencedirect.com/science/article/pii/S0893608024002752">Channel Reflection (CR)</a>, <a href="https://www.sciencedirect.com/science/article/pii/S0950705125001212">DWTaug</a>, and HHTaug to improve decoding robustness under limited training data.
+- <strong>Representation learning for BCIs</strong>: developed MVCNet and TASA-SDS for contrastive learning and domain adaptation in EEG decoding.
 
 ## News
 
@@ -118,7 +118,7 @@ I am particularly interested in three directions:
     <div class="pub-title">Canine EEG helps human: Cross-species and cross-modality epileptic seizure detection via multi-space alignment</div>
     <div class="pub-authors"><strong>Z. Wang</strong>, S. Li, and D. Wu*</div>
     <div class="pub-meta"><em>National Science Review</em>, vol. 12, no. 6, p. nwaf086, 2025. <span class="pub-tag">CAS Q1 Top</span></div>
-    <div class="pub-desc">A cross-species and cross-modality transfer framework for seizure detection, showing that canine EEG can help human EEG analysis under limited target labels.</div>
+    <div class="pub-desc">A cross-species and cross-modality transfer framework for seizure detection, showing that canine EEG can help human EEG analysis.</div>
     <div class="pub-links">
       <a href="https://academic.oup.com/nsr/article/12/6/nwaf086/8052010?login=true">Paper</a>
       <a href="https://github.com/wzwvv/CST">Code</a>
@@ -135,7 +135,7 @@ I am particularly interested in three directions:
     <div class="pub-title">DBConformer: Dual-branch convolutional Transformer for EEG decoding</div>
     <div class="pub-authors"><strong>Z. Wang</strong>, H. Wang, T. Jia, X. He, S. Li, and D. Wu*</div>
     <div class="pub-meta"><em>IEEE Journal of Biomedical and Health Informatics</em>, early access, 2025. DOI: 10.1109/JBHI.2025.3622725. <span class="pub-tag">CAS Q1 Top</span></div>
-    <div class="pub-desc">A dual-branch temporal-spatial architecture for EEG decoding that improves performance while remaining parameter-efficient.</div>
+    <div class="pub-desc">A dual-branch temporal-spatial model for EEG decoding that improves performance while remaining parameter-efficient.</div>
     <div class="pub-links">
       <a href="https://doi.org/10.1109/JBHI.2025.3622725">Paper</a>
       <a href="https://github.com/wzwvv/DBConformer">Code</a>
@@ -150,7 +150,7 @@ I am particularly interested in three directions:
     <div class="pub-title">Channel reflection: Knowledge-driven data augmentation for EEG-based BCIs</div>
     <div class="pub-authors"><strong>Z. Wang</strong>†, S. Li†, J. Luo, J. Liu, and D. Wu*</div>
     <div class="pub-meta"><em>Neural Networks</em>, vol. 176, p. 106351, 2024. <span class="pub-tag">CAS Q1 Top</span></div>
-    <div class="pub-desc">A knowledge-driven spatial augmentation method that leverages EEG channel symmetry to improve robustness in EEG decoding.</div>
+    <div class="pub-desc">A knowledge-driven spatial augmentation strategy that leverages EEG channel symmetry to improve decoding accuracy and robustness.</div>
     <div class="pub-links">
       <a href="https://www.sciencedirect.com/science/article/pii/S0893608024002752">Paper</a>
       <a href="https://github.com/wzwvv/EEGAug">Code</a>
@@ -196,7 +196,7 @@ I am particularly interested in three directions:
     <div class="pub-title">Unsupervised domain adaptation for cross-patient seizure classification</div>
     <div class="pub-authors"><strong>Z. Wang</strong>, W. Zhang, S. Li, X. Chen, and D. Wu*</div>
     <div class="pub-meta"><em>Journal of Neural Engineering</em>, vol. 20, no. 6, p. 066002, 2023. <span class="pub-tag">CAS Q2 Top</span></div>
-    <div class="pub-desc">An unsupervised domain adaptation framework for seizure classification across patients under distribution shifts.</div>
+    <div class="pub-desc">An unsupervised domain adaptation framework for seizure detection across patients under distribution shifts.</div>
     <div class="pub-links">
       <a href="https://iopscience.iop.org/article/10.1088/1741-2552/ad0859/meta">Paper</a>
       <a href="https://github.com/wzwvv/TASA">Code</a>
@@ -237,7 +237,7 @@ I am particularly interested in three directions:
 - <strong>12 / 2024</strong> — China Brain–Computer Intelligence Conference Poster
 - <strong>12 / 2025</strong> — SAAC 2025 Poster: <em>DBConformer</em>
 
-## Experience
+## Internships
 
 <strong>Alibaba Cloud</strong>, China  
 <em>10 / 2022 – 04 / 2023</em>
