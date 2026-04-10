@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Ziwei Wang | BCI, EEG, and Machine Learning"
-excerpt: "Ph.D. candidate at HUST working on BCI, EEG decoding, and machine learning for smart healthcare."
+title: "Ziwei Wang | BCI, EEG Foundation Models, and Machine Learning"
+excerpt: "Ph.D. candidate at HUST working on EEG decoding, foundation models, and machine learning for brain–computer interfaces and smart healthcare."
 author_profile: true
 redirect_from: 
   - /about/
@@ -19,26 +19,29 @@ redirect_from:
       <h1 class="home-name">Ziwei Wang 王紫薇</h1>
 
       <p class="home-summary">
-        I am a Ph.D. candidate at Huazhong University of Science and Technology, supervised by <a href="https://lab.bciml.cn/">Prof. Dongrui Wu</a>. My research focuses on deep learning and biomedical engineering, with particular interests in brain foundation models and brain signal generation.
+        Ph.D. Candidate at Huazhong University of Science and Technology (<strong>HUST</strong>), supervised by <a href="https://lab.bciml.cn/">Prof. Dongrui Wu</a>.<br>
+        <strong>Brain–Computer Interface (BCI)</strong> | <strong>EEG Foundation Models</strong> | <strong>Machine Learning</strong>
       </p>
 
       <p class="home-summary">
-        I was selected for the <strong>Youth Student Fundamental Research Project from NSFC</strong>
-        and the <strong>Doctoral Student Program of the Young S&amp;T Talents Cultivation Project from CAST</strong>,
-        with a total funding of <strong>340,000 RMB</strong> (~48,000 USD).
+        My research focuses on <strong>data-efficient, robust, and generalizable EEG decoding</strong> under data scarcity and distribution shifts, including cross-subject, cross-dataset, cross-modality, and cross-species settings.
+      </p>
+
+      <p class="home-summary">
+        I am supported by the <strong>Youth Student Fundamental Research Project from NSFC</strong> and the <strong>Doctoral Student Program of the Young S&amp;T Talents Cultivation Project from CAST</strong>, with total funding of <strong>340,000 RMB</strong> (~48,000 USD).
       </p>
 
       <div class="topic-tags">
-        <span>Foundation Model</span>
-        <span>Biomedical Engineering</span>
+        <span>EEG Foundation Models</span>
+        <span>BCI under Distribution Shift</span>
         <span>Smart Healthcare</span>
       </div>
 
       <div class="hero-links">
-        <a href="https://scholar.google.com/citations?user=fjlXqvQAAAAJ&hl=en" target="_blank">Google Scholar</a>
-        <a href="https://github.com/wzwvv" target="_blank">GitHub</a>
-        <a href="/files/CV_Ziwei_Wang.pdf" target="_blank">CV</a>
-        <a href="vivi@hust.edu.cn">Email</a>
+        <a href="https://scholar.google.com/citations?user=fjlXqvQAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>
+        <a href="https://github.com/wzwvv" target="_blank" rel="noopener">GitHub</a>
+        <a href="/files/CV_Ziwei_Wang.pdf" target="_blank" rel="noopener">CV</a>
+        <a href="mailto:vivi@hust.edu.cn">Email</a>
       </div>
     </div>
   </div>
@@ -47,21 +50,21 @@ redirect_from:
     <div class="highlight-card">
       <div class="highlight-title">Research Focus</div>
       <p>
-        EEG decoding under data scarcity and distribution shift, including cross-subject,
+        EEG decoding under data scarcity and distribution shift, spanning cross-subject,
         cross-dataset, cross-modality, and cross-species transfer.
       </p>
     </div>
     <div class="highlight-card">
       <div class="highlight-title">Research Highlights</div>
       <p>
-        8 first-author papers, including 6 CAS Q1/Top journals such as
-        <em>National Science Review</em>, <em>IEEE JBHI</em>, <em>Neural Networks</em>, and <em>Knowledge-Based Systems</em>.
+        <strong>8 first-author papers</strong>, including <strong>6 CAS Q1/Top journals</strong>
+        such as <em>National Science Review</em>, <em>IEEE JBHI</em>, <em>Neural Networks</em>, and <em>Knowledge-Based Systems</em>.
       </p>
     </div>
     <div class="highlight-card">
       <div class="highlight-title">Honors</div>
       <p>
-        National Scholarship ×3, Ant Group InTech Scholarship, IEEE CIS Scholarship,
+        Ant Group InTech Scholarship, National Scholarship ×3, IEEE CIS Student Grant,
         Merit Student Pacesetter at HUST, and Huanau Top-10 BCI Awards in China.
       </p>
     </div>
@@ -76,26 +79,37 @@ redirect_from:
 
 </div>
 
+## Research Vision
+
+My long-term goal is to build <strong>reliable EEG foundation models</strong> for real-world BCI and smart healthcare.
+
+I am particularly interested in three directions:
+- <strong>Data-efficient learning</strong>: learning robust EEG representations from limited labeled data.
+- <strong>Generalizable modeling</strong>: improving transfer across subjects, datasets, modalities, and even species.
+- <strong>Knowledge-driven intelligence</strong>: integrating neuroscience priors and signal-processing knowledge into data generation and decoding models.
+
+## Selected Contributions
+
+- <strong>Cross-species EEG transfer for seizure detection</strong>: proposed a multi-space alignment framework that transfers knowledge from canine EEG to human seizure detection.
+- <strong>Efficient EEG decoding architectures</strong>: developed DBConformer, a dual-branch convolutional Transformer for accurate and lightweight EEG decoding.
+- <strong>Knowledge-driven EEG augmentation</strong>: introduced Channel Reflection and time-frequency augmentation methods to improve robustness under limited data.
+- <strong>Representation learning for BCIs</strong>: developed MVCNet to enhance motor imagery decoding through multi-view contrastive learning.
 
 ## News
 
-- **03 / 2026** — New survey on brain signal generation is now available on [arXiv](https://arxiv.org/abs/2603.12296v1). Special thanks to Tiki🐱 for kindly providing her photo for the figures.
-- **02 / 2026** — Selected for the **Top 10 Advances in Brain–Computer Interfaces in China (Huanau Award)**.
-- **12 / 2025** — Supported by the **Doctoral Student Program of the Young S&T Talents Cultivation Project from CAST** (40,000 RMB).
-- **12 / 2025** — Supported by the **Youth Student Fundamental Research Project from NSFC** (300,000 RMB).
-- **10 / 2025** — Awarded **National Scholarship (Ph.D.)**.
-- **10 / 2025** — Awarded **Merit Student Pacesetter**, the highest student honor at HUST.
-- **10 / 2025** — **DBConformer** accepted by **IEEE JBHI**.
-- **09 / 2025** — Awarded **Ant Group InTech Scholarship**.
-- **07 / 2025** — **MVCNet** accepted by **Knowledge-Based Systems**.
-- **03 / 2025** — **CST** accepted by **National Science Review**.
-- **02 / 2025** — **CSDA** accepted by **Knowledge-Based Systems**.
-- **12 / 2024** — Awarded **IOP Trusted Reviewer**.
-- **10 / 2024** — Awarded **National Scholarship (Ph.D.)**.
-- **08 / 2024** — Selected for the **Top 10 Highlights in Brain–Computer Interfaces in China (Huanau Award)**.
-- **04 / 2024** - **CR** accepted by **Neural Networks**.
+- <strong>03 / 2026</strong> — Our survey on brain signal generation is available on <a href="https://arxiv.org/abs/2603.12296v1">arXiv</a>. Special thanks to Tiki 🐱 for kindly providing her photo for the figures.
+- <strong>02 / 2026</strong> — Selected for the <strong>Top 10 Advances in Brain–Computer Interfaces in China (Huanau Award)</strong>.
+- <strong>12 / 2025</strong> — Supported by the <strong>Doctoral Student Program of the Young S&amp;T Talents Cultivation Project from CAST</strong> (40,000 RMB).
+- <strong>12 / 2025</strong> — Supported by the <strong>Youth Student Fundamental Research Project from NSFC</strong> (300,000 RMB).
+- <strong>10 / 2025</strong> — <strong>DBConformer</strong> accepted by <strong>IEEE JBHI</strong>.
+- <strong>09 / 2025</strong> — Awarded the <strong>Ant Group InTech Scholarship</strong>.
+- <strong>07 / 2025</strong> — <strong>MVCNet</strong> accepted by <strong>Knowledge-Based Systems</strong>.
+- <strong>03 / 2025</strong> — <strong>CST</strong> accepted by <strong>National Science Review</strong>.
+- <strong>02 / 2025</strong> — <strong>CSDA</strong> accepted by <strong>Knowledge-Based Systems</strong>.
+- <strong>08 / 2024</strong> — Selected for the <strong>Top 10 Highlights in Brain–Computer Interfaces in China (Huanau Award)</strong>.
+- <strong>04 / 2024</strong> — <strong>CR</strong> accepted by <strong>Neural Networks</strong>.
 
-## Publications
+## Representative Publications
 
 <div class="pub-card">
   <div class="pub-thumb"><img src="images/CST.png" alt="CST"></div>
@@ -104,10 +118,10 @@ redirect_from:
     <div class="pub-title">Canine EEG helps human: Cross-species and cross-modality epileptic seizure detection via multi-space alignment</div>
     <div class="pub-authors"><strong>Z. Wang</strong>, S. Li, and D. Wu*</div>
     <div class="pub-meta"><em>National Science Review</em>, vol. 12, no. 6, p. nwaf086, 2025. <span class="pub-tag">CAS Q1 Top</span></div>
+    <div class="pub-desc">A cross-species and cross-modality transfer framework for seizure detection, showing that canine EEG can help human EEG analysis under limited target labels.</div>
     <div class="pub-links">
       <a href="https://academic.oup.com/nsr/article/12/6/nwaf086/8052010?login=true">Paper</a>
       <a href="https://github.com/wzwvv/CST">Code</a>
-      <a href="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/nsr/12/6/10.1093_nsr_nwaf086/2/nwaf086_supplemental_file.pdf?Expires=1777943332&Signature=o3KD0EWIHOabtHtCpP~-YqDcEGYWkcwcPvzHX7ee3GSEhiaTOXXM~hKZ9QRVVYsuDhACwz3sJz4jFk1~UGfG8tWF5hvdfE2tgBm8iHNVDVf8uPkLYikKT2frt7cU-99bz6HKh3PilPd78I9hD0ntJfAMZODzOuLOviuCiWktnznd0nD6t4FJB7MS4OSM9Yo4RUcf4yFSac~JjQ8IQi~jnaA58ypxbdoh435nBkgcxkeRQzGN3blzPUZ950q4Ag7Y5PJD-Hf-zXB8cyce-OYu7kIT-is~psnQYb8CUnpwN~uDJZQoq8c7sokvBf05cuIsSc42T-tD46M51cvFPFvVwg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA">Supplement</a>
       <a href="https://www.eurekalert.org/news-releases/1079947">Media</a>
       <a href="https://mp.weixin.qq.com/s/41BTiP_SJ3_5UuKTy1U4nA">News</a>
     </div>
@@ -121,6 +135,7 @@ redirect_from:
     <div class="pub-title">DBConformer: Dual-branch convolutional Transformer for EEG decoding</div>
     <div class="pub-authors"><strong>Z. Wang</strong>, H. Wang, T. Jia, X. He, S. Li, and D. Wu*</div>
     <div class="pub-meta"><em>IEEE Journal of Biomedical and Health Informatics</em>, early access, 2025. DOI: 10.1109/JBHI.2025.3622725. <span class="pub-tag">CAS Q1 Top</span></div>
+    <div class="pub-desc">A dual-branch temporal-spatial architecture for EEG decoding that improves performance while remaining parameter-efficient.</div>
     <div class="pub-links">
       <a href="https://doi.org/10.1109/JBHI.2025.3622725">Paper</a>
       <a href="https://github.com/wzwvv/DBConformer">Code</a>
@@ -135,6 +150,7 @@ redirect_from:
     <div class="pub-title">Channel reflection: Knowledge-driven data augmentation for EEG-based BCIs</div>
     <div class="pub-authors"><strong>Z. Wang</strong>†, S. Li†, J. Luo, J. Liu, and D. Wu*</div>
     <div class="pub-meta"><em>Neural Networks</em>, vol. 176, p. 106351, 2024. <span class="pub-tag">CAS Q1 Top</span></div>
+    <div class="pub-desc">A knowledge-driven spatial augmentation method that leverages EEG channel symmetry to improve robustness in EEG decoding.</div>
     <div class="pub-links">
       <a href="https://www.sciencedirect.com/science/article/pii/S0893608024002752">Paper</a>
       <a href="https://github.com/wzwvv/EEGAug">Code</a>
@@ -150,6 +166,7 @@ redirect_from:
     <div class="pub-title">Time-frequency transform based EEG data augmentation for brain-computer interfaces</div>
     <div class="pub-authors"><strong>Z. Wang</strong>, S. Li, X. Chen, and D. Wu*</div>
     <div class="pub-meta"><em>Knowledge-Based Systems</em>, vol. 311, p. 113074, 2025. <span class="pub-tag">CAS Q1 Top</span></div>
+    <div class="pub-desc">A time-frequency augmentation framework that improves EEG decoding performance under limited training data.</div>
     <div class="pub-links">
       <a href="https://www.sciencedirect.com/science/article/pii/S0950705125001212">Paper</a>
       <a href="https://github.com/wzwvv/CSDA">Code</a>
@@ -164,6 +181,7 @@ redirect_from:
     <div class="pub-title">MVCNet: Multi-view contrastive network for motor imagery classification</div>
     <div class="pub-authors"><strong>Z. Wang</strong>, S. Li, X. Chen, and D. Wu*</div>
     <div class="pub-meta"><em>Knowledge-Based Systems</em>, vol. 328, p. 114205, 2025. <span class="pub-tag">CAS Q1 Top</span></div>
+    <div class="pub-desc">A multi-view contrastive learning framework designed to improve representation learning for motor imagery classification.</div>
     <div class="pub-links">
       <a href="https://www.sciencedirect.com/science/article/pii/S0950705125012468">Paper</a>
       <a href="https://github.com/wzwvv/MVCNet">Code</a>
@@ -177,7 +195,8 @@ redirect_from:
     <div class="pub-venue">Journal of Neural Engineering 2023</div>
     <div class="pub-title">Unsupervised domain adaptation for cross-patient seizure classification</div>
     <div class="pub-authors"><strong>Z. Wang</strong>, W. Zhang, S. Li, X. Chen, and D. Wu*</div>
-    <div class="pub-meta"><em>Journal of Neural Engineering</em>, vol. 20, no. 6, p. 066002, 2023. <span class="pub-tag">CAS Q2 Top</span> </div>
+    <div class="pub-meta"><em>Journal of Neural Engineering</em>, vol. 20, no. 6, p. 066002, 2023. <span class="pub-tag">CAS Q2 Top</span></div>
+    <div class="pub-desc">An unsupervised domain adaptation framework for seizure classification across patients under distribution shifts.</div>
     <div class="pub-links">
       <a href="https://iopscience.iop.org/article/10.1088/1741-2552/ad0859/meta">Paper</a>
       <a href="https://github.com/wzwvv/TASA">Code</a>
@@ -193,37 +212,35 @@ redirect_from:
 
 ## Awards
 
-- **2025 Ant Group InTech Scholarship** (10 awardees worldwide; 2 in Digital Medicine)
-- **2025 National Scholarship (Ph.D.)**
-- **2024 National Scholarship (Ph.D.)**
-- **2021 National Scholarship (Undergraduate)**
-- **2021 Outstanding Graduate of Hunan Province**
-- **2025 Merit Student Pacesetter** (Highest Student Honor at HUST)
-- **2022 IEEE Computational Intelligence Society Scholarship** (5 awardees worldwide)
-- **2025 Top 10 Advances in Brain–Computer Interfaces in China (Huanau Award)**
-- **2024 Top 10 Highlights in Brain–Computer Interfaces in China (Huanau Award)**
-- **2023 National First Prize in World Robot Contest**
-- **2025 National Second Prize in World Robot Contest**
+- <strong>2025 Ant Group InTech Scholarship</strong> (10 awardees worldwide; 2 in Digital Medicine)
+- <strong>2025 National Scholarship (Ph.D.)</strong>
+- <strong>2024 National Scholarship (Ph.D.)</strong>
+- <strong>2021 National Scholarship (Undergraduate)</strong>
+- <strong>2025 Merit Student Pacesetter</strong> (highest student honor at HUST)
+- <strong>2022 IEEE Computational Intelligence Society Student Grant</strong> (5 awardees worldwide)
+- <strong>2025 Top 10 Advances in Brain–Computer Interfaces in China (Huanau Award)</strong>
+- <strong>2024 Top 10 Highlights in Brain–Computer Interfaces in China (Huanau Award)</strong>
+- <strong>2023 National First Prize in World Robot Contest</strong>
+- <strong>2025 National Second Prize in World Robot Contest</strong>
+- <strong>2021 Outstanding Graduate of Hunan Province</strong>
 
 ## Education
 
-- **09 / 2021 – Present** — Ph.D. candidate, Huazhong University of Science and Technology
-- **09 / 2017 – 06 / 2021** — B.Eng., Central South University
-
+- <strong>09 / 2021 – Present</strong> — Ph.D. candidate, Huazhong University of Science and Technology
+- <strong>09 / 2017 – 06 / 2021</strong> — B.Eng. in Measurement and Control Technology and Instrumentation, Central South University
 
 ## Talks
 
-- **11 / 2023** — ICONIP Tutorial: *Transfer learning for EEG-based brain–computer interfaces*
-- **05 / 2025** — CSSC Oral: *Cross-species and cross-modality seizure detection via multi-space alignment*
-- **09 / 2024** — Alibaba Cloud Yunqi Conference Oral: *EEG-based automatic seizure detection*
-- **12 / 2024** — China Brain–Computer Intelligence Conference Poster
-- **12 / 2025** — SAAC 2025 Poster: *DBConformer*
+- <strong>11 / 2023</strong> — ICONIP Tutorial: <em>Transfer learning for EEG-based brain–computer interfaces</em>
+- <strong>05 / 2025</strong> — CSSC Oral: <em>Cross-species and cross-modality seizure detection via multi-space alignment</em>
+- <strong>09 / 2024</strong> — Alibaba Cloud Yunqi Conference Oral: <em>EEG-based automatic seizure detection</em>
+- <strong>12 / 2024</strong> — China Brain–Computer Intelligence Conference Poster
+- <strong>12 / 2025</strong> — SAAC 2025 Poster: <em>DBConformer</em>
 
+## Experience
 
-## Internship
-
-**Alibaba Cloud**, China  
-*10 / 2022 – 04 / 2023*
+<strong>Alibaba Cloud</strong>, China  
+<em>10 / 2022 – 04 / 2023</em>
 
 - Designed five augmentation operators based on N-grams and TF-IDF for anomaly-aware data augmentation.
 - Proposed a SparseAttention module for long-sequence forecasting.
