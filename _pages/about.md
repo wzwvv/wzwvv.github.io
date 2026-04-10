@@ -235,6 +235,7 @@ I am particularly interested in three directions:
 - <strong>09 / 2024</strong> — Alibaba Cloud Yunqi Conference Oral: <em>EEG-based automatic seizure detection</em>
 - <strong>12 / 2024</strong> — China Brain–Computer Intelligence Conference Poster
 - <strong>12 / 2025</strong> — SAAC 2025 Poster: <em>DBConformer</em>
+- <strong>12 / 2024</strong> — SAAC 2024 Poster: <em>CR</em>
 
 ## Internships
 
