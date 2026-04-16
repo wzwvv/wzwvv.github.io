@@ -63,7 +63,7 @@ redirect_from:
     <div class="highlight-card">
       <div class="highlight-title">Honors</div>
       <p>
-        Ant Group InTech Scholarship, National Scholarship ×3, IEEE CIS Student Grant,
+        **Ant Group InTech Scholarship**, **National Scholarship ×3**, IEEE CIS Student Grant,
         Merit Student Pacesetter at HUST, and Huanau Top-10 BCI Awards in China.
       </p>
     </div>
@@ -91,22 +91,22 @@ I am particularly interested in three directions:
 
 - <strong>Cross-species EEG transfer for seizure detection</strong>: proposed <a href="https://academic.oup.com/nsr/article/12/6/nwaf086/8052010?login=true">ResizeNet+MSA</a> to transfer knowledge from canine EEG to human seizure detection, enabling cross-species and cross-modality generalization under limited target labels.
 - <strong>Efficient EEG decoding architectures</strong>: developed <a href="https://doi.org/10.1109/JBHI.2025.3622725">DBConformer</a>, a dual-branch convolutional Transformer that improves EEG decoding accuracy with a lightweight design.
-- <strong>Knowledge-driven EEG augmentation</strong>: introduced <a href="https://www.sciencedirect.com/science/article/pii/S0893608024002752">Channel Reflection (CR)</a>, <a href="https://www.sciencedirect.com/science/article/pii/S0950705125001212">DWTaug</a>, and HHTaug to improve decoding robustness under limited training data.
-- <strong>Representation learning for BCIs</strong>: developed [MVCNet](https://www.sciencedirect.com/science/article/pii/S0950705125012468) and [TASA-SDS](https://iopscience.iop.org/article/10.1088/1741-2552/ad0859/meta) for contrastive learning and domain adaptation in EEG decoding.
+- <strong>Knowledge-driven EEG augmentation</strong>: introduced <a href="https://www.sciencedirect.com/science/article/pii/S0893608024002752">Channel Reflection (CR)</a>, <a href="https://www.sciencedirect.com/science/article/pii/S0950705125001212">DWTaug</a>, and  <a href="https://www.sciencedirect.com/science/article/pii/S0950705125001212">HHTaug</a> to improve decoding robustness under limited training data.
+- <strong>Representation learning for BCIs</strong>: developed [MVCNet](https://www.sciencedirect.com/science/article/pii/S0950705125012468), CST, and [TASA-SDS](https://iopscience.iop.org/article/10.1088/1741-2552/ad0859/meta) for contrastive learning/transfer learning in EEG decoding.
 
 ## News
 
 - <strong>03 / 2026</strong> — Our survey on brain signal generation is available on <a href="https://arxiv.org/abs/2603.12296v1">arXiv</a>. Special thanks to Tiki 🐱 for kindly providing her photo for the figures.
-- <strong>02 / 2026</strong> — Selected for the <strong>Top 10 Advances in Brain–Computer Interfaces in China (Huanau Award)</strong>.
+- <strong>02 / 2026</strong> — Selected for the Top 10 Advances in Brain–Computer Interfaces in China (Huanau Award).
 - <strong>12 / 2025</strong> — Supported by the <strong>Doctoral Student Program of the Young S&amp;T Talents Cultivation Project from CAST</strong> (40,000 RMB).
 - <strong>12 / 2025</strong> — Supported by the <strong>Youth Student Fundamental Research Project from NSFC</strong> (300,000 RMB).
-- <strong>10 / 2025</strong> — <strong>DBConformer</strong> accepted by <strong>IEEE JBHI</strong>.
+- <strong>10 / 2025</strong> — DBConformer accepted by _IEEE JBHI_.
 - <strong>09 / 2025</strong> — Awarded the <strong>Ant Group InTech Scholarship</strong>.
-- <strong>07 / 2025</strong> — <strong>MVCNet</strong> accepted by <strong>Knowledge-Based Systems</strong>.
-- <strong>03 / 2025</strong> — <strong>CST</strong> accepted by <strong>National Science Review</strong>.
-- <strong>02 / 2025</strong> — <strong>CSDA</strong> accepted by <strong>Knowledge-Based Systems</strong>.
-- <strong>08 / 2024</strong> — Selected for the <strong>Top 10 Highlights in Brain–Computer Interfaces in China (Huanau Award)</strong>.
-- <strong>04 / 2024</strong> — <strong>CR</strong> accepted by <strong>Neural Networks</strong>.
+- <strong>07 / 2025</strong> — MVCNet accepted by _Knowledge-Based Systems_.
+- <strong>03 / 2025</strong> — CST accepted by _National Science Review_.
+- <strong>02 / 2025</strong> — CSDA accepted by _Knowledge-Based Systems_.
+- <strong>08 / 2024</strong> — Selected for the Top 10 Highlights in Brain–Computer Interfaces in China (Huanau Award).
+- <strong>04 / 2024</strong> — CR accepted by _Neural Networks_.
 
 ## Representative Publications
 
