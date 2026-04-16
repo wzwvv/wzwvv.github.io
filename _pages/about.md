@@ -63,7 +63,7 @@ redirect_from:
     <div class="highlight-card">
       <div class="highlight-title">Honors</div>
       <p>
-        **Ant Group InTech Scholarship**, **National Scholarship ×3**, IEEE CIS Student Grant,
+        <strong>Ant Group InTech Scholarship</strong>, <strong>National Scholarship ×3</strong>, IEEE CIS Student Grant,
         Merit Student Pacesetter at HUST, and Huanau Top-10 BCI Awards in China.
       </p>
     </div>
