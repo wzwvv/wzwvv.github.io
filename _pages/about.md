@@ -92,10 +92,11 @@ I am particularly interested in three directions:
 - <strong>Cross-species EEG transfer for seizure detection</strong>: proposed <a href="https://academic.oup.com/nsr/article/12/6/nwaf086/8052010?login=true">ResizeNet+MSA</a> to transfer knowledge from canine EEG to human seizure detection, enabling cross-species and cross-modality generalization under limited target labels.
 - <strong>Efficient EEG decoding architectures</strong>: developed <a href="https://doi.org/10.1109/JBHI.2025.3622725">DBConformer</a>, a dual-branch convolutional Transformer that improves EEG decoding accuracy with a lightweight design.
 - <strong>Knowledge-driven EEG augmentation</strong>: introduced <a href="https://www.sciencedirect.com/science/article/pii/S0893608024002752">Channel Reflection (CR)</a>, <a href="https://www.sciencedirect.com/science/article/pii/S0950705125001212">DWTaug</a>, and  <a href="https://www.sciencedirect.com/science/article/pii/S0950705125001212">HHTaug</a> to improve decoding robustness under limited training data.
-- <strong>Representation learning for BCIs</strong>: developed [MVCNet](https://www.sciencedirect.com/science/article/pii/S0950705125012468), CST, and [TASA-SDS](https://iopscience.iop.org/article/10.1088/1741-2552/ad0859/meta) for contrastive learning/transfer learning in EEG decoding.
+- <strong>Representation learning for BCIs</strong>: developed [MVCNet](https://www.sciencedirect.com/science/article/pii/S0950705125012468), [CST](https://academic.oup.com/nsr/article/12/6/nwaf086/8052010?login=true), and [TASA-SDS](https://iopscience.iop.org/article/10.1088/1741-2552/ad0859/meta) for contrastive learning/transfer learning in EEG decoding.
 
 ## News
 
+- <strong>04 / 2026</strong> — We have released the [CHSZ](https://zenodo.org/records/19333249) dataset for public download and use. Please refer to our [TASA-SDS](https://iopscience.iop.org/article/10.1088/1741-2552/ad0859/meta) and [CST](https://academic.oup.com/nsr/article/12/6/nwaf086/8052010?login=true) papers for details on the data processing procedures.
 - <strong>03 / 2026</strong> — Our survey on brain signal generation is available on <a href="https://arxiv.org/abs/2603.12296v2">arXiv</a>. Special thanks to Tiki 🐱 for kindly providing her photo for the figures.
 - <strong>02 / 2026</strong> — Selected for the Top 10 Advances in Brain–Computer Interfaces in China (Huanau Award).
 - <strong>12 / 2025</strong> — Supported by the <strong>Doctoral Student Program of the Young S&amp;T Talents Cultivation Project from CAST</strong> (40,000 RMB).
