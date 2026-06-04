@@ -96,7 +96,7 @@ I am particularly interested in three directions:
 
 ## News
 
-- <strong>04 / 2026</strong> — We have released the [CHSZ](https://zenodo.org/records/19333249) dataset, an EEG dataset collected from 27 children for epileptic seizure detection, for public download and use. Please refer to our [TASA-SDS](https://iopscience.iop.org/article/10.1088/1741-2552/ad0859/meta) and [CST](https://academic.oup.com/nsr/article/12/6/nwaf086/8052010?login=true) papers for details on the data processing procedures.
+- <strong>04 / 2026</strong> — We have released the [CHSZ](https://zenodo.org/records/19333249) dataset, an EEG dataset collected from 27 children for epileptic seizure detection, for public download and use. Please refer to our [TASA-SDS](https://iopscience.iop.org/article/10.1088/1741-2552/ad0859/meta) and [CST](https://academic.oup.com/nsr/article/12/6/nwaf086/8052010?login=true) papers for details of data processing.
 - <strong>03 / 2026</strong> — Our survey on brain signal generation is available on <a href="https://arxiv.org/abs/2603.12296v2">arXiv</a>. Special thanks to Tiki 🐱 for kindly providing her photo for the figures.
 - <strong>02 / 2026</strong> — Selected for the Top 10 Advances in Brain–Computer Interfaces in China (Huanau Award).
 - <strong>12 / 2025</strong> — Supported by the <strong>Doctoral Student Program of the Young S&amp;T Talents Cultivation Project from CAST</strong> (40,000 RMB).
