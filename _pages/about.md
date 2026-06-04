@@ -56,7 +56,7 @@ redirect_from:
     <div class="highlight-card">
       <div class="highlight-title">Research Highlights</div>
       <p>
-        <strong>8 first-author papers</strong>, including <strong>6 CAS Q1/Top journals</strong>
+        <strong>9 first-author papers</strong>, including <strong>7 Q1/Top/CAA-A journals</strong>
         such as <em>National Science Review</em>, <em>IEEE JBHI</em>, <em>Neural Networks</em>, and <em>Knowledge-Based Systems</em>.
       </p>
     </div>
