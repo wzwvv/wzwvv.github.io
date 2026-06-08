@@ -135,7 +135,7 @@ I am particularly interested in three directions:
     <div class="pub-venue">IEEE JBHI 2025</div>
     <div class="pub-title">DBConformer: Dual-branch convolutional Transformer for EEG decoding</div>
     <div class="pub-authors"><strong>Z. Wang</strong>, H. Wang, T. Jia, X. He, S. Li, and D. Wu*</div>
-    <div class="pub-meta"><em>IEEE Journal of Biomedical and Health Informatics</em>, early access, 2025. DOI: 10.1109/JBHI.2025.3622725. <span class="pub-tag">CAS Q1 Top</span></div>
+    <div class="pub-meta"><em>IEEE Journal of Biomedical and Health Informatics</em>, vol. 30, no. 5, pp. 4134–4147, 2026. <span class="pub-tag">CAS Q1 Top</span></div>
     <div class="pub-desc">A dual-branch temporal-spatial model for EEG decoding that improves performance while remaining parameter-efficient.</div>
     <div class="pub-links">
       <a href="https://doi.org/10.1109/JBHI.2025.3622725">Paper</a>
@@ -150,7 +150,7 @@ I am particularly interested in three directions:
     <div class="pub-venue">IEEE TBME 2026</div>
     <div class="pub-title">CKD: Contrastive knowledge distillation for cross-dataset EEG classification</div>
     <div class="pub-authors"><strong>Z. Wang</strong>, X. He, H. Wang, and D. Wu*</div>
-    <div class="pub-meta"><em>IEEE Tans. on Biomedicai Engineering</em>, early access, 2026. DOI: 10.1109/TBME.2026.3701548. <span class="pub-tag">CAA-A </span></div>
+    <div class="pub-meta"><em>IEEE Trans. on Biomedical Engineering</em>, Early access, 2026. DOI: 10.1109/TBME.2026.3701548. <span class="pub-tag">CAA-A </span></div>
     <div class="pub-desc">A two-stage contrastive knowledge distillation framework for cross-dataset EEG decoding</div>
     <div class="pub-links">
       <a href="--">Paper</a>
