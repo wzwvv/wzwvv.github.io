@@ -145,6 +145,21 @@ I am particularly interested in three directions:
 </div>
 
 <div class="pub-card">
+  <div class="pub-thumb"><img src="images/CKD.png" alt="CKD"></div>
+  <div class="pub-content">
+    <div class="pub-venue">IEEE TBME 2026</div>
+    <div class="pub-title">CKD: Contrastive knowledge distillation for cross-dataset EEG classification</div>
+    <div class="pub-authors"><strong>Z. Wang</strong>, X. He, H. Wang, and D. Wu*</div>
+    <div class="pub-meta"><em>IEEE Tans. on Biomedicai Engineering</em>, early access, 2026. DOI: 10.1109/TBME.2026.3701548. <span class="pub-tag">CAA-A </span></div>
+    <div class="pub-desc">A two-stage contrastive knowledge distillation framework for cross-dataset EEG decoding</div>
+    <div class="pub-links">
+      <a href="--">Paper</a>
+      <a href="--">Code</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-card">
   <div class="pub-thumb"><img src="images/CR.png" alt="Channel Reflection"></div>
   <div class="pub-content">
     <div class="pub-venue">Neural Networks 2024</div>
