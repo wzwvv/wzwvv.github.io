@@ -96,7 +96,7 @@ I am particularly interested in three directions:
 
 ## News
 
-- <strong>06 / 2026</strong> — CKD accepted by _IEEE TBME_.
+- <strong>06 / 2026</strong> — [CKD](https://ieeexplore.ieee.org/document/11554397) accepted by _IEEE TBME_.
 - <strong>04 / 2026</strong> — We have released the [CHSZ](https://zenodo.org/records/19333249) dataset, an EEG dataset collected from 27 children for epileptic seizure detection, for public download and use. Please refer to our [TASA-SDS](https://iopscience.iop.org/article/10.1088/1741-2552/ad0859/meta) and [CST](https://academic.oup.com/nsr/article/12/6/nwaf086/8052010?login=true) papers for details of data processing.
 - <strong>03 / 2026</strong> — Our survey on brain signal generation is available on <a href="https://arxiv.org/abs/2603.12296v2">arXiv</a>. Special thanks to Tiki 🐱 for kindly providing her photo for the figures.
 - <strong>02 / 2026</strong> — Selected for the Top 10 Advances in Brain–Computer Interfaces in China (Huanau Award).
@@ -153,7 +153,7 @@ I am particularly interested in three directions:
     <div class="pub-meta"><em>IEEE Trans. on Biomedical Engineering</em>, Early access, 2026. DOI: 10.1109/TBME.2026.3701548. <span class="pub-tag">CAA-A </span></div>
     <div class="pub-desc">A two-stage contrastive knowledge distillation framework for cross-dataset EEG decoding</div>
     <div class="pub-links">
-      <a href="--">Paper</a>
+      <a href="https://ieeexplore.ieee.org/document/11554397">Paper</a>
       <a href="--">Code</a>
     </div>
   </div>
