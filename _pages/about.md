@@ -31,15 +31,15 @@ redirect_from:
       </p>
 
       <div class="topic-tags">
-        <span>EEG Foundation Models</span>
-        <span>BCI under Distribution Shift</span>
-        <span>Smart Healthcare</span>
+        <span>Deep Learning</span>
+        <span>Brain-Computer Interfaces</span>
+        <span>Rehabilitation and healthcare foundation models</span>
       </div>
 
       <div class="hero-links">
         <a href="https://scholar.google.com/citations?user=fjlXqvQAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>
         <a href="https://github.com/wzwvv" target="_blank" rel="noopener">GitHub</a>
-        <a href="/files/CV_Ziwei_Wang.pdf" target="_blank" rel="noopener">CV</a>
+        <a href="files/CV_Ziwei_Wang.pdf" target="_blank" rel="noopener">CV</a>
         <a href="mailto:vivi@hust.edu.cn">Email</a>
       </div>
     </div>
