@@ -39,7 +39,7 @@ redirect_from:
       <div class="hero-links">
         <a href="https://scholar.google.com/citations?user=fjlXqvQAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>
         <a href="https://github.com/wzwvv" target="_blank" rel="noopener">GitHub</a>
-        <a href="https://github.com/wzwvv/wzwvv.github.io/blob/main/assets/files/CV_Ziwei_Wang.pdf" target="_blank" rel="noopener">CV</a>
+        <a href="https://drive.google.com/file/d/1ydKiiXGfXe8_be6ubCXB_66oQY6LXif0/view?usp=sharing" target="_blank" rel="noopener">CV</a>
         <a href="mailto:vivi@hust.edu.cn">Email</a>
       </div>
     </div>
