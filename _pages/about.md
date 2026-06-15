@@ -70,7 +70,7 @@ redirect_from:
     <div class="highlight-card">
       <div class="highlight-title">Service</div>
       <p>
-        Reviewer for IEEE TFS, IEEE JBHI, IEEE TNSRE, KBS, IEEE TBIOM, JNE,
+        Reviewer for IEEE RBME, IEEE TFS, IEEE JBHI, IEEE TNSRE, KBS, IEEE TBIOM, JNE,
         Scientific Reports, ICONIP, and IEEE SMC; recognized as an IOP Trusted Reviewer.
       </p>
     </div>
