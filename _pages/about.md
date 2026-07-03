@@ -80,19 +80,13 @@ redirect_from:
 
 ## Research Vision
 
-My long-term goal is to build <strong>reliable EEG foundation models</strong> for real-world BCI and smart healthcare.
+My long-term goal is to build reliable EEG foundation models that can better understand brain signals and support intelligent diagnosis, treatment, and rehabilitation of brain disorders.
 
-I am particularly interested in three directions:
-- <strong>Data-efficient learning</strong>: learning robust EEG representations from limited labeled data.
-- <strong>Generalizable modeling</strong>: improving transfer across subjects, datasets, modalities, and even species.
-- <strong>Knowledge-driven intelligence</strong>: integrating neuroscience priors and signal processing knowledge into data generation and decoding models.
+To address this goal, I have been working on three main directions:
 
-## Selected Contributions
-
-- <strong>Cross-species EEG transfer for seizure detection</strong>: proposed <a href="https://academic.oup.com/nsr/article/12/6/nwaf086/8052010?login=true">ResizeNet+MSA</a> to transfer knowledge from canine EEG to human seizure detection, enabling cross-species and cross-modality generalization under limited target labels.
-- <strong>Efficient EEG decoding architectures</strong>: developed <a href="https://doi.org/10.1109/JBHI.2025.3622725">DBConformer</a>, a dual-branch convolutional Transformer that improves EEG decoding accuracy with a lightweight design.
-- <strong>Knowledge-driven EEG augmentation</strong>: introduced <a href="https://www.sciencedirect.com/science/article/pii/S0893608024002752">Channel Reflection (CR)</a>, <a href="https://www.sciencedirect.com/science/article/pii/S0950705125001212">DWTaug</a>, and  <a href="https://www.sciencedirect.com/science/article/pii/S0950705125001212">HHTaug</a> to improve decoding robustness under limited training data.
-- <strong>Representation learning for BCIs</strong>: developed CKD, [MVCNet](https://www.sciencedirect.com/science/article/pii/S0950705125012468), [CST](https://academic.oup.com/nsr/article/12/6/nwaf086/8052010?login=true), and [TASA-SDS](https://iopscience.iop.org/article/10.1088/1741-2552/ad0859/meta) for contrastive learning/transfer learning in EEG decoding.
+- Cross-species and cross-modality EEG decoding: developing transfer learning frameworks for seizure detection across species and modalities, including knowledge transfer from canine to human EEG and from intracranial to scalp EEG, e.g., [ResizeNet+MSA](https://academic.oup.com/nsr/article/12/6/nwaf086/8052010?login=true).
+- Reliable EEG decoding under real-world challenges: designing robust decoding architectures and transfer learning algorithms for cross-subject, cross-dataset, low-sample, and low-SNR scenarios, including [DBConformer](https://doi.org/10.1109/JBHI.2025.3622725), [FAConformer](https://arxiv.org/abs/2606.14120), [MVCNet](https://www.sciencedirect.com/science/article/pii/S0950705125012468), [CKD](https://ieeexplore.ieee.org/document/11554397), and [TASA](https://iopscience.iop.org/article/10.1088/1741-2552/ad0859/meta).
+- Data foundations for brain foundation models: building knowledge-driven augmentation, denoising, and generation approaches, including [CR](https://www.sciencedirect.com/science/article/pii/S0893608024002752), [DWTaug](https://www.sciencedirect.com/science/article/pii/S0950705125001212), [HHTaug](https://www.sciencedirect.com/science/article/pii/S0950705125001212), DenoNet, and [DG4BCI](https://arxiv.org/abs/2603.12296v2), to support data-efficient EEG modeling, pretraining, and foundation model construction.
 
 ## News
 
