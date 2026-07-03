@@ -219,7 +219,7 @@ To address this goal, I have been working on three main directions:
   <div class="pub-content">
     <div class="pub-venue">arXiv 2026</div>
     <div class="pub-title">Synthetic data generation for brain-computer interfaces: Overview, benchmarking, and future directions</div>
-    <div class="pub-authors"><strong>Z. Wang</strong>, et al.</div>
+    <div class="pub-authors"><strong>Z. Wang</strong>, Z. He, X. He, H. Wang, T. Jia, J. Luo, S. Li, X. Chen, and D. Wu* <span class="pub-tag">CAS Q1 Top</span></div>
     <div class="pub-meta"><em>Artificial Intelligence Review</em>, under review, 2026.</div>
     <div class="pub-desc">Provide a methodological framework for brain-signal generation research.</div>
     <div class="pub-links">
@@ -234,7 +234,7 @@ To address this goal, I have been working on three main directions:
   <div class="pub-content">
     <div class="pub-venue">arXiv 2026</div>
     <div class="pub-title">FAConformer: Frequency-aware convolutional Transformer for auditory attention decoding</div>
-    <div class="pub-authors"><strong>Z. Wang†</strong>, X. He†, T. Jia, H. Wang, and D. Wu*</div>
+    <div class="pub-authors"><strong>Z. Wang†</strong>, X. He†, T. Jia, H. Wang, and D. Wu* <span class="pub-tag">CAS Q1 Top</span></div>
     <div class="pub-meta"><em>Science China Information Sciences</em>, under review, 2026.</div>
     <div class="pub-desc">Improve EEG-based AAD through multi-band modeling and cross-band fusion.</div>
     <div class="pub-links">
@@ -249,7 +249,7 @@ To address this goal, I have been working on three main directions:
   <div class="pub-content">
     <div class="pub-venue"></div>
     <div class="pub-title">DenoNet: A GAN-VAE hybrid generative model for SSVEP denoising</div>
-    <div class="pub-authors">Z. He†, <strong>Z. Wang†</strong>, and D. Wu*</div>
+    <div class="pub-authors">Z. He†, <strong>Z. Wang†</strong>, and D. Wu* <span class="pub-tag">CAS Q1 Top</span></div>
     <div class="pub-meta"><em>Engineering</em>, under review, 2026.</div>
     <div class="pub-desc">A GAN–VAE-based denoising model to improve decoding accuracy and robustness under low-SNR conditions.</div>
     <div class="pub-links">
