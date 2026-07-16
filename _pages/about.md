@@ -267,21 +267,21 @@ To address this goal, I have been working on three main directions:
 
 ## Awards
 
-- 主持国家自然科学基金博士生项目, 2025
-- 入选中国科协青年科技人才培育工程博士生专项计划, 2025
-- 首届蚂蚁InTech奖学金（全球10人）, 2025 
-- National Scholarship (国家奖学金), PhD, 2025
-- National Scholarship (国家奖学金), PhD, 2024
-- National Scholarship (国家奖学金), Undergraduate, 2020
-- 湖南省优秀毕业生, Undergraduate, 2021
-- 华中科技大学三好学生标兵（校学生最高荣誉）, 2025
-- 中南大学特等奖学金(校最高级别奖学金), 2021 
-- IEEE CIS Scholarship (IEEE计算智能学会奖学金), 全球5人, 2022
-- 脑机接口华瑙奖“中国脑机接口十大进展”（全国10项）, 2025
-- 脑机接口华瑙奖“中国脑机接口十大亮点”（全国10项）, 2024
-- 世界机器人大赛—脑控机器人大赛全国一等奖, 2023
-- 世界机器人大赛—脑控机器人大赛全国二等奖, 2025
-- 世界机器人大赛—脑控机器人大赛全国二等奖, 2021
+- <strong>主持国家自然科学基金博士生项目</strong>, 2025
+- <strong>入选中国科协青年科技人才培育工程博士生专项计划</strong>, 2025
+- <strong>首届蚂蚁InTech奖学金（全球10人）</strong>, 2025 
+- <strong>National Scholarship (国家奖学金)</strong>, PhD, 2025
+- <strong>National Scholarship (国家奖学金)</strong>, PhD, 2024
+- <strong>National Scholarship (国家奖学金)</strong>, Undergraduate, 2020
+- <strong>湖南省优秀毕业生</strong>, 2021
+- 华中科技大学三好学生标兵（<strong>校学生最高荣誉</strong>）, 2025
+- 中南大学特等奖学金(<strong>校最高级别奖学金</strong>), 2021 
+- IEEE CIS Scholarship (IEEE计算智能学会奖学金), <strong>全球5人</strong>, 2022
+- 脑机接口华瑙奖“中国脑机接口十大进展”（<strong>全国10项</strong>）, 2025
+- 脑机接口华瑙奖“中国脑机接口十大亮点”（<strong>全国10项</strong>）, 2024
+- 世界机器人大赛—脑控机器人大赛<strong>全国一等奖</strong>, 2023
+- 世界机器人大赛—脑控机器人大赛<strong>全国二等奖</strong>, 2025
+- 世界机器人大赛—脑控机器人大赛<strong>全国二等奖</strong>, 2021
 - IOP Trusted Reviewer(英国物理学会可信审稿人）, 2024
 
 ## Education
