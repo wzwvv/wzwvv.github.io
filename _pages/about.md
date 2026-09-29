@@ -90,6 +90,7 @@ To address this goal, I have been working on three main directions:
 
 ## News
 
+- <strong>06 / 2026</strong> — Awarded the Excellent Scientific and Technical Paper of Hubei Association for Science and Technology
 - <strong>06 / 2026</strong> — [CKD](https://ieeexplore.ieee.org/document/11554397) accepted by _IEEE TBME_.
 - <strong>04 / 2026</strong> — We have released the [CHSZ](https://zenodo.org/records/19333249) dataset, an EEG dataset collected from 27 children for epileptic seizure detection, for public download and use. Please refer to our [TASA-SDS](https://iopscience.iop.org/article/10.1088/1741-2552/ad0859/meta) and [CST](https://academic.oup.com/nsr/article/12/6/nwaf086/8052010?login=true) papers for details of data processing.
 - <strong>03 / 2026</strong> — Our survey on brain signal generation is available on <a href="https://arxiv.org/abs/2603.12296v2">arXiv</a>. Special thanks to Tiki 🐱 for kindly providing her photo for the figures.
