@@ -386,7 +386,7 @@ author_profile: false
     <div>
       <p class="zw-section-kicker">Contact</p>
       <h2 id="contact-title">Let's work together for generalizable and interpretable neural intelligence.</h2>
-      <p>I welcome conversations about cross-species learning, neural foundation models, brain-disorder intelligence, open datasets, and research internships.</p>
+      <p>I welcome conversations about cross-species learning, brain foundation models, brain-disorder intelligence, open datasets, and research internships.</p>
     </div>
     <div class="zw-contact-links">
       <a href="mailto:vivi@hust.edu.cn"><span>Email</span><strong>vivi@hust.edu.cn</strong></a>
