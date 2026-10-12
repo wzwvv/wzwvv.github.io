@@ -1,19 +1,69 @@
 <script>
-    $(document).ready(function () {
-        {% if site.google_scholar_stats_use_cdn %}
-        var gsDataBaseUrl = 'https://cdn.jsdelivr.net/gh/{{ site.repository }}@'
-        {% else %}
-        var gsDataBaseUrl = 'https://raw.githubusercontent.com/{{ site.repository }}/'
-        {% endif %}
-        $.getJSON(gsDataBaseUrl + "google-scholar-stats/gs_data.json", function (data) {
-            var totalCitation = data['citedby']
-            document.getElementById('total_cit').innerHTML = totalCitation;
-            var citationEles = document.getElementsByClassName('show_paper_citations')
-            Array.prototype.forEach.call(citationEles, element => {
-                var paperId = element.getAttribute('data')
-                var numCitations = data['publications'][paperId]['num_citations']
-                element.innerHTML = '| Citations: ' + numCitations;
-            });
+  (function () {
+    {% if site.google_scholar_stats_use_cdn %}
+    var primaryBaseUrl = 'https://cdn.jsdelivr.net/gh/{{ site.repository }}@';
+    {% else %}
+    var primaryBaseUrl = 'https://raw.githubusercontent.com/{{ site.repository }}/';
+    {% endif %}
+    var fallbackBaseUrl = 'https://raw.githubusercontent.com/{{ site.repository }}/';
+
+    function loadJson(path) {
+      return fetch(primaryBaseUrl + path, { cache: 'no-store' })
+        .then(function (response) {
+          if (!response.ok) throw new Error('HTTP ' + response.status);
+          return response.json();
+        })
+        .catch(function () {
+          if (primaryBaseUrl === fallbackBaseUrl) throw new Error('Metrics unavailable');
+          return fetch(fallbackBaseUrl + path, { cache: 'no-store' }).then(function (response) {
+            if (!response.ok) throw new Error('HTTP ' + response.status);
+            return response.json();
+          });
         });
-    })
+    }
+
+    function setMetric(id, value) {
+      var element = document.getElementById(id);
+      if (element && value !== null && value !== undefined) {
+        element.textContent = Number(value).toLocaleString('en-US');
+      }
+    }
+
+    function markUpdated(timestamp) {
+      if (!timestamp) return;
+      var updated = new Date(timestamp);
+      if (Number.isNaN(updated.getTime())) return;
+      var label = 'Last source update: ' + updated.toLocaleString('en-US', {
+        year: 'numeric', month: 'short', day: 'numeric', timeZone: 'UTC'
+      }) + ' UTC';
+      document.querySelectorAll('.zw-metric-live').forEach(function (metric) {
+        metric.setAttribute('title', label);
+      });
+    }
+
+    document.addEventListener('DOMContentLoaded', function () {
+      loadJson('google-scholar-stats/profile_metrics.json')
+        .then(function (data) {
+          setMetric('total_cit', data.google_scholar_citations);
+          setMetric('total_github_stars', data.github_stars);
+          setMetric('total_zenodo_downloads', data.zenodo_downloads);
+          setMetric('zenodo_downloads_inline', data.zenodo_downloads);
+          markUpdated(data.updated);
+        })
+        .catch(function (error) {
+          console.info('Profile metrics are awaiting their first scheduled update.', error);
+        });
+
+      loadJson('google-scholar-stats/gs_data.json')
+        .then(function (data) {
+          var citationElements = document.getElementsByClassName('show_paper_citations');
+          Array.prototype.forEach.call(citationElements, function (element) {
+            var paperId = element.getAttribute('data');
+            var publication = data.publications && data.publications[paperId];
+            if (publication) element.textContent = '| Citations: ' + publication.num_citations;
+          });
+        })
+        .catch(function () {});
+    });
+  })();
 </script>
