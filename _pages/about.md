@@ -76,7 +76,7 @@ author_profile: false
       </a>
       <div class="zw-metric">
         <strong>2 Grants</strong>
-        <span>Principal Investigator · NSFC &amp; CAST</span>
+        <span>PI · NSFC &amp; CAST · RMB 34,000</span>
       </div>
       <a class="zw-metric zw-metric-honor" href="https://www.antresearch.com/cooperation/InTech" target="_blank" rel="noopener">
         <strong>2025</strong>
@@ -92,7 +92,7 @@ author_profile: false
       </a>
       <a class="zw-metric zw-metric-honor" href="https://tech.chinadaily.com.cn/a/202602/06/WS6985af8fa310942cc499ea62.html" target="_blank" rel="noopener">
         <strong>5×</strong>
-        <span>National BCI honors, 2021–2025</span>
+        <span>National BCI honors, 2021–2026</span>
       </a>
     </div>
   </section>
@@ -185,13 +185,13 @@ author_profile: false
       <div>
         <h2 id="news-title">News</h2>
       </div>
-      <p class="zw-section-intro">Recent publications, open resources, funding, and recognition.</p>
+      <p class="zw-section-intro">Recent publications, open resources, and fundings.</p>
     </div>
 
     <ol class="zw-news-list">
       <li><time datetime="2026-10">Oct. 2026</time><p><a href="https://arxiv.org/abs/2610.08817" target="_blank" rel="noopener">DenoFlow</a>, a flow-matching framework for SSVEP denoising under real physiological artifacts, is in minor revision at <em>Knowledge-Based Systems</em>.</p></li>
-      <li><time datetime="2026-09">Sep. 2026</time><p>Released preprints on <a href="https://arxiv.org/abs/2609.11341" target="_blank" rel="noopener">cross-modal Diffusion Transformers</a> and <a href="https://arxiv.org/abs/2609.11372" target="_blank" rel="noopener">reliability-aware multimodal fusion</a>.</p></li>
-      <li><time datetime="2026-09">Sep. 2026</time><p>The <em>National Science Review</em> paper <a href="https://academic.oup.com/nsr/article/12/6/nwaf086/8052010" target="_blank" rel="noopener"><em>Canine EEG Helps Human</em></a> received the <a href="https://www.hbkx.org.cn/news/info?newsid=71523fdd30cc43cc9e07df816ee19e9c" target="_blank" rel="noopener">Excellent Scientific and Technical Paper Award</a> from the Hubei Association for Science and Technology (湖北省科协优秀科技论文奖).</p></li>
+      <li><time datetime="2026-09">Sep. 2026</time><p>Released preprints on <a href="https://arxiv.org/abs/2609.11341" target="_blank" rel="noopener">CoMA-DiT</a> and <a href="https://arxiv.org/abs/2609.11372" target="_blank" rel="noopener">RAMamba-Net</a>.</p></li>
+      <li><time datetime="2026-09">Sep. 2026</time><p>The <em>NSR</em> paper <a href="https://academic.oup.com/nsr/article/12/6/nwaf086/8052010" target="_blank" rel="noopener"><em>Canine EEG Helps Human</em></a> received the <a href="https://www.hbkx.org.cn/news/info?newsid=71523fdd30cc43cc9e07df816ee19e9c" target="_blank" rel="noopener">Excellent Scientific and Technical Paper Award</a> from the Hubei Association for Science and Technology (湖北省科协优秀科技论文奖).</p></li>
       <li><time datetime="2026-06">Jun. 2026</time><p><a href="https://ieeexplore.ieee.org/abstract/document/11554397/" target="_blank" rel="noopener">CKD</a> was accepted by <em>IEEE Transactions on Biomedical Engineering</em>.</p></li>
       <li><time datetime="2026-04">Apr. 2026</time><p>Released the <a href="https://zenodo.org/records/19333249" target="_blank" rel="noopener">CHSZ pediatric epilepsy EEG dataset</a>, collected with Wuhan Children’s Hospital.</p></li>
       <li><time datetime="2026-02">Feb. 2026</time><p>Selected for the Top 10 Advances in Brain–Computer Interfaces in China (中国脑机接口十大进展).</p></li>
@@ -270,7 +270,7 @@ author_profile: false
           </li>
           <li>
             <span class="zw-timeline-year">2021–2023</span>
-            <div><strong>Huazhong University of Science and Technology</strong><span>M.S. in Intelligent Science and Technology</span></div>
+            <div><strong>Huazhong University of Science and Technology</strong><span>M.S. in Artificial Intelligence</span></div>
           </li>
           <li>
             <span class="zw-timeline-year">2017–2021</span>
@@ -289,7 +289,7 @@ author_profile: false
         <div class="zw-funding-card">
           <div><span>CAST</span><strong>RMB 40,000</strong></div>
           <h4>General-Purpose EEG Foundation Models</h4>
-          <p>Young Elite Scientists Sponsorship Program, Doctoral Student Track (中国科协青年人才托举工程博士生专项), 2026–2027.</p>
+          <p>Young Elite Scientists Sponsorship Program, Doctoral Student Track (中国科协青年人才培育工程博士生专项), 2026–2027.</p>
         </div>
       </div>
 
@@ -332,7 +332,7 @@ author_profile: false
     <div class="zw-honors-grid">
       <article><span>2025</span><h3><a href="https://www.antresearch.com/cooperation/InTech" target="_blank" rel="noopener">Inaugural Ant Group InTech Scholarship</a></h3><p>One of ten recipients worldwide in the inaugural cohort; featured by <a href="https://zjrb.zjol.com.cn/html/2025-09/14/content_3851946.htm?div=-1" target="_blank" rel="noopener"><em>Zhejiang Daily</em> (《浙江日报》)</a>.</p></article>
       <article><span>2020; 2024–2026</span><h3>National Scholarship (国家奖学金)</h3><p>Three consecutive awards during Ph.D. study (2024–2026); four-time recipient overall, including undergraduate study (2020).</p></article>
-      <article><span>2021–2025</span><h3>National BCI Recognition</h3><p>Top 10 Advances in Brain–Computer Interfaces in China (2025), Top 10 Highlights (2024), and three national BCI competition awards: Second Prize (2021), First Prize (2023), and Second Prize (2025).</p></article>
+      <article><span>2021–2025</span><h3>National BCI Recognition</h3><p>Top 10 Advances in Brain–Computer Interfaces in China (2025), Top 10 Highlights (2024), and three national BCI competition awards: First Prize (2023), Second Prize (2021), and Second Prize (2025).</p></article>
       <article><span>2026</span><h3><a href="https://www.hbkx.org.cn/news/info?newsid=71523fdd30cc43cc9e07df816ee19e9c" target="_blank" rel="noopener">Excellent Scientific and Technical Paper Award</a></h3><p>Awarded to the <em>National Science Review</em> paper <a href="https://academic.oup.com/nsr/article/12/6/nwaf086/8052010" target="_blank" rel="noopener"><em>Canine EEG Helps Human</em></a> by the Hubei Association for Science and Technology (湖北省科协优秀科技论文奖).</p></article>
       <article><span>2025</span><h3>Merit Student Pacesetter</h3><p>Highest student honor at HUST.</p></article>
       <article><span>2022</span><h3>IEEE CIS Student Grant</h3><p>One of five recipients worldwide.</p></article>
