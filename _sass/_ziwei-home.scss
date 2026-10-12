@@ -481,7 +481,7 @@ body.home-page {
 .zw-metrics {
   display: grid;
   grid-column: 1 / -1;
-  grid-template-columns: repeat(5, minmax(0, 1fr));
+  grid-template-columns: repeat(4, minmax(0, 1fr));
   gap: 1px;
   overflow: hidden;
   margin-top: 2px;
@@ -523,15 +523,6 @@ body.home-page {
   font-size: 0.74rem;
   font-weight: 650;
   line-height: 1.45;
-}
-
-.zw-metric small {
-  display: block;
-  margin-top: 5px;
-  color: #708493;
-  font-size: 0.61rem;
-  font-weight: 700;
-  line-height: 1.35;
 }
 
 /* Vision and research */
@@ -845,9 +836,7 @@ body.home-page {
   margin-bottom: 7px;
 }
 
-.zw-venue,
-.zw-status,
-.zw-level {
+.zw-meta-pill {
   display: inline-flex;
   align-items: center;
   padding: 5px 9px;
@@ -855,6 +844,7 @@ body.home-page {
   font-size: 0.64rem;
   font-weight: 800;
   line-height: 1;
+  white-space: nowrap;
 }
 
 .zw-venue {

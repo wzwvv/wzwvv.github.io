@@ -59,17 +59,16 @@ author_profile: false
       <a class="zw-metric zw-metric-live" href="https://scholar.google.com/citations?user=fjlXqvQAAAAJ&hl=en" target="_blank" rel="noopener">
         <strong id="total_cit" aria-live="polite">368</strong>
         <span>Google Scholar citations</span>
-        <small>Updated daily from source ↗</small>
       </a>
+      {% comment %}
       <a class="zw-metric zw-metric-live" href="https://github.com/wzwvv?tab=repositories" target="_blank" rel="noopener">
         <strong id="total_github_stars" aria-live="polite">197</strong>
         <span>Total GitHub stars</span>
-        <small>Updated daily from source ↗</small>
       </a>
+      {% endcomment %}
       <a class="zw-metric zw-metric-live" href="https://zenodo.org/records/19333249" target="_blank" rel="noopener">
         <strong id="total_zenodo_downloads" aria-live="polite">2,182</strong>
         <span>CHSZ dataset downloads</span>
-        <small>Updated weekly from source ↗</small>
       </a>
       <div class="zw-metric">
         <strong>RMB 340K</strong>
@@ -207,9 +206,9 @@ author_profile: false
               </div>
               <div class="zw-publication-copy">
                 <div class="zw-publication-meta">
-                  <span class="zw-venue">{{ pub.venue_short }}</span>
-                  <span class="zw-status zw-status-{{ pub.status | slugify }}">{{ pub.status }}</span>
-                  {% if pub.level %}<span class="zw-level">{{ pub.level }}</span>{% endif %}
+                  <span class="zw-meta-pill zw-venue">{{ pub.venue_short }}</span>
+                  <span class="zw-meta-pill zw-status zw-status-{{ pub.status | slugify }}">{{ pub.status }}</span>
+                  {% for level in pub.levels %}<span class="zw-meta-pill zw-level">{{ level }}</span>{% endfor %}
                 </div>
                 <h4>{{ pub.title }}</h4>
                 <p class="zw-authors">{{ pub.authors }}</p>
@@ -305,7 +304,7 @@ author_profile: false
     </div>
 
     <div class="zw-honors-grid">
-      <article><span>2025</span><h3>Inaugural Ant Group InTech Scholarship</h3><p>One of ten recipients worldwide.</p></article>
+      <article><span>2025</span><h3><a href="https://www.antresearch.com/cooperation/InTech" target="_blank" rel="noopener">Inaugural Ant Group InTech Scholarship</a></h3><p>One of ten recipients worldwide in the inaugural cohort; featured by <a href="https://zjrb.zjol.com.cn/html/2025-09/14/content_3851946.htm?div=-1" target="_blank" rel="noopener"><em>Zhejiang Daily</em> (《浙江日报》)</a>.</p></article>
       <article><span>2020; 2024–2026</span><h3>National Scholarship (国家奖学金)</h3><p>Three consecutive awards during Ph.D. study (2024–2026); four-time recipient overall, including undergraduate study (2020).</p></article>
       <article><span>2023–2025</span><h3>National BCI Recognition</h3><p>Top 10 Advances 2025, Top 10 Highlights 2024, and National First Prize at the 2023 World Robot Contest BCI Competition.</p></article>
       <article><span>2026</span><h3><a href="https://www.hbkx.org.cn/news/info?newsid=71523fdd30cc43cc9e07df816ee19e9c" target="_blank" rel="noopener">Excellent Scientific and Technical Paper Award</a></h3><p>Awarded to the <em>National Science Review</em> paper <a href="https://academic.oup.com/nsr/article/12/6/nwaf086/8052010" target="_blank" rel="noopener"><em>Canine EEG Helps Human</em></a> by the Hubei Association for Science and Technology (湖北省科协优秀科技论文奖).</p></article>

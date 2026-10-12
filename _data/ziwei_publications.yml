@@ -10,7 +10,11 @@
       venue: National Science Review
       venue_short: NSR 2025
       status: Published
-      level: "CAS Q1 · Top Journal · IF 18.1 · 中国科技期刊卓越行动计划领军期刊"
+      levels:
+        - CAS Q1
+        - Top Journal
+        - IF 18.1
+        - 中国科技期刊卓越行动计划领军期刊
       award: "2026 Excellent Scientific and Technical Paper Award, Hubei Association for Science and Technology (湖北省科协优秀科技论文奖)"
       award_url: https://www.hbkx.org.cn/news/info?newsid=71523fdd30cc43cc9e07df816ee19e9c
       description: "The first systematic demonstration that heterogeneous canine/human and intracranial/scalp EEG can improve cross-species seizure detection, achieving over 90% AUC with very limited target labels."
@@ -24,7 +28,8 @@
       venue: IEEE Transactions on Biomedical Engineering
       venue_short: IEEE TBME 2026
       status: Published
-      level: CAA-A
+      levels:
+        - CAA-A
       description: "A two-stage framework that combines cross-dataset teacher pretraining with cross-subject online adaptation through logit distillation and feature-level contrastive alignment."
       paper: https://ieeexplore.ieee.org/abstract/document/11554397/
     - mark: TASA
@@ -34,7 +39,8 @@
       venue: Journal of Neural Engineering
       venue_short: JNE 2023
       status: Published
-      level: CAA-A
+      levels:
+        - CAA-A
       description: "A multi-source adaptation framework integrating source selection, global alignment, and target-agent subdomain adaptation for new patients without target labels."
       paper: https://iopscience.iop.org/article/10.1088/1741-2552/ad0859/meta
       code: https://github.com/wzwvv/TASA
@@ -51,7 +57,8 @@
       venue: IEEE Journal of Biomedical and Health Informatics
       venue_short: IEEE JBHI 2026
       status: Published
-      level: JCR Q1
+      levels:
+        - JCR Q1
       description: "Parallel temporal and spatial Conformer branches model long-range dynamics and channel interactions across three EEG paradigms, using over eight times fewer parameters than high-capacity Conformer baselines."
       paper: https://ieeexplore.ieee.org/abstract/document/11215634
       code: https://github.com/wzwvv/DBConformer
@@ -62,7 +69,8 @@
       venue: Knowledge-Based Systems
       venue_short: KBS 2025
       status: Published
-      level: JCR Q1
+      levels:
+        - JCR Q1
       description: "Time-, frequency-, and spatial-view augmentation is coupled with cross-view and cross-model contrastive learning, consistently outperforming nine baselines on five motor-imagery datasets."
       paper: https://www.sciencedirect.com/science/article/abs/pii/S0950705125012468
       code: https://github.com/wzwvv/MVCNet
@@ -98,7 +106,8 @@
       venue: Knowledge-Based Systems
       venue_short: KBS 2025
       status: Published
-      level: JCR Q1
+      levels:
+        - JCR Q1
       description: "DWTaug and HHTaug jointly address data scarcity, non-stationarity, and inter-subject variability, with evaluation on 17 datasets from three BCI paradigms."
       paper: https://www.sciencedirect.com/science/article/abs/pii/S0950705125001212
       code: https://github.com/wzwvv/CSDA
@@ -109,7 +118,8 @@
       venue: Neural Networks
       venue_short: NN 2024
       status: Published
-      level: JCR Q1
+      levels:
+        - JCR Q1
       description: "A parameter-free augmentation method that converts paradigm-specific spatial priors into channel mappings for data-efficient and interpretable EEG decoding."
       paper: https://www.sciencedirect.com/science/article/abs/pii/S0893608024002752
       code: https://github.com/wzwvv/EEGAug
