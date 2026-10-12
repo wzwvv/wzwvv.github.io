@@ -385,7 +385,7 @@ author_profile: false
   <section id="contact" class="zw-contact" aria-labelledby="contact-title">
     <div>
       <p class="zw-section-kicker">Contact</p>
-      <h2 id="contact-title">Let's work together for generalizable and interpratable neural intelligence.</h2>
+      <h2 id="contact-title">Let's work together for generalizable and interpretable neural intelligence.</h2>
       <p>I welcome conversations about cross-species learning, neural foundation models, brain-disorder intelligence, open datasets, and research internships.</p>
     </div>
     <div class="zw-contact-links">
