@@ -16,6 +16,7 @@ author_profile: false
         <span class="zw-live-dot" aria-hidden="true"></span>
         <span class="zw-focus-topics">
           <span>Brain–Computer Interfaces</span>
+          <span>Smart Healthcare</span>
           <span>AI for Science</span>
           <span>Trustworthy Biomedical AI</span>
         </span>
