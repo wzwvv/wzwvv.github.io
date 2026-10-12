@@ -14,7 +14,7 @@ author_profile: false
       </div>
       <div class="zw-focus-note">
         <span class="zw-live-dot" aria-hidden="true"></span>
-        <span>Brain–computer interfaces · AI for science · trustworthy biomedical AI</span>
+        <span>Brain–computer interfaces · AI for science · Trustworthy biomedical AI</span>
       </div>
     </div>
 
@@ -40,7 +40,7 @@ author_profile: false
         </div>
         <div>
           <dt>Open to</dt>
-          <dd>Research collaborations, invited talks, and research internships</dd>
+          <dd>Project-based collaboration with students and researchers</dd>
         </div>
       </dl>
 
@@ -51,10 +51,10 @@ author_profile: false
       </div>
     </div>
 
-    <div class="zw-metrics" aria-label="Research highlights and live impact metrics">
+    <div class="zw-metrics" aria-label="Research highlights, impact metrics, and selected honors">
       <div class="zw-metric">
         <strong>&gt;97%</strong>
-        <span>Cross-species seizure-detection AUC</span>
+        <span>Cross-species seizure detection AUC</span>
       </div>
       <a class="zw-metric zw-metric-live" href="https://scholar.google.com/citations?user=fjlXqvQAAAAJ&hl=en" target="_blank" rel="noopener">
         <strong id="total_cit" aria-live="polite">368</strong>
@@ -71,16 +71,40 @@ author_profile: false
         <span>CHSZ dataset downloads</span>
       </a>
       <div class="zw-metric">
-        <strong>RMB 340K</strong>
-        <span>Competitive funding as PI</span>
+        <strong>2</strong>
+        <span>PI-led national research projects</span>
       </div>
+      <a class="zw-metric zw-metric-honor" href="https://www.antresearch.com/cooperation/InTech" target="_blank" rel="noopener">
+        <strong>2025</strong>
+        <span>Inaugural Ant Group InTech Scholarship</span>
+      </a>
+      <div class="zw-metric zw-metric-honor">
+        <strong>4×</strong>
+        <span>National Scholarship recipient</span>
+      </div>
+      <a class="zw-metric zw-metric-honor" href="https://www.hbkx.org.cn/news/info?newsid=71523fdd30cc43cc9e07df816ee19e9c" target="_blank" rel="noopener">
+        <strong>2026</strong>
+        <span>Hubei Excellent Scientific and Technical Paper Award</span>
+      </a>
+      <a class="zw-metric zw-metric-honor" href="https://tech.chinadaily.com.cn/a/202602/06/WS6985af8fa310942cc499ea62.html" target="_blank" rel="noopener">
+        <strong>3×</strong>
+        <span>National BCI recognition, 2023–2025</span>
+      </a>
     </div>
   </section>
+
+  <aside class="zw-collaboration-callout" aria-labelledby="collaboration-title">
+    <div>
+      <p class="zw-section-kicker">Collaborate</p>
+      <h2 id="collaboration-title">Open for Collaboration</h2>
+    </div>
+    <p>I welcome motivated undergraduate and graduate students, as well as researchers working in AI, neuroscience, biomedical engineering, and clinical medicine, to collaborate on cross-species and multimodal neural representation learning, trustworthy EEG decoding, and generative modeling of neural signals.</p>
+  </aside>
 
   <section class="zw-section zw-vision" aria-labelledby="vision-title">
     <div class="zw-section-heading">
       <p class="zw-section-kicker">Research vision</p>
-      <h2 id="vision-title">From neural-signal decoding to foundation models for brain disorder diagnosis</h2>
+      <h2 id="vision-title">From neural signal decoding to foundation models for brain disorder diagnosis</h2>
     </div>
     <div class="zw-vision-grid">
       <p>
@@ -144,7 +168,7 @@ author_profile: false
         <p>Build physiologically grounded augmentation, generation, denoising, and evaluation methods for scalable neural-model pretraining.</p>
         <ul>
           <li>Knowledge-guided and time–frequency augmentation</li>
-          <li>Diffusion and flow-based neural-signal generation</li>
+          <li>Diffusion and flow-based brain signal generation</li>
           <li>Benchmarks for realism, utility, physiology, and privacy</li>
         </ul>
         <a href="#data-foundations" target="_self">Explore representative work <span aria-hidden="true">↓</span></a>
@@ -167,7 +191,7 @@ author_profile: false
       <li><time datetime="2026-06">Jun. 2026</time><p><a href="https://ieeexplore.ieee.org/abstract/document/11554397/" target="_blank" rel="noopener">CKD</a> was accepted by <em>IEEE Transactions on Biomedical Engineering</em>.</p></li>
       <li><time datetime="2026-04">Apr. 2026</time><p>Released the <a href="https://zenodo.org/records/19333249" target="_blank" rel="noopener">CHSZ pediatric epilepsy EEG dataset</a>, collected with Wuhan Children’s Hospital.</p></li>
       <li><time datetime="2026-02">Feb. 2026</time><p>Selected for the Top 10 Advances in Brain–Computer Interfaces in China (中国脑机接口十大进展).</p></li>
-      <li><time datetime="2025-12">Dec. 2025</time><p>Awarded two PI-led research grants totaling RMB 340,000 from NSFC and CAST.</p></li>
+      <li><time datetime="2025-12">Dec. 2025</time><p>Awarded two PI-led national research grants from NSFC and CAST.</p></li>
       <li><time datetime="2025-09">Sep. 2025</time><p>Named one of ten worldwide recipients of the inaugural Ant Group InTech Scholarship.</p></li>
     </ol>
   </section>

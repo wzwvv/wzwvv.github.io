@@ -507,6 +507,20 @@ body.home-page {
   box-shadow: inset 0 -3px 0 rgba(47, 137, 134, 0.45);
 }
 
+.zw-metric-honor {
+  background: linear-gradient(145deg, #fffdf7, #fff9e9);
+  transition: background 160ms ease, box-shadow 160ms ease;
+}
+
+.zw-metric-honor:hover {
+  background: #fff8e2;
+  box-shadow: inset 0 -3px 0 rgba(190, 145, 55, 0.48);
+}
+
+.zw-metric-honor strong {
+  color: #8a641d;
+}
+
 .zw-metric strong {
   display: block;
   color: var(--zw-navy);
@@ -523,6 +537,38 @@ body.home-page {
   font-size: 0.74rem;
   font-weight: 650;
   line-height: 1.45;
+}
+
+.zw-collaboration-callout {
+  display: grid;
+  grid-template-columns: minmax(220px, 0.36fr) minmax(0, 1fr);
+  align-items: center;
+  gap: clamp(24px, 4vw, 54px);
+  margin-top: 18px;
+  padding: 24px clamp(26px, 4vw, 44px);
+  background: linear-gradient(135deg, #f5fafb, #edf5f8);
+  border: 1px solid var(--zw-line-strong);
+  border-left: 4px solid var(--zw-teal);
+  border-radius: 18px;
+  box-shadow: var(--zw-shadow-soft);
+}
+
+.zw-collaboration-callout .zw-section-kicker {
+  margin-bottom: 6px;
+}
+
+.zw-collaboration-callout h2 {
+  margin: 0;
+  color: var(--zw-navy);
+  font-size: clamp(1.28rem, 2vw, 1.72rem);
+  line-height: 1.2;
+}
+
+.zw-collaboration-callout > p {
+  margin: 0;
+  color: var(--zw-muted);
+  font-size: 0.9rem;
+  line-height: 1.75;
 }
 
 /* Vision and research */
@@ -1471,6 +1517,7 @@ a.zw-collaborator-card:hover {
   .zw-group-heading,
   .zw-open-science,
   .zw-service-panel,
+  .zw-collaboration-callout,
   .zw-contact {
     grid-template-columns: 1fr;
   }
