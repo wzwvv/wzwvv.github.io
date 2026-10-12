@@ -23,7 +23,7 @@ author_profile: false
     </div>
 
     <div class="zw-hero-copy">
-      <p class="zw-eyebrow">Academic homepage · Huazhong University of Science and Technology</p>
+      <p class="zw-eyebrow">Huazhong University of Science and Technology</p>
       <h1 id="home-title">Ziwei Wang <span>王紫薇</span></h1>
       <p class="zw-role">Ph.D. Candidate in Intelligent Science and Technology</p>
       <h2>Building AI that learns across brains, modalities, and species.</h2>
@@ -35,7 +35,7 @@ author_profile: false
 
       <dl class="zw-identity-list">
         <div>
-          <dt>Advisor</dt>
+          <dt>Supervisor</dt>
           <dd><a href="https://scholar.google.com/citations?user=UYGzCPEAAAAJ&hl=en" target="_blank" rel="noopener">Prof. Dongrui Wu</a>, NSFC Distinguished Young Scholar, IEEE Fellow, and Editor-in-Chief of <em>IEEE Transactions on Fuzzy Systems</em></dd>
         </div>
         <div>
