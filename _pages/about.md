@@ -329,7 +329,7 @@ author_profile: false
         <em>IEEE Transactions on Fuzzy Systems</em>, <em>IEEE JBHI</em>, <em>IEEE TNSRE</em>,
         <em>IEEE Transactions on Biometrics, Behavior, and Identity Science</em>, <em>Knowledge-Based Systems</em>,
         <em>Neurocomputing</em>, <em>Journal of Neural Engineering</em>,
-        <em>Scientific Reports</em>, ICONIP, and IEEE SMC. Recognized as an IOP Trusted Reviewer in 2024.
+        <em>Scientific Data</em>, ICONIP, and IEEE SMC. Recognized as an IOP Trusted Reviewer in 2024.
       </p>
     </div>
   </section>
