@@ -26,7 +26,7 @@ author_profile: false
       <p class="zw-eyebrow">Huazhong University of Science and Technology</p>
       <h1 id="home-title">Ziwei Wang <span>王紫薇</span></h1>
       <p class="zw-role">Ph.D. Candidate in Intelligent Science and Technology</p>
-      <h2>Building AI that learns across brains, modalities, and species.</h2>
+      <h2>Building AI that learns across brains, species, and modalities.</h2>
       <p class="zw-lead">
         I develop data-efficient, robust, and generalizable learning methods for neural signals under limited labels,
         strong heterogeneity, and distribution shifts. My research spans cross-species and cross-modality transfer,
@@ -139,7 +139,7 @@ author_profile: false
         <span class="zw-card-index">01</span>
         <p class="zw-card-label">Generalization</p>
         <h3>Cross-Species and Cross-Domain Neural Decoding</h3>
-        <p>Transfer neural knowledge across subjects, patients, datasets, devices, modalities, and species when target labels are scarce.</p>
+        <p>Transfer neural knowledge across species, modalities, devices, datasets, and patients when target labels are scarce.</p>
         <ul>
           <li>Multi-space alignment across canine/human and intracranial/scalp EEG</li>
           <li>Unsupervised cross-patient adaptation</li>
