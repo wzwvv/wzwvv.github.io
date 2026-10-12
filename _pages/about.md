@@ -72,7 +72,7 @@ author_profile: false
       </a>
       <div class="zw-metric">
         <strong>2 Grants</strong>
-        <span>PI · NSFC &amp; CAST · RMB 34,000</span>
+        <span>PI · NSFC &amp; CAST · RMB 340,000</span>
       </div>
       <a class="zw-metric zw-metric-honor" href="https://www.antresearch.com/cooperation/InTech" target="_blank" rel="noopener">
         <strong>2025</strong>
