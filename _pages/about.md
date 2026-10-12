@@ -14,7 +14,11 @@ author_profile: false
       </div>
       <div class="zw-focus-note">
         <span class="zw-live-dot" aria-hidden="true"></span>
-        <span>Brain–computer interfaces · AI for science · Trustworthy biomedical AI</span>
+        <span class="zw-focus-topics">
+          <span>Brain–computer interfaces</span>
+          <span>AI for science</span>
+          <span>Trustworthy biomedical AI</span>
+        </span>
       </div>
     </div>
 
@@ -80,7 +84,7 @@ author_profile: false
       </a>
       <div class="zw-metric zw-metric-honor">
         <strong>4×</strong>
-        <span>National Scholarship recipient</span>
+        <span>National Scholarship</span>
       </div>
       <a class="zw-metric zw-metric-honor" href="https://www.hbkx.org.cn/news/info?newsid=71523fdd30cc43cc9e07df816ee19e9c" target="_blank" rel="noopener">
         <strong>2026</strong>

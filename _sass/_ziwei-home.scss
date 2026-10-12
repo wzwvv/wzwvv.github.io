@@ -267,7 +267,7 @@ body.home-page {
 .zw-hero {
   position: relative;
   display: grid;
-  grid-template-columns: minmax(250px, 0.38fr) minmax(0, 1fr);
+  grid-template-columns: minmax(210px, 0.31fr) minmax(0, 1fr);
   gap: clamp(30px, 5vw, 64px);
   overflow: hidden;
   padding: clamp(28px, 5vw, 62px);
@@ -317,6 +317,8 @@ body.home-page {
 .zw-portrait-frame {
   position: relative;
   overflow: hidden;
+  max-width: 225px;
+  margin: 0 auto;
   padding: 9px;
   background: #fff;
   border: 1px solid var(--zw-line);
@@ -345,7 +347,8 @@ body.home-page {
   display: flex;
   align-items: flex-start;
   gap: 10px;
-  margin-top: 16px;
+  max-width: 225px;
+  margin: 16px auto 0;
   padding: 14px 15px;
   color: #52697a;
   background: rgba(255, 255, 255, 0.78);
@@ -354,6 +357,15 @@ body.home-page {
   font-size: 0.78rem;
   font-weight: 600;
   line-height: 1.55;
+}
+
+.zw-focus-topics {
+  display: grid;
+  gap: 3px;
+}
+
+.zw-focus-topics > span {
+  display: block;
 }
 
 .zw-live-dot {
@@ -1586,12 +1598,12 @@ a.zw-collaborator-card:hover {
   }
 
   .zw-portrait-frame {
-    max-width: 280px;
+    max-width: 225px;
     margin: 0 auto;
   }
 
   .zw-focus-note {
-    max-width: 280px;
+    max-width: 225px;
     margin: 13px auto 0;
   }
 
