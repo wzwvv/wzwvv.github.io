@@ -47,7 +47,6 @@ author_profile: false
       <div class="zw-hero-actions" aria-label="Profile links">
         <a class="zw-button zw-button-primary" href="https://scholar.google.com/citations?user=fjlXqvQAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar <span aria-hidden="true">↗</span></a>
         <a class="zw-button" href="https://github.com/wzwvv" target="_blank" rel="noopener">GitHub <span aria-hidden="true">↗</span></a>
-        <a class="zw-button" href="{{ '/files/ziwei_wang_cv.pdf' | relative_url }}" target="_blank" rel="noopener">Curriculum Vitae <span aria-hidden="true">↗</span></a>
         <a class="zw-text-link" href="mailto:vivi@hust.edu.cn">vivi@hust.edu.cn</a>
       </div>
     </div>

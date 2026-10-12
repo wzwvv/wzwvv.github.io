@@ -70,6 +70,7 @@
       paper: https://arxiv.org/abs/2606.14120
       code: https://github.com/wzwvv/FAConformer
     - mark: RAM
+      image: /images/RAMamba-Net.png
       title: "RAMamba-Net: A Reliability-Aware and Mamba-Based Multimodal Fusion Network for Auditory Attention Detection"
       authors: "Xingyi He<sup>*</sup>, <strong>Ziwei Wang</strong><sup>*</sup>, and Dongrui Wu<sup>#</sup>"
       venue: ICLR 2027 submission
@@ -114,6 +115,7 @@
       paper: https://arxiv.org/abs/2603.12296
       code: https://github.com/wzwvv/DG4BCI
     - mark: DiT
+      image: /images/CoMA-DiT.png
       title: Exploring Diffusion Transformers for Cross-Modal Augmentation in Multimodal Brain State Decoding
       authors: "<strong>Ziwei Wang</strong>, Xingyi He, Hongbin Wang, Tianwang Jia, Bohan Fang, and Dongrui Wu<sup>#</sup>"
       venue: ICLR 2027 submission
@@ -122,7 +124,7 @@
       description: "CoMA-DiT treats paired modalities as mutual generative supervision through cross-modal attention and reliability-gated latent augmentation."
       paper: https://arxiv.org/abs/2609.11341
     - mark: DF
-      image: /images/DenoNet.png
+      image: /images/DenoFlow.png
       title: "DenoFlow: Flow Matching for SSVEP Denoising under Real Physiological Artifacts"
       authors: "Zhentao He<sup>*</sup>, <strong>Ziwei Wang</strong><sup>*</sup>, and Dongrui Wu<sup>#</sup>"
       venue: Knowledge-Based Systems
