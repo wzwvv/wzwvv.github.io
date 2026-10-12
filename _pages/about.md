@@ -15,9 +15,9 @@ author_profile: false
       <div class="zw-focus-note">
         <span class="zw-live-dot" aria-hidden="true"></span>
         <span class="zw-focus-topics">
-          <span>Brain–computer interfaces</span>
-          <span>AI for science</span>
-          <span>Trustworthy biomedical AI</span>
+          <span>Brain–Computer Interfaces</span>
+          <span>AI for Science</span>
+          <span>Trustworthy Biomedical AI</span>
         </span>
       </div>
     </div>
