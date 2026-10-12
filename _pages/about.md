@@ -80,7 +80,7 @@ author_profile: false
   <section class="zw-section zw-vision" aria-labelledby="vision-title">
     <div class="zw-section-heading">
       <p class="zw-section-kicker">Research vision</p>
-      <h2 id="vision-title">From neural-signal decoding to general models for brain-disorder care</h2>
+      <h2 id="vision-title">From neural-signal decoding to foundation models for brain disorder diagnosis</h2>
     </div>
     <div class="zw-vision-grid">
       <p>
@@ -105,7 +105,7 @@ author_profile: false
     <div class="zw-section-heading zw-heading-split">
       <div>
         <p class="zw-section-kicker">Research</p>
-        <h2 id="research-title">Three connected layers of neural intelligence</h2>
+        <h2 id="research-title">Research directions</h2>
       </div>
       <p class="zw-section-intro">My work connects transfer, decoding, and data generation into a unified path toward general-purpose neural models.</p>
     </div>
@@ -155,8 +155,7 @@ author_profile: false
   <section id="news" class="zw-section" aria-labelledby="news-title">
     <div class="zw-section-heading zw-heading-split">
       <div>
-        <p class="zw-section-kicker">Updates</p>
-        <h2 id="news-title">Selected news</h2>
+        <h2 id="news-title">News</h2>
       </div>
       <p class="zw-section-intro">Recent publications, open resources, funding, and recognition.</p>
     </div>
@@ -176,8 +175,7 @@ author_profile: false
   <section id="publications" class="zw-section zw-publications-section" aria-labelledby="publications-title">
     <div class="zw-section-heading zw-heading-split">
       <div>
-        <p class="zw-section-kicker">Selected publications</p>
-        <h2 id="publications-title">Representative research contributions</h2>
+        <h2 id="publications-title">Selected publications</h2>
       </div>
       <div class="zw-publication-legend">
         <span><sup>*</sup> Equal contribution</span>
@@ -317,7 +315,7 @@ author_profile: false
     <div class="zw-section-heading zw-heading-split">
       <div>
         <p class="zw-section-kicker">Academic service</p>
-        <h2 id="service-title">Peer review and professional service</h2>
+        <h2 id="service-title">Professional service</h2>
       </div>
       <p class="zw-section-intro">Reviewing across artificial intelligence, biomedical engineering, and neural engineering.</p>
     </div>
@@ -363,7 +361,7 @@ author_profile: false
   <section id="contact" class="zw-contact" aria-labelledby="contact-title">
     <div>
       <p class="zw-section-kicker">Contact</p>
-      <h2 id="contact-title">Let’s discuss neural intelligence that can generalize.</h2>
+      <h2 id="contact-title">Let's work together for generalizable and interpratable neural intelligence.</h2>
       <p>I welcome conversations about cross-species learning, neural foundation models, brain-disorder intelligence, open datasets, and research internships.</p>
     </div>
     <div class="zw-contact-links">
