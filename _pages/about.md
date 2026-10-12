@@ -131,7 +131,7 @@ author_profile: false
         <p class="zw-section-kicker">Research</p>
         <h2 id="research-title">Research directions</h2>
       </div>
-      <p class="zw-section-intro">My work connects transfer, decoding, and data generation into a unified path toward general-purpose neural models.</p>
+      <p class="zw-section-intro">My work connects transfer, decoding, and data generation into a unified path toward general-purpose brain foundation models.</p>
     </div>
 
     <div class="zw-research-grid">
