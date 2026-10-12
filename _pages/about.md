@@ -156,14 +156,14 @@ author_profile: false
     </div>
 
     <ol class="zw-news-list">
-      <li><time datetime="2026-10">Oct. 2026</time><p><a href="https://arxiv.org/abs/2610.08817" target="_blank" rel="noopener">DenoFlow</a>, a flow-matching framework for SSVEP denoising under real physiological artifacts, is available as a preprint.</p></li>
+      <li><time datetime="2026-10">Oct. 2026</time><p><a href="https://arxiv.org/abs/2610.08817" target="_blank" rel="noopener">DenoFlow</a>, a flow-matching framework for SSVEP denoising under real physiological artifacts, is in minor revision at <em>Knowledge-Based Systems</em>.</p></li>
       <li><time datetime="2026-09">Sep. 2026</time><p>Released preprints on <a href="https://arxiv.org/abs/2609.11341" target="_blank" rel="noopener">cross-modal Diffusion Transformers</a> and <a href="https://arxiv.org/abs/2609.11372" target="_blank" rel="noopener">reliability-aware multimodal fusion</a>.</p></li>
+      <li><time datetime="2026-09">Sep. 2026</time><p>Received the <a href="https://www.hbkx.org.cn/news/info?newsid=71523fdd30cc43cc9e07df816ee19e9c" target="_blank" rel="noopener">Excellent Scientific and Technical Paper Award</a> from the Hubei Association for Science and Technology (湖北省科协优秀科技论文奖).</p></li>
       <li><time datetime="2026-06">Jun. 2026</time><p><a href="https://ieeexplore.ieee.org/abstract/document/11554397/" target="_blank" rel="noopener">CKD</a> was accepted by <em>IEEE Transactions on Biomedical Engineering</em>.</p></li>
-      <li><time datetime="2026-06">Jun. 2026</time><p>Received the Excellent Scientific and Technical Paper Award from the Hubei Association for Science and Technology (湖北省科协优秀科技论文奖).</p></li>
       <li><time datetime="2026-04">Apr. 2026</time><p>Released the <a href="https://zenodo.org/records/19333249" target="_blank" rel="noopener">CHSZ pediatric epilepsy EEG dataset</a>, collected with Wuhan Children’s Hospital.</p></li>
       <li><time datetime="2026-02">Feb. 2026</time><p>Selected for the Top 10 Advances in Brain–Computer Interfaces in China (中国脑机接口十大进展).</p></li>
       <li><time datetime="2025-12">Dec. 2025</time><p>Awarded two PI-led research grants totaling RMB 340,000 from NSFC and CAST.</p></li>
-      <li><time datetime="2025-09">Sep. 2025</time><p>Named one of ten worldwide recipients of the Ant Group InTech Scholarship.</p></li>
+      <li><time datetime="2025-09">Sep. 2025</time><p>Named one of ten worldwide recipients of the inaugural Ant Group InTech Scholarship.</p></li>
     </ol>
   </section>
 
@@ -296,9 +296,9 @@ author_profile: false
     </div>
 
     <div class="zw-honors-grid">
-      <article><span>2025</span><h3>Ant Group InTech Scholarship</h3><p>One of ten recipients worldwide.</p></article>
+      <article><span>2025</span><h3>Inaugural Ant Group InTech Scholarship</h3><p>One of ten recipients worldwide.</p></article>
       <article><span>2020, 2024–2026</span><h3>National Scholarship (国家奖学金)</h3><p>Four-time recipient across undergraduate and Ph.D. study.</p></article>
-      <article><span>2025</span><h3>Excellent Scientific and Technical Paper</h3><p>Hubei Association for Science and Technology.</p></article>
+      <article><span>2026</span><h3><a href="https://www.hbkx.org.cn/news/info?newsid=71523fdd30cc43cc9e07df816ee19e9c" target="_blank" rel="noopener">Excellent Scientific and Technical Paper Award</a></h3><p>Hubei Association for Science and Technology (湖北省科协优秀科技论文奖).</p></article>
       <article><span>2025</span><h3>Merit Student Pacesetter</h3><p>Highest student honor at HUST.</p></article>
       <article><span>2022</span><h3>IEEE CIS Student Grant</h3><p>One of five recipients worldwide.</p></article>
       <article><span>2023–2025</span><h3>National BCI Recognition</h3><p>Top 10 Advances 2025, Top 10 Highlights 2024, and National First Prize at the 2023 World Robot Contest BCI Competition.</p></article>

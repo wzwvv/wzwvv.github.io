@@ -129,7 +129,7 @@
       authors: "Zhentao He<sup>*</sup>, <strong>Ziwei Wang</strong><sup>*</sup>, and Dongrui Wu<sup>#</sup>"
       venue: Knowledge-Based Systems
       venue_short: KBS 2026
-      status: Under review
+      status: Minor revision
       description: "A rectified-flow denoising framework trained with recorded EMG/EOG artifacts and task-aware supervision, improving signal fidelity and downstream SSVEP decoding."
       paper: https://arxiv.org/abs/2610.08817
       code: https://github.com/wzwvv/DenoFlow
