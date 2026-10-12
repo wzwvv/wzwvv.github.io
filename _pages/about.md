@@ -1,309 +1,364 @@
 ---
 permalink: /
-title: "Ziwei Wang | BCI, EEG Foundation Models, and Machine Learning"
-excerpt: "Ph.D. candidate at HUST working on EEG decoding, foundation models, and deep learning for brain–computer interfaces and smart healthcare."
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+title: "Ziwei Wang | Neural Signal Intelligence"
+layout: home
+excerpt: "Ph.D. candidate at HUST developing generalizable learning methods and foundation models for neural signals."
+author_profile: false
 ---
 
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-
-<div class="home-hero">
-
-  <div class="home-hero-top">
-    <div class="home-hero-intro">
-      <h1 class="home-name">Ziwei Wang 王紫薇</h1>
-
-      <p class="home-summary">
-        Ph.D. Candidate at Huazhong University of Science and Technology (<strong>HUST</strong>), supervised by <a href="https://lab.bciml.cn/">Prof. Dongrui Wu</a>.<br>
-      </p>
-
-      <p class="home-summary">
-        My research focuses on <strong>data-efficient, robust, and generalizable EEG decoding</strong> under data scarcity and distribution shifts, including cross-subject, cross-dataset, cross-modality, and cross-species settings.
-      </p>
-
-      <p class="home-summary">
-        I am supported by the <strong>Youth Student Fundamental Research Project from NSFC</strong> and the <strong>Doctoral Student Program of the Young S&amp;T Talents Cultivation Project from CAST</strong>, with total funding of <strong>340,000 RMB</strong> (~48,000 USD).
-      </p>
-
-      <div class="topic-tags">
-        <span>Deep Learning</span>
-        <span>Brain-Computer Interfaces</span>
-        <span>Rehabilitation and healthcare foundation models</span>
+<div class="zw-home">
+  <section id="about" class="zw-hero" aria-labelledby="home-title">
+    <div class="zw-portrait-column">
+      <div class="zw-portrait-frame">
+        <img src="{{ '/images/CV.jpg' | relative_url }}" alt="Portrait of Ziwei Wang">
       </div>
-
-      <div class="hero-links">
-        <a href="https://scholar.google.com/citations?user=fjlXqvQAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>
-        <a href="https://github.com/wzwvv" target="_blank" rel="noopener">GitHub</a>
-        <a href="" target="_blank" rel="noopener">CV</a>
-        <a href="mailto:vivi@hust.edu.cn">Email</a>
+      <div class="zw-focus-note">
+        <span class="zw-live-dot" aria-hidden="true"></span>
+        <span>Brain–computer interfaces · AI for science · trustworthy biomedical AI</span>
       </div>
     </div>
-  </div>
 
-  <div class="home-highlight-grid">
-    <div class="highlight-card">
-      <div class="highlight-title">Research Focus</div>
+    <div class="zw-hero-copy">
+      <p class="zw-eyebrow">Academic homepage · Huazhong University of Science and Technology</p>
+      <h1 id="home-title">Ziwei Wang <span>王紫薇</span></h1>
+      <p class="zw-role">Ph.D. Candidate in Intelligent Science and Technology</p>
+      <h2>Building AI that learns across brains, modalities, and species.</h2>
+      <p class="zw-lead">
+        I develop data-efficient, robust, and generalizable learning methods for neural signals under limited labels,
+        strong heterogeneity, and distribution shifts. My research spans cross-species and cross-modality transfer,
+        interpretable EEG decoding, multimodal learning, and physiologically grounded data generation.
+      </p>
+
+      <dl class="zw-identity-list">
+        <div>
+          <dt>Advisor</dt>
+          <dd><a href="https://scholar.google.com/citations?user=UYGzCPEAAAAJ&hl=en" target="_blank" rel="noopener">Prof. Dongrui Wu</a>, NSFC Distinguished Young Scholar, IEEE Fellow, and Editor-in-Chief of <em>IEEE Transactions on Fuzzy Systems</em></dd>
+        </div>
+        <div>
+          <dt>Based in</dt>
+          <dd>Wuhan, China</dd>
+        </div>
+        <div>
+          <dt>Open to</dt>
+          <dd>Research collaborations, invited talks, and research internships</dd>
+        </div>
+      </dl>
+
+      <div class="zw-hero-actions" aria-label="Profile links">
+        <a class="zw-button zw-button-primary" href="https://scholar.google.com/citations?user=fjlXqvQAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar <span aria-hidden="true">↗</span></a>
+        <a class="zw-button" href="https://github.com/wzwvv" target="_blank" rel="noopener">GitHub <span aria-hidden="true">↗</span></a>
+        <a class="zw-button" href="{{ '/files/ziwei_wang_cv.pdf' | relative_url }}" target="_blank" rel="noopener">Curriculum Vitae <span aria-hidden="true">↗</span></a>
+        <a class="zw-text-link" href="mailto:vivi@hust.edu.cn">vivi@hust.edu.cn</a>
+      </div>
+    </div>
+
+    <div class="zw-metrics" aria-label="Research highlights">
+      <div class="zw-metric">
+        <strong>&gt;97%</strong>
+        <span>Cross-species seizure-detection AUC</span>
+      </div>
+      <div class="zw-metric">
+        <strong>20+</strong>
+        <span>Generated datasets</span>
+      </div>
+      <div class="zw-metric">
+        <strong>2,000+</strong>
+        <span>Open-dataset downloads</span>
+      </div>
+      <div class="zw-metric">
+        <strong>RMB 340K</strong>
+        <span>Competitive funding as PI</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="zw-section zw-vision" aria-labelledby="vision-title">
+    <div class="zw-section-heading">
+      <p class="zw-section-kicker">Research vision</p>
+      <h2 id="vision-title">From neural-signal decoding to general models for brain-disorder care</h2>
+    </div>
+    <div class="zw-vision-grid">
       <p>
-        EEG decoding under data scarcity and distribution shift, spanning cross-subject,
-        cross-dataset, cross-modality, and cross-species transfer.
+        My long-term goal is to build trustworthy cross-species, multimodal, and multitask foundation models for
+        brain-disorder screening, prognosis, treatment-response monitoring, and rehabilitation.
+      </p>
+      <p>
+        I am particularly interested in shared neural representations across epilepsy, Alzheimer’s disease,
+        hypoxic–ischemic encephalopathy (HIE), amyotrophic lateral sclerosis (ALS), and related neurological disorders.
       </p>
     </div>
-    <div class="highlight-card">
-      <div class="highlight-title">Research Highlights</div>
+    <div class="zw-topic-pills" aria-label="Research topics">
+      <span>Cross-species transfer</span>
+      <span>Multimodal foundation models</span>
+      <span>Trustworthy EEG decoding</span>
+      <span>Generative neural data</span>
+      <span>Brain-disorder intelligence</span>
+    </div>
+  </section>
+
+  <section id="research" class="zw-section" aria-labelledby="research-title">
+    <div class="zw-section-heading zw-heading-split">
+      <div>
+        <p class="zw-section-kicker">Research</p>
+        <h2 id="research-title">Three connected layers of neural intelligence</h2>
+      </div>
+      <p class="zw-section-intro">My work connects transfer, decoding, and data generation into a unified path toward general-purpose neural models.</p>
+    </div>
+
+    <div class="zw-research-grid">
+      <article class="zw-research-card zw-card-blue">
+        <span class="zw-card-index">01</span>
+        <p class="zw-card-label">Generalization</p>
+        <h3>Cross-Species and Cross-Domain Neural Decoding</h3>
+        <p>Transfer neural knowledge across subjects, patients, datasets, devices, modalities, and species when target labels are scarce.</p>
+        <ul>
+          <li>Multi-space alignment across canine/human and intracranial/scalp EEG</li>
+          <li>Unsupervised cross-patient adaptation</li>
+          <li>Cross-dataset knowledge distillation and online adaptation</li>
+        </ul>
+        <a href="#cross-domain" target="_self">Explore representative work <span aria-hidden="true">↓</span></a>
+      </article>
+
+      <article class="zw-research-card zw-card-teal">
+        <span class="zw-card-index">02</span>
+        <p class="zw-card-label">Representation</p>
+        <h3>Generalizable and Interpretable Neural Decoders</h3>
+        <p>Design EEG-specific architectures that explicitly model temporal dynamics, channel topology, frequency structure, and modality reliability.</p>
+        <ul>
+          <li>Dual-branch temporal–spatial Conformers</li>
+          <li>Multi-view contrastive representation learning</li>
+          <li>Frequency-aware and reliability-aware multimodal fusion</li>
+        </ul>
+        <a href="#neural-decoders" target="_self">Explore representative work <span aria-hidden="true">↓</span></a>
+      </article>
+
+      <article class="zw-research-card zw-card-gold">
+        <span class="zw-card-index">03</span>
+        <p class="zw-card-label">Data foundation</p>
+        <h3>Data Generation for Neural Foundation Models</h3>
+        <p>Build physiologically grounded augmentation, generation, denoising, and evaluation methods for scalable neural-model pretraining.</p>
+        <ul>
+          <li>Knowledge-guided and time–frequency augmentation</li>
+          <li>Diffusion and flow-based neural-signal generation</li>
+          <li>Benchmarks for realism, utility, physiology, and privacy</li>
+        </ul>
+        <a href="#data-foundations" target="_self">Explore representative work <span aria-hidden="true">↓</span></a>
+      </article>
+    </div>
+  </section>
+
+  <section id="news" class="zw-section" aria-labelledby="news-title">
+    <div class="zw-section-heading zw-heading-split">
+      <div>
+        <p class="zw-section-kicker">Updates</p>
+        <h2 id="news-title">Selected news</h2>
+      </div>
+      <p class="zw-section-intro">Recent publications, open resources, funding, and recognition.</p>
+    </div>
+
+    <ol class="zw-news-list">
+      <li><time datetime="2026-10">Oct. 2026</time><p><a href="https://arxiv.org/abs/2610.08817" target="_blank" rel="noopener">DenoFlow</a>, a flow-matching framework for SSVEP denoising under real physiological artifacts, is available as a preprint.</p></li>
+      <li><time datetime="2026-09">Sep. 2026</time><p>Released preprints on <a href="https://arxiv.org/abs/2609.11341" target="_blank" rel="noopener">cross-modal Diffusion Transformers</a> and <a href="https://arxiv.org/abs/2609.11372" target="_blank" rel="noopener">reliability-aware multimodal fusion</a>.</p></li>
+      <li><time datetime="2026-06">Jun. 2026</time><p><a href="https://ieeexplore.ieee.org/abstract/document/11554397/" target="_blank" rel="noopener">CKD</a> was accepted by <em>IEEE Transactions on Biomedical Engineering</em>.</p></li>
+      <li><time datetime="2026-06">Jun. 2026</time><p>Received the Excellent Scientific and Technical Paper Award from the Hubei Association for Science and Technology (湖北省科协优秀科技论文奖).</p></li>
+      <li><time datetime="2026-04">Apr. 2026</time><p>Released the <a href="https://zenodo.org/records/19333249" target="_blank" rel="noopener">CHSZ pediatric epilepsy EEG dataset</a>, collected with Wuhan Children’s Hospital.</p></li>
+      <li><time datetime="2026-02">Feb. 2026</time><p>Selected for the Top 10 Advances in Brain–Computer Interfaces in China (中国脑机接口十大进展).</p></li>
+      <li><time datetime="2025-12">Dec. 2025</time><p>Awarded two PI-led research grants totaling RMB 340,000 from NSFC and CAST.</p></li>
+      <li><time datetime="2025-09">Sep. 2025</time><p>Named one of ten worldwide recipients of the Ant Group InTech Scholarship.</p></li>
+    </ol>
+  </section>
+
+  <section id="publications" class="zw-section zw-publications-section" aria-labelledby="publications-title">
+    <div class="zw-section-heading zw-heading-split">
+      <div>
+        <p class="zw-section-kicker">Selected publications</p>
+        <h2 id="publications-title">A research program, not a list of papers</h2>
+      </div>
+      <div class="zw-publication-legend">
+        <span><sup>*</sup> Equal contribution</span>
+        <span><sup>#</sup> Corresponding author</span>
+        <a href="https://scholar.google.com/citations?user=fjlXqvQAAAAJ&hl=en" target="_blank" rel="noopener">Complete list ↗</a>
+      </div>
+    </div>
+
+    {% for group in site.data.ziwei_publications %}
+      <div id="{{ group.id }}" class="zw-publication-group">
+        <div class="zw-group-heading">
+          <p>{{ group.eyebrow }}</p>
+          <h3>{{ group.title }}</h3>
+          <span>{{ group.summary }}</span>
+        </div>
+
+        <div class="zw-publication-list">
+          {% for pub in group.publications %}
+            <article class="zw-publication-card">
+              <div class="zw-publication-visual">
+                {% if pub.image %}
+                  <img src="{{ pub.image | relative_url }}" alt="Visual summary for {{ pub.title }}" loading="lazy">
+                {% else %}
+                  <div class="zw-publication-fallback" aria-hidden="true"><span>{{ pub.mark }}</span></div>
+                {% endif %}
+              </div>
+              <div class="zw-publication-copy">
+                <div class="zw-publication-meta">
+                  <span class="zw-venue">{{ pub.venue_short }}</span>
+                  <span class="zw-status zw-status-{{ pub.status | slugify }}">{{ pub.status }}</span>
+                </div>
+                <h4>{{ pub.title }}</h4>
+                <p class="zw-authors">{{ pub.authors }}</p>
+                <p class="zw-journal">{{ pub.venue }}</p>
+                <p class="zw-publication-description">{{ pub.description }}</p>
+                <div class="zw-publication-links">
+                  {% if pub.paper %}<a href="{{ pub.paper }}" target="_blank" rel="noopener">Paper <span aria-hidden="true">↗</span></a>{% endif %}
+                  {% if pub.code %}<a href="{{ pub.code }}" target="_blank" rel="noopener">Code <span aria-hidden="true">↗</span></a>{% endif %}
+                  {% if pub.data %}<a href="{{ pub.data }}" target="_blank" rel="noopener">Data <span aria-hidden="true">↗</span></a>{% endif %}
+                </div>
+              </div>
+            </article>
+          {% endfor %}
+        </div>
+      </div>
+    {% endfor %}
+  </section>
+
+  <section id="experience" class="zw-section" aria-labelledby="experience-title">
+    <div class="zw-section-heading">
+      <p class="zw-section-kicker">Trajectory</p>
+      <h2 id="experience-title">Education, funding, and industry experience</h2>
+    </div>
+
+    <div class="zw-trajectory-grid">
+      <div class="zw-trajectory-column">
+        <h3>Education</h3>
+        <ol class="zw-timeline">
+          <li>
+            <span class="zw-timeline-year">2023–Present</span>
+            <div><strong>Huazhong University of Science and Technology</strong><span>Ph.D. in Intelligent Science and Technology</span></div>
+          </li>
+          <li>
+            <span class="zw-timeline-year">2021–2023</span>
+            <div><strong>Huazhong University of Science and Technology</strong><span>M.S. in Intelligent Science and Technology</span></div>
+          </li>
+          <li>
+            <span class="zw-timeline-year">2017–2021</span>
+            <div><strong>Central South University</strong><span>B.Eng. in Measurement and Control Technology and Instrumentation</span></div>
+          </li>
+        </ol>
+      </div>
+
+      <div class="zw-trajectory-column">
+        <h3>Research funding as PI</h3>
+        <div class="zw-funding-card">
+          <div><span>NSFC</span><strong>RMB 300,000</strong></div>
+          <h4>Cross-Species Multimodal EEG General Representation and Foundation Models</h4>
+          <p>Young Student Basic Research Program (国家自然科学基金青年学生基础研究项目), Grant 625B2077, 2026–2027.</p>
+        </div>
+        <div class="zw-funding-card">
+          <div><span>CAST</span><strong>RMB 40,000</strong></div>
+          <h4>General-Purpose EEG Foundation Models</h4>
+          <p>Young Elite Scientists Sponsorship Program, Doctoral Student Track (中国科协青年人才托举工程博士生专项), 2026–2027.</p>
+        </div>
+      </div>
+
+      <div class="zw-trajectory-column">
+        <h3>Industry experience</h3>
+        <div class="zw-industry-card">
+          <div class="zw-company-row"><strong>Alibaba Cloud</strong><span>Oct. 2022–Apr. 2023</span></div>
+          <p>Algorithm Research Intern, Cloud-Server Failure Prediction</p>
+          <ul>
+            <li>Proposed SparseAttention for efficient long-sequence forecasting.</li>
+            <li>Designed a domain-generalized mixture-of-experts architecture for temporal and device shifts.</li>
+            <li>Developed five anomaly-aware augmentation operators using N-grams and TF–IDF.</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <div class="zw-open-science">
+      <div>
+        <p class="zw-section-kicker">Open science</p>
+        <h3>Reusable data, code, and benchmarks</h3>
+      </div>
+      <p>The open CHSZ dataset contains EEG recordings from 27 children with epilepsy and has received more than 2,000 downloads. Representative implementations are maintained openly on GitHub.</p>
+      <div>
+        <a href="https://zenodo.org/records/19333249" target="_blank" rel="noopener">Dataset ↗</a>
+        <a href="https://github.com/wzwvv" target="_blank" rel="noopener">All repositories ↗</a>
+      </div>
+    </div>
+  </section>
+
+  <section id="honors" class="zw-section" aria-labelledby="honors-title">
+    <div class="zw-section-heading zw-heading-split">
+      <div>
+        <p class="zw-section-kicker">Recognition</p>
+        <h2 id="honors-title">Selected honors and academic service</h2>
+      </div>
+      <p class="zw-section-intro">Recognition spanning research originality, academic excellence, open science, and community service.</p>
+    </div>
+
+    <div class="zw-honors-grid">
+      <article><span>2025</span><h3>Ant Group InTech Scholarship</h3><p>One of ten recipients worldwide.</p></article>
+      <article><span>2020, 2024–2026</span><h3>National Scholarship (国家奖学金)</h3><p>Four-time recipient across undergraduate and Ph.D. study.</p></article>
+      <article><span>2025</span><h3>Excellent Scientific and Technical Paper</h3><p>Hubei Association for Science and Technology.</p></article>
+      <article><span>2025</span><h3>Merit Student Pacesetter</h3><p>Highest student honor at HUST.</p></article>
+      <article><span>2022</span><h3>IEEE CIS Student Grant</h3><p>One of five recipients worldwide.</p></article>
+      <article><span>2023–2025</span><h3>National BCI Recognition</h3><p>Top 10 Advances 2025, Top 10 Highlights 2024, and National First Prize at the 2023 World Robot Contest BCI Competition.</p></article>
+    </div>
+
+    <div class="zw-service-panel">
+      <div>
+        <p class="zw-section-kicker">Academic service</p>
+        <h3>Reviewer across AI, biomedical engineering, and neural engineering</h3>
+      </div>
       <p>
-        <strong>9 first-author papers</strong>, including <strong>7 Q1/Top/CAA-A journals</strong>
-        such as <em>National Science Review</em>, <em>IEEE JBHI</em>, <em>IEEE TBME</em>, <em>Neural Networks</em>, and <em>Knowledge-Based Systems</em>.
+        Reviewer for <em>Artificial Intelligence Review</em>, <em>IEEE Reviews in Biomedical Engineering</em>,
+        <em>IEEE Transactions on Fuzzy Systems</em>, <em>IEEE JBHI</em>, <em>IEEE TNSRE</em>,
+        <em>Knowledge-Based Systems</em>, <em>Neurocomputing</em>, <em>Journal of Neural Engineering</em>,
+        <em>Scientific Reports</em>, ICONIP, and IEEE SMC. Recognized as an IOP Trusted Reviewer in 2024.
       </p>
     </div>
-    <div class="highlight-card">
-      <div class="highlight-title">Honors</div>
-      <p>
-        <strong>Ant Group InTech Scholarship</strong>, <strong>National Scholarship ×3</strong>, IEEE CIS Student Grant,
-        Merit Student Pacesetter at HUST, and Huanau Top-10 BCI Awards in China.
-      </p>
-    </div>
-    <div class="highlight-card">
-      <div class="highlight-title">Service</div>
-      <p>
-        Reviewer for IEEE RBME, IEEE TFS, IEEE JBHI, IEEE TNSRE, KBS, IEEE TBIOM, JNE,
-        Scientific Reports, ICONIP, and IEEE SMC; recognized as an IOP Trusted Reviewer.
-      </p>
-    </div>
-  </div>
+  </section>
 
+  <section id="collaborators" class="zw-section" aria-labelledby="collaborators-title">
+    <div class="zw-section-heading zw-heading-split">
+      <div>
+        <p class="zw-section-kicker">People</p>
+        <h2 id="collaborators-title">Selected collaborators</h2>
+      </div>
+      <p class="zw-section-intro">I have been fortunate to collaborate with researchers across transfer learning, neural decoding, multimodal learning, and biomedical AI.</p>
+    </div>
+
+    <div class="zw-collaborator-grid">
+      {% for person in site.data.collaborators %}
+        {% if person.url %}<a class="zw-collaborator-card" href="{{ person.url }}" target="_blank" rel="noopener">{% else %}<div class="zw-collaborator-card zw-collaborator-static">{% endif %}
+          <span class="zw-collaborator-avatar" aria-hidden="true">{{ person.initials }}</span>
+          <span class="zw-collaborator-info">
+            <strong>{{ person.name }}</strong>
+            <small>{{ person.stage }}</small>
+            {% if person.venue %}<em>{{ person.venue }}</em>{% endif %}
+          </span>
+          {% if person.url %}<span class="zw-collaborator-arrow" aria-hidden="true">↗</span>{% endif %}
+        {% if person.url %}</a>{% else %}</div>{% endif %}
+      {% endfor %}
+    </div>
+  </section>
+
+  <section id="contact" class="zw-contact" aria-labelledby="contact-title">
+    <div>
+      <p class="zw-section-kicker">Contact</p>
+      <h2 id="contact-title">Let’s discuss neural intelligence that can generalize.</h2>
+      <p>I welcome conversations about cross-species learning, neural foundation models, brain-disorder intelligence, open datasets, and research internships.</p>
+    </div>
+    <div class="zw-contact-links">
+      <a href="mailto:vivi@hust.edu.cn"><span>Email</span><strong>vivi@hust.edu.cn</strong></a>
+      <a href="https://scholar.google.com/citations?user=fjlXqvQAAAAJ&hl=en" target="_blank" rel="noopener"><span>Research</span><strong>Google Scholar ↗</strong></a>
+      <a href="https://github.com/wzwvv" target="_blank" rel="noopener"><span>Open source</span><strong>github.com/wzwvv ↗</strong></a>
+      <a href="https://orcid.org/0000-0003-1324-2298" target="_blank" rel="noopener"><span>Research ID</span><strong>ORCID ↗</strong></a>
+    </div>
+  </section>
+
+  <footer class="zw-footer">
+    <p>© 2026 Ziwei Wang. Last updated October 2026.</p>
+    <a href="#about" target="_self">Back to top ↑</a>
+  </footer>
 </div>
-
-## Research Vision
-
-My long-term goal is to build reliable EEG foundation models that can better understand brain signals and support intelligent diagnosis, treatment, and rehabilitation of brain disorders.
-
-To address this goal, I have been working on three main directions:
-
-- **Cross-species and cross-modality EEG decoding**: developing transfer learning frameworks for seizure detection across species and recording modalities, including knowledge transfer from canine to human EEG and from intracranial to scalp EEG. Representative work: [ResizeNet+MSA](https://academic.oup.com/nsr/article/12/6/nwaf086/8052010).
-- **Reliable EEG decoding under real-world challenges**: designing robust decoding architectures and transfer learning algorithms for cross-subject, cross-dataset, low-sample, and low-SNR scenarios. Representative works: [DBConformer](https://doi.org/10.1109/JBHI.2025.3622725), [FAConformer](https://arxiv.org/abs/2606.14120), [MVCNet](https://www.sciencedirect.com/science/article/pii/S0950705125012468), [CKD](https://ieeexplore.ieee.org/document/11554397), and [TASA](https://iopscience.iop.org/article/10.1088/1741-2552/ad0859/meta).
-- **Data foundations for brain foundation models**: building knowledge-driven augmentation, denoising, and generation approaches to support data-efficient EEG modeling, pretraining, and foundation model construction. Representative works: [CR](https://www.sciencedirect.com/science/article/pii/S0893608024002752), [DWTaug](https://www.sciencedirect.com/science/article/pii/S0950705125001212), [HHTaug](https://www.sciencedirect.com/science/article/pii/S0950705125001212), DenoNet, and [DG4BCI](https://arxiv.org/abs/2603.12296v2).
-
-## News
-
-- <strong>06 / 2026</strong> — Awarded the Excellent Scientific and Technical Paper of Hubei Association for Science and Technology
-- <strong>06 / 2026</strong> — [CKD](https://ieeexplore.ieee.org/document/11554397) accepted by _IEEE TBME_.
-- <strong>04 / 2026</strong> — We have released the [CHSZ](https://zenodo.org/records/19333249) dataset, an EEG dataset collected from 27 children for epileptic seizure detection, for public download and use. Please refer to our [TASA-SDS](https://iopscience.iop.org/article/10.1088/1741-2552/ad0859/meta) and [CST](https://academic.oup.com/nsr/article/12/6/nwaf086/8052010?login=true) papers for details of data processing.
-- <strong>03 / 2026</strong> — Our survey on brain signal generation is available on <a href="https://arxiv.org/abs/2603.12296v2">arXiv</a>. Special thanks to Tiki 🐱 for kindly providing her photo for the figures.
-- <strong>02 / 2026</strong> — Selected for the Top 10 Advances in Brain–Computer Interfaces in China (Huanau Award).
-- <strong>12 / 2025</strong> — Supported by the <strong>Doctoral Student Program of the Young S&amp;T Talents Cultivation Project from CAST</strong> (40,000 RMB).
-- <strong>12 / 2025</strong> — Supported by the <strong>Youth Student Fundamental Research Project from NSFC</strong> (300,000 RMB).
-- <strong>10 / 2025</strong> — DBConformer accepted by _IEEE JBHI_.
-- <strong>09 / 2025</strong> — Awarded the <strong>Ant Group InTech Scholarship</strong>.
-- <strong>07 / 2025</strong> — MVCNet accepted by _Knowledge-Based Systems_.
-- <strong>03 / 2025</strong> — CST accepted by _National Science Review_.
-- <strong>02 / 2025</strong> — CSDA accepted by _Knowledge-Based Systems_.
-- <strong>08 / 2024</strong> — Selected for the Top 10 Highlights in Brain–Computer Interfaces in China (Huanau Award).
-- <strong>04 / 2024</strong> — CR accepted by _Neural Networks_.
-
-## Representative Publications
-
-<div class="pub-card">
-  <div class="pub-thumb"><img src="images/CST.png" alt="CST"></div>
-  <div class="pub-content">
-    <div class="pub-venue">National Science Review 2025</div>
-    <div class="pub-title">Canine EEG helps human: Cross-species and cross-modality epileptic seizure detection via multi-space alignment</div>
-    <div class="pub-authors"><strong>Z. Wang</strong>, S. Li, and D. Wu*</div>
-    <div class="pub-meta"><em>National Science Review</em>, vol. 12, no. 6, p. nwaf086, 2025. <span class="pub-tag">CAS Q1 Top</span></div>
-    <div class="pub-desc">A cross-species and cross-modality transfer framework for seizure detection, showing that canine EEG can help human EEG analysis.</div>
-    <div class="pub-links">
-      <a href="https://academic.oup.com/nsr/article/12/6/nwaf086/8052010?login=true">Paper</a>
-      <a href="https://github.com/wzwvv/CST">Code</a>
-      <a href="https://www.eurekalert.org/news-releases/1079947">Media</a>
-      <a href="https://mp.weixin.qq.com/s/41BTiP_SJ3_5UuKTy1U4nA">News</a>
-    </div>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-thumb"><img src="images/DBConformer.png" alt="DBConformer"></div>
-  <div class="pub-content">
-    <div class="pub-venue">IEEE JBHI 2025</div>
-    <div class="pub-title">DBConformer: Dual-branch convolutional Transformer for EEG decoding</div>
-    <div class="pub-authors"><strong>Z. Wang</strong>, H. Wang, T. Jia, X. He, S. Li, and D. Wu*</div>
-    <div class="pub-meta"><em>IEEE Journal of Biomedical and Health Informatics</em>, vol. 30, no. 5, pp. 4134–4147, 2026. <span class="pub-tag">CAS Q1 Top</span></div>
-    <div class="pub-desc">A dual-branch temporal-spatial model for EEG decoding that improves performance while remaining parameter-efficient.</div>
-    <div class="pub-links">
-      <a href="https://doi.org/10.1109/JBHI.2025.3622725">Paper</a>
-      <a href="https://github.com/wzwvv/DBConformer">Code</a>
-    </div>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-thumb"><img src="images/CKD.png" alt="CKD"></div>
-  <div class="pub-content">
-    <div class="pub-venue">IEEE TBME 2026</div>
-    <div class="pub-title">CKD: Contrastive knowledge distillation for cross-dataset EEG classification</div>
-    <div class="pub-authors"><strong>Z. Wang</strong>, X. He, H. Wang, and D. Wu*</div>
-    <div class="pub-meta"><em>IEEE Trans. on Biomedical Engineering</em>, Early access, 2026. DOI: 10.1109/TBME.2026.3701548. <span class="pub-tag">CAA-A </span></div>
-    <div class="pub-desc">A two-stage contrastive knowledge distillation framework for cross-dataset EEG decoding</div>
-    <div class="pub-links">
-      <a href="https://ieeexplore.ieee.org/document/11554397">Paper</a>
-      <a href="--">Code</a>
-    </div>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-thumb"><img src="images/CR.png" alt="Channel Reflection"></div>
-  <div class="pub-content">
-    <div class="pub-venue">Neural Networks 2024</div>
-    <div class="pub-title">Channel reflection: Knowledge-driven data augmentation for EEG-based BCIs</div>
-    <div class="pub-authors"><strong>Z. Wang</strong>†, S. Li†, J. Luo, J. Liu, and D. Wu*</div>
-    <div class="pub-meta"><em>Neural Networks</em>, vol. 176, p. 106351, 2024. <span class="pub-tag">CAS Q1 Top</span></div>
-    <div class="pub-desc">A knowledge-driven spatial augmentation strategy that leverages EEG channel symmetry to improve decoding accuracy and robustness.</div>
-    <div class="pub-links">
-      <a href="https://www.sciencedirect.com/science/article/pii/S0893608024002752">Paper</a>
-      <a href="https://github.com/wzwvv/EEGAug">Code</a>
-      <a href="https://mp.weixin.qq.com/s/W5QptXMF3hLB_pRyGWjvOQ">Media</a>
-    </div>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-thumb"><img src="images/CSDA.png" alt="CSDA"></div>
-  <div class="pub-content">
-    <div class="pub-venue">Knowledge-Based Systems 2025</div>
-    <div class="pub-title">Time-frequency transform based EEG data augmentation for brain-computer interfaces</div>
-    <div class="pub-authors"><strong>Z. Wang</strong>, S. Li, X. Chen, and D. Wu*</div>
-    <div class="pub-meta"><em>Knowledge-Based Systems</em>, vol. 311, p. 113074, 2025. <span class="pub-tag">CAS Q1 Top</span></div>
-    <div class="pub-desc">A time-frequency augmentation framework that improves EEG decoding performance under limited training data.</div>
-    <div class="pub-links">
-      <a href="https://www.sciencedirect.com/science/article/pii/S0950705125001212">Paper</a>
-      <a href="https://github.com/wzwvv/CSDA">Code</a>
-    </div>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-thumb"><img src="images/MVCNet.png" alt="MVCNet"></div>
-  <div class="pub-content">
-    <div class="pub-venue">Knowledge-Based Systems 2025</div>
-    <div class="pub-title">MVCNet: Multi-view contrastive network for motor imagery classification</div>
-    <div class="pub-authors"><strong>Z. Wang</strong>, S. Li, X. Chen, and D. Wu*</div>
-    <div class="pub-meta"><em>Knowledge-Based Systems</em>, vol. 328, p. 114205, 2025. <span class="pub-tag">CAS Q1 Top</span></div>
-    <div class="pub-desc">A multi-view contrastive learning framework designed to improve representation learning for motor imagery classification.</div>
-    <div class="pub-links">
-      <a href="https://www.sciencedirect.com/science/article/pii/S0950705125012468">Paper</a>
-      <a href="https://github.com/wzwvv/MVCNet">Code</a>
-    </div>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-thumb"><img src="images/TASA.png" alt="TASA"></div>
-  <div class="pub-content">
-    <div class="pub-venue">Journal of Neural Engineering 2023</div>
-    <div class="pub-title">Unsupervised domain adaptation for cross-patient seizure classification</div>
-    <div class="pub-authors"><strong>Z. Wang</strong>, W. Zhang, S. Li, X. Chen, and D. Wu*</div>
-    <div class="pub-meta"><em>Journal of Neural Engineering</em>, vol. 20, no. 6, p. 066002, 2023. <span class="pub-tag">CAS Q2 Top</span></div>
-    <div class="pub-desc">An unsupervised domain adaptation framework for seizure detection across patients under distribution shifts.</div>
-    <div class="pub-links">
-      <a href="https://iopscience.iop.org/article/10.1088/1741-2552/ad0859/meta">Paper</a>
-      <a href="https://github.com/wzwvv/TASA">Code</a>
-    </div>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-thumb"><img src="images/DG4BCI.png" alt="DG4BCI"></div>
-  <div class="pub-content">
-    <div class="pub-venue">arXiv 2026</div>
-    <div class="pub-title">Synthetic data generation for brain-computer interfaces: Overview, benchmarking, and future directions</div>
-    <div class="pub-authors"><strong>Z. Wang</strong>, Z. He, X. He, H. Wang, T. Jia, J. Luo, S. Li, X. Chen, and D. Wu* <span class="pub-tag">CAS Q1 Top</span></div>
-    <div class="pub-meta"><em>Artificial Intelligence Review</em>, under review, 2026.</div>
-    <div class="pub-desc">Provide a methodological framework for brain-signal generation research.</div>
-    <div class="pub-links">
-      <a href="https://arxiv.org/abs/2603.12296v2">Paper</a>
-      <a href="">Code</a>
-    </div>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-thumb"><img src="images/FAConformer.png" alt="FAConformer"></div>
-  <div class="pub-content">
-    <div class="pub-venue">arXiv 2026</div>
-    <div class="pub-title">FAConformer: Frequency-aware convolutional Transformer for auditory attention decoding</div>
-    <div class="pub-authors"><strong>Z. Wang†</strong>, X. He†, T. Jia, H. Wang, and D. Wu* <span class="pub-tag">CAS Q1 Top</span></div>
-    <div class="pub-meta"><em>Science China Information Sciences</em>, under review, 2026.</div>
-    <div class="pub-desc">Improve EEG-based AAD through multi-band modeling and cross-band fusion.</div>
-    <div class="pub-links">
-      <a href="https://arxiv.org/abs/2606.14120">Paper</a>
-      <a href="">Code</a>
-    </div>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-thumb"><img src="images/DenoNet.png" alt="DenoNet"></div>
-  <div class="pub-content">
-    <div class="pub-venue"></div>
-    <div class="pub-title">DenoNet: A GAN-VAE hybrid generative model for SSVEP denoising</div>
-    <div class="pub-authors">Z. He†, <strong>Z. Wang†</strong>, and D. Wu* <span class="pub-tag">CAS Q1 Top</span></div>
-    <div class="pub-meta"><em>Engineering</em>, under review, 2026.</div>
-    <div class="pub-desc">A GAN–VAE-based denoising model to improve decoding accuracy and robustness under low-SNR conditions.</div>
-    <div class="pub-links">
-      <a href="">Paper</a>
-      <a href="">Code</a>
-    </div>
-  </div>
-</div>
-
-<p style="margin-top: 12px;">
-  <a href="https://scholar.google.com/citations?user=fjlXqvQAAAAJ&hl=en" target="_blank" rel="noopener">
-    <strong>View full publication list →</strong>
-  </a>
-</p>
-
-## Awards
-
-- <strong>主持国家自然科学基金博士生项目</strong>, 2025
-- <strong>入选中国科协青年科技人才培育工程博士生专项计划</strong>, 2025
-- <strong>首届蚂蚁InTech奖学金（全球10人）</strong>, 2025 
-- <strong>National Scholarship (国家奖学金)</strong>, PhD, 2025
-- <strong>National Scholarship (国家奖学金)</strong>, PhD, 2024
-- <strong>National Scholarship (国家奖学金)</strong>, Undergraduate, 2020
-- <strong>湖南省优秀毕业生</strong>, 2021
-- 华中科技大学三好学生标兵（<strong>校学生最高荣誉</strong>）, 2025
-- 中南大学特等奖学金(<strong>校最高级别奖学金</strong>), 2021 
-- IEEE CIS Scholarship (IEEE计算智能学会奖学金), <strong>全球5人</strong>, 2022
-- 脑机接口华瑙奖“中国脑机接口十大进展”（<strong>全国10项</strong>）, 2025
-- 脑机接口华瑙奖“中国脑机接口十大亮点”（<strong>全国10项</strong>）, 2024
-- 世界机器人大赛—脑控机器人大赛<strong>全国一等奖</strong>, 2023
-- 世界机器人大赛—脑控机器人大赛<strong>全国二等奖</strong>, 2025
-- 世界机器人大赛—脑控机器人大赛<strong>全国二等奖</strong>, 2021
-- IOP Trusted Reviewer(英国物理学会可信审稿人）, 2024
-
-## Education
-
-- <strong>09 / 2021 – Present</strong> — Ph.D. candidate, Huazhong University of Science and Technology
-- <strong>09 / 2017 – 06 / 2021</strong> — B.Eng. in Measurement and Control Technology and Instrumentation, Central South University
-
-## Talks
-
-- <strong>11 / 2023</strong> — ICONIP Tutorial: <em>Transfer learning for EEG-based brain–computer interfaces</em>
-- <strong>05 / 2025</strong> — CSSC Oral: <em>Cross-species and cross-modality seizure detection via multi-space alignment</em>
-- <strong>09 / 2024</strong> — Alibaba Cloud Yunqi Conference Oral: <em>EEG-based automatic seizure detection</em>
-- <strong>12 / 2024</strong> — China Brain–Computer Intelligence Conference Poster
-- <strong>12 / 2025</strong> — SAAC 2025 Poster: <em>DBConformer</em>
-- <strong>12 / 2024</strong> — SAAC 2024 Poster: <em>CR</em>
-
-## Internships
-
-<strong>Alibaba Cloud</strong>, China  
-<em>10 / 2022 – 04 / 2023</em>
-
-- Designed five augmentation operators based on N-grams and TF-IDF for anomaly-aware data augmentation.
-- Proposed a SparseAttention module for long-sequence forecasting.
-- Designed a domain-generalized mixture-of-experts model for robust fault prediction under temporal and device-level shifts.

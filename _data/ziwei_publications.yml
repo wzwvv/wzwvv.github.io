@@ -1,0 +1,133 @@
+- id: cross-domain
+  eyebrow: Cross-species · cross-modality · cross-dataset · cross-patient
+  title: Cross-Species and Cross-Domain Neural Decoding
+  summary: Transfer neural representations across species, recording modalities, datasets, devices, and patients under limited target-domain labels.
+  publications:
+    - mark: CST
+      image: /images/CST.png
+      title: "Canine EEG Helps Human: Cross-Species and Cross-Modality Epileptic Seizure Detection via Multi-Space Alignment"
+      authors: "<strong>Ziwei Wang</strong>, Siyang Li, and Dongrui Wu<sup>#</sup>"
+      venue: National Science Review
+      venue_short: NSR 2025
+      status: Published
+      description: "The first systematic demonstration that heterogeneous canine/human and intracranial/scalp EEG can improve cross-species seizure detection, achieving over 90% AUC with very limited target labels."
+      paper: https://academic.oup.com/nsr/article/12/6/nwaf086/8052010
+      code: https://github.com/wzwvv/CST
+      data: https://zenodo.org/records/19333249
+    - mark: CKD
+      image: /images/CKD.png
+      title: "CKD: Contrastive Knowledge Distillation for Cross-Dataset EEG Classification"
+      authors: "<strong>Ziwei Wang</strong>, Xingyi He, Hongbin Wang, and Dongrui Wu<sup>#</sup>"
+      venue: IEEE Transactions on Biomedical Engineering
+      venue_short: IEEE TBME 2026
+      status: Published
+      description: "A two-stage framework that combines cross-dataset teacher pretraining with cross-subject online adaptation through logit distillation and feature-level contrastive alignment."
+      paper: https://ieeexplore.ieee.org/abstract/document/11554397/
+    - mark: TASA
+      image: /images/TASA.png
+      title: Unsupervised Domain Adaptation for Cross-Patient Seizure Classification
+      authors: "<strong>Ziwei Wang</strong>, Wen Zhang, Siyang Li, Xinru Chen, and Dongrui Wu<sup>#</sup>"
+      venue: Journal of Neural Engineering
+      venue_short: JNE 2023
+      status: Published
+      description: "A multi-source adaptation framework integrating source selection, global alignment, and target-agent subdomain adaptation for new patients without target labels."
+      paper: https://iopscience.iop.org/article/10.1088/1741-2552/ad0859/meta
+      code: https://github.com/wzwvv/TASA
+
+- id: neural-decoders
+  eyebrow: Spatiotemporal modeling · contrastive learning · multimodal fusion
+  title: Generalizable, Interpretable, and Multimodal Neural Decoders
+  summary: Build compact EEG-specific architectures that encode temporal dynamics, spatial topology, frequency structure, and modality reliability.
+  publications:
+    - mark: DBC
+      image: /images/DBConformer.png
+      title: "DBConformer: Dual-Branch Convolutional Transformer for EEG Decoding"
+      authors: "<strong>Ziwei Wang</strong>, Hongbin Wang, Tianwang Jia, Xingyi He, Siyang Li, and Dongrui Wu<sup>#</sup>"
+      venue: IEEE Journal of Biomedical and Health Informatics
+      venue_short: IEEE JBHI 2026
+      status: Published
+      description: "Parallel temporal and spatial Conformer branches model long-range dynamics and channel interactions across three EEG paradigms, using over eight times fewer parameters than high-capacity Conformer baselines."
+      paper: https://ieeexplore.ieee.org/abstract/document/11215634
+      code: https://github.com/wzwvv/DBConformer
+    - mark: MVC
+      image: /images/MVCNet.png
+      title: "MVCNet: Multi-View Contrastive Network for Motor Imagery Classification"
+      authors: "<strong>Ziwei Wang</strong>, Siyang Li, Xiaoqing Chen, and Dongrui Wu<sup>#</sup>"
+      venue: Knowledge-Based Systems
+      venue_short: KBS 2025
+      status: Published
+      description: "Time-, frequency-, and spatial-view augmentation is coupled with cross-view and cross-model contrastive learning, consistently outperforming nine baselines on five motor-imagery datasets."
+      paper: https://www.sciencedirect.com/science/article/abs/pii/S0950705125012468
+      code: https://github.com/wzwvv/MVCNet
+    - mark: FAC
+      image: /images/FAConformer.png
+      title: "FAConformer: Frequency-Aware Convolutional Transformer for Auditory Attention Decoding"
+      authors: "<strong>Ziwei Wang</strong><sup>*</sup>, Xingyi He<sup>*</sup>, Tianwang Jia, Hongbin Wang, and Dongrui Wu<sup>#</sup>"
+      venue: Science China Information Sciences
+      venue_short: SCIS 2026
+      status: Under review
+      description: "Band-specific encoders, frequency-aware attention, and auxiliary supervision improve auditory attention decoding across two datasets and three decision-window lengths."
+      paper: https://arxiv.org/abs/2606.14120
+      code: https://github.com/wzwvv/FAConformer
+    - mark: RAM
+      title: "RAMamba-Net: A Reliability-Aware and Mamba-Based Multimodal Fusion Network for Auditory Attention Detection"
+      authors: "Xingyi He<sup>*</sup>, <strong>Ziwei Wang</strong><sup>*</sup>, and Dongrui Wu<sup>#</sup>"
+      venue: ICLR 2027 submission
+      venue_short: ICLR 2027
+      status: Under review
+      description: "Reliability-aware EEG–EOG fusion combines band-aware Conformer and Mamba encoders, cross-modal attention, and sample-wise modality weighting."
+      paper: https://arxiv.org/abs/2609.11372
+
+- id: data-foundations
+  eyebrow: Data augmentation · generative models · trustworthy benchmarks
+  title: Data Generation and Foundations for Large Neural Models
+  summary: Develop physiologically grounded augmentation, generation, denoising, and evaluation tools for data-efficient neural foundation models.
+  publications:
+    - mark: TF
+      image: /images/CSDA.png
+      title: Time-Frequency Transform Based EEG Data Augmentation for Brain–Computer Interfaces
+      authors: "<strong>Ziwei Wang</strong>, Siyang Li, Xiaoqing Chen, and Dongrui Wu<sup>#</sup>"
+      venue: Knowledge-Based Systems
+      venue_short: KBS 2025
+      status: Published
+      description: "DWTaug and HHTaug jointly address data scarcity, non-stationarity, and inter-subject variability, with evaluation on 17 datasets from three BCI paradigms."
+      paper: https://www.sciencedirect.com/science/article/abs/pii/S0950705125001212
+      code: https://github.com/wzwvv/CSDA
+    - mark: CR
+      image: /images/CR.png
+      title: "Channel Reflection: Knowledge-Driven Data Augmentation for EEG-Based Brain–Computer Interfaces"
+      authors: "<strong>Ziwei Wang</strong><sup>*</sup>, Siyang Li<sup>*</sup>, Jingwei Luo, Jiajing Liu, and Dongrui Wu<sup>#</sup>"
+      venue: Neural Networks
+      venue_short: NN 2024
+      status: Published
+      description: "A parameter-free augmentation method that converts paradigm-specific spatial priors into channel mappings for data-efficient and interpretable EEG decoding."
+      paper: https://www.sciencedirect.com/science/article/abs/pii/S0893608024002752
+      code: https://github.com/wzwvv/EEGAug
+    - mark: DG
+      image: /images/DG4BCI.png
+      title: "Synthetic Data Generation for Brain–Computer Interfaces: Overview, Benchmarking, and Future Directions"
+      authors: "<strong>Ziwei Wang</strong>, Zhentao He, Xingyi He, Hongbin Wang, Tianwang Jia, Jingwei Luo, Siyang Li, Xiaoqing Chen, and Dongrui Wu<sup>#</sup>"
+      venue: Artificial Intelligence Review
+      venue_short: AIR 2026
+      status: Minor revision
+      description: "A unified taxonomy and benchmark spanning four BCI paradigms and four evaluation dimensions: signal realism, physiological plausibility, downstream utility, and privacy."
+      paper: https://arxiv.org/abs/2603.12296
+      code: https://github.com/wzwvv/DG4BCI
+    - mark: DiT
+      title: Exploring Diffusion Transformers for Cross-Modal Augmentation in Multimodal Brain State Decoding
+      authors: "<strong>Ziwei Wang</strong>, Xingyi He, Hongbin Wang, Tianwang Jia, Bohan Fang, and Dongrui Wu<sup>#</sup>"
+      venue: ICLR 2027 submission
+      venue_short: ICLR 2027
+      status: Under review
+      description: "CoMA-DiT treats paired modalities as mutual generative supervision through cross-modal attention and reliability-gated latent augmentation."
+      paper: https://arxiv.org/abs/2609.11341
+    - mark: DF
+      image: /images/DenoNet.png
+      title: "DenoFlow: Flow Matching for SSVEP Denoising under Real Physiological Artifacts"
+      authors: "Zhentao He<sup>*</sup>, <strong>Ziwei Wang</strong><sup>*</sup>, and Dongrui Wu<sup>#</sup>"
+      venue: Knowledge-Based Systems
+      venue_short: KBS 2026
+      status: Under review
+      description: "A rectified-flow denoising framework trained with recorded EMG/EOG artifacts and task-aware supervision, improving signal fidelity and downstream SSVEP decoding."
+      paper: https://arxiv.org/abs/2610.08817
+      code: https://github.com/wzwvv/DenoFlow

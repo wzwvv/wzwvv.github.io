@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Ziwei Wang neural signal mark</title>
+  <defs>
+    <linearGradient id="bg" x1="8" y1="6" x2="56" y2="58" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#173E63"/>
+      <stop offset="1" stop-color="#285F89"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="15" fill="url(#bg)"/>
+  <path d="M13 18h38L39 29h-7l-5 8h-4L13 48h38" fill="none" stroke="#fff" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="27" cy="37" r="4.2" fill="#56C8C0" stroke="#173E63" stroke-width="2"/>
+  <circle cx="51" cy="18" r="3.2" fill="#F2C06B"/>
+</svg>

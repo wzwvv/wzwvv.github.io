@@ -1,16 +1,23 @@
-<div class="masthead">
-  <div class="masthead__inner-wrap">
-    <div class="masthead__menu">
-      <nav id="site-nav" class="greedy-nav">
-        <button><div class="navicon"></div></button>
-        <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="#about-me">Homepage</a></li>
-          {% for link in site.data.navigation.main %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
-          {% endfor %}
-        </ul>
-        <ul class="hidden-links hidden"></ul>
-      </nav>
-    </div>
+<header class="zw-masthead">
+  <div class="zw-nav-shell">
+    <a class="zw-brand" href="#about" target="_self" aria-label="Ziwei Wang homepage">
+      <span class="zw-brand-mark" aria-hidden="true">ZW</span>
+      <span class="zw-brand-copy">
+        <strong>Ziwei Wang</strong>
+        <small>Neural Signal Intelligence</small>
+      </span>
+    </a>
+
+    <nav class="zw-nav" aria-label="Primary navigation">
+      <a class="zw-nav-link" href="#about" target="_self">About</a>
+      <a class="zw-nav-link" href="#research" target="_self">Research</a>
+      <a class="zw-nav-link" href="#publications" target="_self">Publications</a>
+      <a class="zw-nav-link" href="#experience" target="_self">Experience</a>
+      <a class="zw-nav-link" href="#honors" target="_self">Honors</a>
+      <a class="zw-nav-link" href="#collaborators" target="_self">Collaborators</a>
+      <a class="zw-nav-link" href="#contact" target="_self">Contact</a>
+    </nav>
+
+    <a class="zw-nav-cta" href="{{ '/files/ziwei_wang_cv.pdf' | relative_url }}" target="_blank" rel="noopener">CV <span aria-hidden="true">↗</span></a>
   </div>
-</div>
+</header>

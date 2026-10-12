@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Ziwei Wang"
-description              : "PhD Student @HUST"
+title                    : "Ziwei Wang | Neural Signal Intelligence"
+description              : "Ph.D. candidate at HUST developing generalizable learning methods and foundation models for neural signals."
 repository               : "wzwvv/wzwvv.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,8 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Ziwei Wang"
-  avatar           : "images/CV2.jpg"
-  bio              : # "PhD Student @HUST"
+  avatar           : "images/CV.jpg"
+  bio              : "Ph.D. Candidate at HUST"
   location         : "Wuhan, China"
   employer         :
   pubmed           : 
