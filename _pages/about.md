@@ -71,8 +71,8 @@ author_profile: false
         <span>CHSZ dataset downloads</span>
       </a>
       <div class="zw-metric">
-        <strong>2</strong>
-        <span>PI-led national research projects</span>
+        <strong>2 Grants</strong>
+        <span>Principal Investigator · NSFC &amp; CAST</span>
       </div>
       <a class="zw-metric zw-metric-honor" href="https://www.antresearch.com/cooperation/InTech" target="_blank" rel="noopener">
         <strong>2025</strong>
@@ -87,8 +87,8 @@ author_profile: false
         <span>Hubei Excellent Scientific and Technical Paper Award</span>
       </a>
       <a class="zw-metric zw-metric-honor" href="https://tech.chinadaily.com.cn/a/202602/06/WS6985af8fa310942cc499ea62.html" target="_blank" rel="noopener">
-        <strong>3×</strong>
-        <span>National BCI recognition, 2023–2025</span>
+        <strong>5×</strong>
+        <span>National BCI honors, 2021–2025</span>
       </a>
     </div>
   </section>
@@ -328,7 +328,7 @@ author_profile: false
     <div class="zw-honors-grid">
       <article><span>2025</span><h3><a href="https://www.antresearch.com/cooperation/InTech" target="_blank" rel="noopener">Inaugural Ant Group InTech Scholarship</a></h3><p>One of ten recipients worldwide in the inaugural cohort; featured by <a href="https://zjrb.zjol.com.cn/html/2025-09/14/content_3851946.htm?div=-1" target="_blank" rel="noopener"><em>Zhejiang Daily</em> (《浙江日报》)</a>.</p></article>
       <article><span>2020; 2024–2026</span><h3>National Scholarship (国家奖学金)</h3><p>Three consecutive awards during Ph.D. study (2024–2026); four-time recipient overall, including undergraduate study (2020).</p></article>
-      <article><span>2023–2025</span><h3>National BCI Recognition</h3><p>Top 10 Advances 2025, Top 10 Highlights 2024, and National First Prize at the 2023 World Robot Contest BCI Competition.</p></article>
+      <article><span>2021–2025</span><h3>National BCI Recognition</h3><p>Top 10 Advances in Brain–Computer Interfaces in China (2025), Top 10 Highlights (2024), and three national BCI competition awards: Second Prize (2021), First Prize (2023), and Second Prize (2025).</p></article>
       <article><span>2026</span><h3><a href="https://www.hbkx.org.cn/news/info?newsid=71523fdd30cc43cc9e07df816ee19e9c" target="_blank" rel="noopener">Excellent Scientific and Technical Paper Award</a></h3><p>Awarded to the <em>National Science Review</em> paper <a href="https://academic.oup.com/nsr/article/12/6/nwaf086/8052010" target="_blank" rel="noopener"><em>Canine EEG Helps Human</em></a> by the Hubei Association for Science and Technology (湖北省科协优秀科技论文奖).</p></article>
       <article><span>2025</span><h3>Merit Student Pacesetter</h3><p>Highest student honor at HUST.</p></article>
       <article><span>2022</span><h3>IEEE CIS Student Grant</h3><p>One of five recipients worldwide.</p></article>
