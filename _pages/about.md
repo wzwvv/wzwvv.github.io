@@ -171,7 +171,7 @@ author_profile: false
     <div class="zw-section-heading zw-heading-split">
       <div>
         <p class="zw-section-kicker">Selected publications</p>
-        <h2 id="publications-title">A research program, not a list of papers</h2>
+        <h2 id="publications-title">Representative research contributions</h2>
       </div>
       <div class="zw-publication-legend">
         <span><sup>*</sup> Equal contribution</span>
@@ -297,11 +297,11 @@ author_profile: false
 
     <div class="zw-honors-grid">
       <article><span>2025</span><h3>Inaugural Ant Group InTech Scholarship</h3><p>One of ten recipients worldwide.</p></article>
-      <article><span>2020, 2024–2026</span><h3>National Scholarship (国家奖学金)</h3><p>Four-time recipient across undergraduate and Ph.D. study.</p></article>
+      <article><span>2020; 2024–2026</span><h3>National Scholarship (国家奖学金)</h3><p>Three consecutive awards during Ph.D. study (2024–2026); four-time recipient overall, including undergraduate study (2020).</p></article>
+      <article><span>2023–2025</span><h3>National BCI Recognition</h3><p>Top 10 Advances 2025, Top 10 Highlights 2024, and National First Prize at the 2023 World Robot Contest BCI Competition.</p></article>
       <article><span>2026</span><h3><a href="https://www.hbkx.org.cn/news/info?newsid=71523fdd30cc43cc9e07df816ee19e9c" target="_blank" rel="noopener">Excellent Scientific and Technical Paper Award</a></h3><p>Hubei Association for Science and Technology (湖北省科协优秀科技论文奖).</p></article>
       <article><span>2025</span><h3>Merit Student Pacesetter</h3><p>Highest student honor at HUST.</p></article>
       <article><span>2022</span><h3>IEEE CIS Student Grant</h3><p>One of five recipients worldwide.</p></article>
-      <article><span>2023–2025</span><h3>National BCI Recognition</h3><p>Top 10 Advances 2025, Top 10 Highlights 2024, and National First Prize at the 2023 World Robot Contest BCI Competition.</p></article>
     </div>
 
     <div class="zw-service-panel">
