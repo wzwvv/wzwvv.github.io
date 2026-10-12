@@ -42,10 +42,6 @@ author_profile: false
           <dt>Based in</dt>
           <dd>Wuhan, China</dd>
         </div>
-        <div>
-          <dt>Open to</dt>
-          <dd>Project-based collaboration with students and researchers</dd>
-        </div>
       </dl>
 
       <div class="zw-hero-actions" aria-label="Profile links">
