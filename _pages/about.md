@@ -186,8 +186,8 @@ author_profile: false
     </div>
 
     <ol class="zw-news-list">
-      <li><time datetime="2026-10">Oct. 2026</time><p><a href="https://arxiv.org/abs/2610.08817" target="_blank" rel="noopener">DenoFlow</a>, a flow-matching framework for SSVEP denoising under real physiological artifacts, is in minor revision at <em>Knowledge-Based Systems</em>.</p></li>
-      <li><time datetime="2026-09">Sep. 2026</time><p>Released preprints on <a href="https://arxiv.org/abs/2609.11341" target="_blank" rel="noopener">CoMA-DiT</a> and <a href="https://arxiv.org/abs/2609.11372" target="_blank" rel="noopener">RAMamba-Net</a>.</p></li>
+      <li><time datetime="2026-10">Oct. 2026</time><p><a href="https://arxiv.org/abs/2610.08817" target="_blank" rel="noopener">Released preprint of DenoFlow</a>, a flow-matching framework for SSVEP denoising under real physiological artifacts.</p></li>
+      <li><time datetime="2026-09">Sep. 2026</time><p>Released preprints of <a href="https://arxiv.org/abs/2609.11341" target="_blank" rel="noopener">CoMA-DiT</a> and <a href="https://arxiv.org/abs/2609.11372" target="_blank" rel="noopener">RAMamba-Net</a>.</p></li>
       <li><time datetime="2026-09">Sep. 2026</time><p>The <em>NSR</em> paper <a href="https://academic.oup.com/nsr/article/12/6/nwaf086/8052010" target="_blank" rel="noopener"><em>Canine EEG Helps Human</em></a> received the <a href="https://www.hbkx.org.cn/news/info?newsid=71523fdd30cc43cc9e07df816ee19e9c" target="_blank" rel="noopener">Excellent Scientific and Technical Paper Award</a> from the Hubei Association for Science and Technology (湖北省科协优秀科技论文奖).</p></li>
       <li><time datetime="2026-06">Jun. 2026</time><p><a href="https://ieeexplore.ieee.org/abstract/document/11554397/" target="_blank" rel="noopener">CKD</a> was accepted by <em>IEEE Transactions on Biomedical Engineering</em>.</p></li>
       <li><time datetime="2026-04">Apr. 2026</time><p>Released the <a href="https://zenodo.org/records/19333249" target="_blank" rel="noopener">CHSZ pediatric epilepsy EEG dataset</a>, collected with Wuhan Children’s Hospital.</p></li>
