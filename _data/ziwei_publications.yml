@@ -93,6 +93,15 @@
       status: Under review
       description: "Reliability-aware EEG–EOG fusion combines band-aware Conformer and Mamba encoders, cross-modal attention, and sample-wise modality weighting."
       paper: https://arxiv.org/abs/2609.11372
+    - mark: KDH
+      image: /images/KDHNet.png
+      title: "KDHNet: A Knowledge-Driven Hybrid Network for Limited-Calibration SSVEP Decoding"
+      authors: "Zhentao He, <strong>Ziwei Wang</strong><sup>#</sup>, and Dongrui Wu<sup>#</sup>"
+      venue: IEEE Journal of Biomedical and Health Informatics
+      venue_short: IEEE JBHI 2026
+      status: Under review
+      description: "A knowledge-driven hybrid architecture combining a closed-form TDCA–TRCA front-end, learnable sub-band weighting, and an SSVEPformer decoder, with target-guided alignment for robust intra- and inter-subject decoding under limited calibration."
+      code: https://github.com/2665023991/KDHNet
 
 - id: data-foundations
   eyebrow: Data augmentation · generative models · trustworthy benchmarks
