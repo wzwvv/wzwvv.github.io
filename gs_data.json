@@ -1,0 +1,429 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "publications",
+    "indices",
+    "counts"
+  ],
+  "scholar_id": "fjlXqvQAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Ziwei Wang (王紫薇)",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=fjlXqvQAAAAJ&citpid=4",
+  "affiliation": "Huazhong University of Science and Technology",
+  "organization": 7177955212759034238,
+  "interests": [
+    "Deep Learning",
+    "Brain-Computer Interface"
+  ],
+  "email_domain": "@hust.edu.cn",
+  "homepage": "https://wzwvv.github.io/",
+  "citedby": 374,
+  "publications": {
+    "fjlXqvQAAAAJ:u-x6o8ySG0sC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "T-TIME: Test-time information maximization ensemble for plug-and-play BCIs",
+        "pub_year": "2023"
+      },
+      "filled": false,
+      "author_pub_id": "fjlXqvQAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 53,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13455766305882536637",
+      "cites_id": [
+        "13455766305882536637"
+      ]
+    },
+    "fjlXqvQAAAAJ:UeHWp8X0CEIC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Multi-source decentralized transfer for privacy-preserving BCIs",
+        "pub_year": "2022"
+      },
+      "filled": false,
+      "author_pub_id": "fjlXqvQAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 52,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2150739430618555059",
+      "cites_id": [
+        "2150739430618555059"
+      ]
+    },
+    "fjlXqvQAAAAJ:hqOjcs7Dif8C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "DBConformer: Dual-Branch Convolutional Transformer for EEG Decoding",
+        "pub_year": "2026"
+      },
+      "filled": false,
+      "author_pub_id": "fjlXqvQAAAAJ:hqOjcs7Dif8C",
+      "num_citations": 40,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16351388874873127101",
+      "cites_id": [
+        "16351388874873127101"
+      ]
+    },
+    "fjlXqvQAAAAJ:_FxGoFyzp5QC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Time-frequency transform based EEG data augmentation for brain-computer interfaces",
+        "pub_year": "2025"
+      },
+      "filled": false,
+      "author_pub_id": "fjlXqvQAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 40,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1845182251518386861",
+      "cites_id": [
+        "1845182251518386861"
+      ]
+    },
+    "fjlXqvQAAAAJ:9yKSN-GCB0IC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Channel reflection: Knowledge-driven data augmentation for EEG-based brain–computer interfaces",
+        "pub_year": "2024"
+      },
+      "filled": false,
+      "author_pub_id": "fjlXqvQAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 35,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6464181787573591927",
+      "cites_id": [
+        "6464181787573591927"
+      ]
+    },
+    "fjlXqvQAAAAJ:2osOgNQ5qMEC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Alignment-based adversarial training (ABAT) for improving the robustness and accuracy of EEG-based BCIs",
+        "pub_year": "2024"
+      },
+      "filled": false,
+      "author_pub_id": "fjlXqvQAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 34,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6769977285215259086",
+      "cites_id": [
+        "6769977285215259086"
+      ]
+    },
+    "fjlXqvQAAAAJ:Se3iqnhoufwC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Canine EEG helps human: Cross-species and cross-modality epileptic seizure detection via multi-space alignment",
+        "pub_year": "2025"
+      },
+      "filled": false,
+      "author_pub_id": "fjlXqvQAAAAJ:Se3iqnhoufwC",
+      "num_citations": 28,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16067235945879151081",
+      "cites_id": [
+        "16067235945879151081"
+      ]
+    },
+    "fjlXqvQAAAAJ:roLk4NBRz8UC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Unsupervised domain adaptation for cross-patient seizure classification",
+        "pub_year": "2023"
+      },
+      "filled": false,
+      "author_pub_id": "fjlXqvQAAAAJ:roLk4NBRz8UC",
+      "num_citations": 19,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2399857457960619348",
+      "cites_id": [
+        "2399857457960619348"
+      ]
+    },
+    "fjlXqvQAAAAJ:IjCSPb-OGe4C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Deep source semi-supervised transfer learning (DS3TL) for cross-subject EEG classification",
+        "pub_year": "2023"
+      },
+      "filled": false,
+      "author_pub_id": "fjlXqvQAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 19,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3353307545652355458",
+      "cites_id": [
+        "3353307545652355458"
+      ]
+    },
+    "fjlXqvQAAAAJ:LkGwnXOMwfcC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "MVCNet: Multi-View Contrastive Network for Motor Imagery Classification",
+        "pub_year": "2025"
+      },
+      "filled": false,
+      "author_pub_id": "fjlXqvQAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13299170104863694773,1797875809054527489",
+      "cites_id": [
+        "13299170104863694773",
+        "1797875809054527489"
+      ]
+    },
+    "fjlXqvQAAAAJ:zYLM7Y9cAGgC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "User-wise perturbations for user identity protection in EEG-based BCIs",
+        "pub_year": "2025"
+      },
+      "filled": false,
+      "author_pub_id": "fjlXqvQAAAAJ:zYLM7Y9cAGgC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4899563678565207040",
+      "cites_id": [
+        "4899563678565207040"
+      ]
+    },
+    "fjlXqvQAAAAJ:ULOm3_A8WrAC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "SDDA: Spatial distillation based distribution alignment for cross-headset EEG classification",
+        "pub_year": "2025"
+      },
+      "filled": false,
+      "author_pub_id": "fjlXqvQAAAAJ:ULOm3_A8WrAC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1856432446444314573",
+      "cites_id": [
+        "1856432446444314573"
+      ]
+    },
+    "fjlXqvQAAAAJ:UebtZRa9Y70C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Spatial distillation based distribution alignment (SDDA) for cross-headset EEG classification",
+        "pub_year": "2025"
+      },
+      "filled": false,
+      "author_pub_id": "fjlXqvQAAAAJ:UebtZRa9Y70C",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3411221754666195618",
+      "cites_id": [
+        "3411221754666195618"
+      ]
+    },
+    "fjlXqvQAAAAJ:M3ejUd6NZC8C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Effective and efficient intracortical brain signal decoding with spiking neural networks",
+        "pub_year": "2026"
+      },
+      "filled": false,
+      "author_pub_id": "fjlXqvQAAAAJ:M3ejUd6NZC8C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4755671816817040443",
+      "cites_id": [
+        "4755671816817040443"
+      ]
+    },
+    "fjlXqvQAAAAJ:4TOpqqG69KYC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "FAConformer: Frequency-Aware Convolutional Transformer for Auditory Attention Decoding",
+        "pub_year": "2026"
+      },
+      "filled": false,
+      "author_pub_id": "fjlXqvQAAAAJ:4TOpqqG69KYC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14701027451681495813",
+      "cites_id": [
+        "14701027451681495813"
+      ]
+    },
+    "fjlXqvQAAAAJ:MXK_kJrjxJIC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Synthetic Data Generation for Brain-Computer Interfaces: Overview, Benchmarking, and Future Directions",
+        "pub_year": "2026"
+      },
+      "filled": false,
+      "author_pub_id": "fjlXqvQAAAAJ:MXK_kJrjxJIC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4331442973663854844",
+      "cites_id": [
+        "4331442973663854844"
+      ]
+    },
+    "fjlXqvQAAAAJ:4DMP91E08xMC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Backpropagation-Free Test-Time Adaptation for Lightweight EEG-Based Brain-Computer Interfaces",
+        "pub_year": "2026"
+      },
+      "filled": false,
+      "author_pub_id": "fjlXqvQAAAAJ:4DMP91E08xMC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16091784277519078904",
+      "cites_id": [
+        "16091784277519078904"
+      ]
+    },
+    "fjlXqvQAAAAJ:9ZlFYXVOiuMC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Exploring Diffusion Transformers for Cross-Modal Augmentation in Multimodal Brain State Decoding",
+        "pub_year": "2026"
+      },
+      "filled": false,
+      "author_pub_id": "fjlXqvQAAAAJ:9ZlFYXVOiuMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12753225536021716946",
+      "cites_id": [
+        "12753225536021716946"
+      ]
+    },
+    "fjlXqvQAAAAJ:3fE2CSJIrl8C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "SACM: SEEG-Audio Contrastive Matching for Chinese Speech Decoding",
+        "pub_year": "2026"
+      },
+      "filled": false,
+      "author_pub_id": "fjlXqvQAAAAJ:3fE2CSJIrl8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15919624483916641304",
+      "cites_id": [
+        "15919624483916641304"
+      ]
+    },
+    "fjlXqvQAAAAJ:KlAtU1dfN6UC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "RAICL: Retrieval-Augmented In-Context Learning for Vision-Language-Model Based EEG Seizure Detection",
+        "pub_year": "2026"
+      },
+      "filled": false,
+      "author_pub_id": "fjlXqvQAAAAJ:KlAtU1dfN6UC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17444067885020441938",
+      "cites_id": [
+        "17444067885020441938"
+      ]
+    },
+    "fjlXqvQAAAAJ:5nxA0vEk-isC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Black-Box Test-Time Ensemble",
+        "pub_year": "2025"
+      },
+      "filled": false,
+      "author_pub_id": "fjlXqvQAAAAJ:5nxA0vEk-isC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15021935370824217145",
+      "cites_id": [
+        "15021935370824217145"
+      ]
+    },
+    "fjlXqvQAAAAJ:QIV2ME_5wuYC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "DenoFlow: Flow Matching for SSVEP Denoising under Real Physiological Artifacts",
+        "pub_year": "2026"
+      },
+      "filled": false,
+      "author_pub_id": "fjlXqvQAAAAJ:QIV2ME_5wuYC",
+      "num_citations": 0
+    },
+    "fjlXqvQAAAAJ:mVmsd5A6BfQC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "RAMamba-Net: A Reliability-Aware and Mamba-Based Multimodal Fusion Network for Auditory Attention Detection",
+        "pub_year": "2026"
+      },
+      "filled": false,
+      "author_pub_id": "fjlXqvQAAAAJ:mVmsd5A6BfQC",
+      "num_citations": 0
+    },
+    "fjlXqvQAAAAJ:aqlVkmm33-oC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "SCORE: Subject Coordinate Recovery for Label-Free Cross-Subject EEG-to-Image Retrieval",
+        "pub_year": "2026"
+      },
+      "filled": false,
+      "author_pub_id": "fjlXqvQAAAAJ:aqlVkmm33-oC",
+      "num_citations": 0
+    },
+    "fjlXqvQAAAAJ:qxL8FJ1GzNcC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PGAP: Purity-Guided Active Prompting for EEG Decoding With LLMs",
+        "pub_year": "2026"
+      },
+      "filled": false,
+      "author_pub_id": "fjlXqvQAAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 0
+    },
+    "fjlXqvQAAAAJ:_kc_bZDykSQC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "CKD: Contrastive Knowledge Distillation for Cross-Dataset EEG Classification",
+        "pub_year": "2026"
+      },
+      "filled": false,
+      "author_pub_id": "fjlXqvQAAAAJ:_kc_bZDykSQC",
+      "num_citations": 0
+    },
+    "fjlXqvQAAAAJ:YOwf2qJgpHMC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "EEG-Based Epileptic Seizure Detection Dataset (CHSZ)",
+        "pub_year": "2026"
+      },
+      "filled": false,
+      "author_pub_id": "fjlXqvQAAAAJ:YOwf2qJgpHMC",
+      "num_citations": 0
+    },
+    "fjlXqvQAAAAJ:0EnyYjriUFMC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Supplementary Materials for “DBConformer: Dual-Branch Convolutional Transformer for EEG Decoding”",
+        "pub_year": "2025"
+      },
+      "filled": false,
+      "author_pub_id": "fjlXqvQAAAAJ:0EnyYjriUFMC",
+      "num_citations": 0
+    }
+  },
+  "citedby5y": 374,
+  "hindex": 10,
+  "hindex5y": 10,
+  "i10index": 10,
+  "i10index5y": 10,
+  "cites_per_year": {
+    "2023": 6,
+    "2024": 36,
+    "2025": 113,
+    "2026": 217
+  },
+  "updated": "2026-10-24T12:30:45+00:00"
+}

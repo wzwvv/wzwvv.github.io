@@ -1,0 +1,17 @@
+{
+  "google_scholar_citations": 374,
+  "google_scholar_url": "https://scholar.google.com/citations?user=fjlXqvQAAAAJ&hl=en",
+  "github_stars": 201,
+  "github_repositories": 10,
+  "github_url": "https://github.com/wzwvv?tab=repositories",
+  "zenodo_downloads": 2195,
+  "zenodo_unique_downloads": 1842,
+  "zenodo_url": "https://zenodo.org/records/19333249",
+  "updated": "2026-10-24T12:30:41+00:00",
+  "zenodo_updated": "2026-10-19T08:59:13+00:00",
+  "update_frequency": {
+    "google_scholar": "daily",
+    "github": "daily",
+    "zenodo": "weekly"
+  }
+}
