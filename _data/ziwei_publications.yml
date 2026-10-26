@@ -153,11 +153,13 @@
       paper: https://arxiv.org/abs/2609.11341
     - mark: DF
       image: /images/DenoFlow.png
-      title: "DenoFlow: Flow Matching for SSVEP Denoising under Real Physiological Artifacts"
+      title: "DenoFlow: Flow Matching for SSVEP Denoising under Recorded Physiological Artifacts"
       authors: "Zhentao He<sup>*</sup>, <strong>Ziwei Wang</strong><sup>*</sup>, and Dongrui Wu<sup>#</sup>"
       venue: Knowledge-Based Systems
       venue_short: KBS 2026
-      status: Minor revision
+      status: Accepted
+      levels:
+        - JCR Q1
       description: "A rectified-flow denoising framework trained with recorded EMG/EOG artifacts and task-aware supervision, improving signal fidelity and downstream SSVEP decoding."
       paper: https://arxiv.org/abs/2610.08817
       code: https://github.com/wzwvv/DenoFlow
