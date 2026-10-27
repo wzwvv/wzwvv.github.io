@@ -101,6 +101,7 @@
       venue_short: IEEE JBHI 2026
       status: Under review
       description: "A knowledge-driven hybrid architecture combining a closed-form TDCA–TRCA front-end, learnable sub-band weighting, and an SSVEPformer decoder, with target-guided alignment for robust intra- and inter-subject decoding under limited calibration."
+      paper: https://arxiv.org/abs/2610.33058
       code: https://github.com/2665023991/KDHNet
 
 - id: data-foundations
