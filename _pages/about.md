@@ -81,7 +81,7 @@ author_profile: false
       </a>
       <div class="zw-metric zw-metric-honor">
         <strong>4×</strong>
-        <span>National Scholarship</span>
+        <span>National Scholarship (国家奖学金)</span>
       </div>
       <a class="zw-metric zw-metric-honor" href="https://www.hbkx.org.cn/news/info?newsid=71523fdd30cc43cc9e07df816ee19e9c" target="_blank" rel="noopener">
         <strong>2026</strong>
@@ -187,24 +187,24 @@ author_profile: false
 
     <ol class="zw-news-list" tabindex="0" aria-label="News timeline, newest first">
       <li><time datetime="2026-10">Oct. 2026</time><p><a href="https://arxiv.org/abs/2610.08817" target="_blank" rel="noopener">DenoFlow</a> was accepted by <em>Knowledge-Based Systems</em>.</p></li>
-      <li><time datetime="2026-10">Oct. 2026</time><p>Released the <a href="https://arxiv.org/abs/2610.33058" target="_blank" rel="noopener">KDHNet</a> preprint; the manuscript is under review at <em>IEEE Journal of Biomedical and Health Informatics</em>.</p></li>
-      <li><time datetime="2026-09">Sep. 2026</time><p>Awarded the Ph.D. National Scholarship for the third consecutive year, marking four National Scholarships overall.</p></li>
+      <li><time datetime="2026-10">Oct. 2026</time><p>Released the <a href="https://arxiv.org/abs/2610.33058" target="_blank" rel="noopener">KDHNet</a> preprint.</p></li>
+      <li><time datetime="2026-09">Sep. 2026</time><p>Awarded the Ph.D. National Scholarship (国家奖学金) for the third consecutive year, marking four National Scholarships overall.</p></li>
       <li><time datetime="2026-09">Sep. 2026</time><p>Released preprints of <a href="https://arxiv.org/abs/2609.11341" target="_blank" rel="noopener">CoMA-DiT</a> and <a href="https://arxiv.org/abs/2609.11372" target="_blank" rel="noopener">RAMamba-Net</a>.</p></li>
       <li><time datetime="2026-09">Sep. 2026</time><p>The <em>NSR</em> paper <a href="https://academic.oup.com/nsr/article/12/6/nwaf086/8052010" target="_blank" rel="noopener"><em>Canine EEG Helps Human</em></a> received the <a href="https://www.hbkx.org.cn/news/info?newsid=71523fdd30cc43cc9e07df816ee19e9c" target="_blank" rel="noopener">Excellent Scientific and Technical Paper Award</a> from the Hubei Association for Science and Technology (湖北省科协优秀科技论文奖).</p></li>
-      <li><time datetime="2026-06">Jun. 2026</time><p><a href="https://ieeexplore.ieee.org/abstract/document/11554397/" target="_blank" rel="noopener">CKD</a> was published online in <em>IEEE Transactions on Biomedical Engineering</em>.</p></li>
+      <li><time datetime="2026-06">Jun. 2026</time><p><a href="https://ieeexplore.ieee.org/abstract/document/11554397/" target="_blank" rel="noopener">CKD</a> was accepted by <em>IEEE Transactions on Biomedical Engineering</em>.</p></li>
       <li><time datetime="2026-06">Jun. 2026</time><p>Released the <a href="https://arxiv.org/abs/2606.14120" target="_blank" rel="noopener">FAConformer</a> preprint for frequency-aware auditory attention decoding.</p></li>
       <li><time datetime="2026-04">Apr. 2026</time><p>Released the <a href="https://zenodo.org/records/19333249" target="_blank" rel="noopener">CHSZ pediatric epilepsy EEG dataset</a>, collected with Wuhan Children’s Hospital.</p></li>
       <li><time datetime="2026-03">Mar. 2026</time><p>Released <a href="https://arxiv.org/abs/2603.12296" target="_blank" rel="noopener">DG4BCI</a>, a unified survey and benchmark for synthetic data generation in BCIs.</p></li>
       <li><time datetime="2026-02">Feb. 2026</time><p>The cross-species EEG study was selected for the <a href="https://tech.chinadaily.com.cn/a/202602/06/WS6985af8fa310942cc499ea62.html" target="_blank" rel="noopener">Top 10 Advances in Brain–Computer Interfaces in China</a> (中国脑机接口十大进展).</p></li>
       <li><time datetime="2025-12">Dec. 2025</time><p>Secured two nationally funded projects as principal investigator, supported by NSFC and CAST.</p></li>
       <li><time datetime="2025-10">Oct. 2025</time><p><a href="https://ieeexplore.ieee.org/abstract/document/11215634" target="_blank" rel="noopener">DBConformer</a> was accepted by <em>IEEE Journal of Biomedical and Health Informatics</em>.</p></li>
-      <li><time datetime="2025-10">Oct. 2025</time><p><a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705125012468" target="_blank" rel="noopener">MVCNet</a> was published in <em>Knowledge-Based Systems</em>.</p></li>
-      <li><time datetime="2025-10">Oct. 2025</time><p>Received the Ph.D. National Scholarship for the second consecutive year.</p></li>
+      <li><time datetime="2025-10">Oct. 2025</time><p><a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705125012468" target="_blank" rel="noopener">MVCNet</a> was accepted by <em>Knowledge-Based Systems</em>.</p></li>
+      <li><time datetime="2025-10">Oct. 2025</time><p>Received the Ph.D. National Scholarship (国家奖学金) for the second consecutive year.</p></li>
       <li><time datetime="2025-10">Oct. 2025</time><p>Named a HUST Merit Student Pacesetter (华中科技大学三好学生标兵), the university’s highest student honor.</p></li>
       <li><time datetime="2025-09">Sep. 2025</time><p>Named one of ten worldwide recipients of the inaugural <a href="https://www.antresearch.com/cooperation/InTech" target="_blank" rel="noopener">Ant Group InTech Scholarship</a>.</p></li>
-      <li><time datetime="2025-03">Mar. 2025</time><p><a href="https://academic.oup.com/nsr/article/12/6/nwaf086/8052010" target="_blank" rel="noopener"><em>Canine EEG Helps Human</em></a> was published in <em>National Science Review</em>.</p></li>
-      <li><time datetime="2025-02">Feb. 2025</time><p>The <a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705125001212" target="_blank" rel="noopener">time–frequency EEG data augmentation study</a> was published in <em>Knowledge-Based Systems</em>.</p></li>
-      <li><time datetime="2024-11">Nov. 2024</time><p>Received the 2024 Ph.D. National Scholarship.</p></li>
+      <li><time datetime="2025-03">Mar. 2025</time><p><a href="https://academic.oup.com/nsr/article/12/6/nwaf086/8052010" target="_blank" rel="noopener"><em>Canine EEG Helps Human</em></a> was accepted by <em>National Science Review</em>.</p></li>
+      <li><time datetime="2025-02">Feb. 2025</time><p><a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705125001212" target="_blank" rel="noopener">CSDA</a> was accepted by <em>Knowledge-Based Systems</em>.</p></li>
+      <li><time datetime="2024-11">Nov. 2024</time><p>Received the 2024 Ph.D. National Scholarship (国家奖学金).</p></li>
     </ol>
   </section>
 
