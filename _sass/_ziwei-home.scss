@@ -1493,6 +1493,12 @@ a.zw-collaborator-card:hover {
 
 /* Responsive */
 
+@media (min-width: 1121px) {
+  .zw-metrics {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+  }
+}
+
 @media (max-width: 1120px) {
   .zw-masthead {
     position: relative;
