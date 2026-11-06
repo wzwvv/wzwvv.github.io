@@ -1497,6 +1497,10 @@ a.zw-collaborator-card:hover {
   .zw-metrics {
     grid-template-columns: repeat(5, minmax(0, 1fr));
   }
+
+  .zw-honors-grid {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
 }
 
 @media (max-width: 1120px) {

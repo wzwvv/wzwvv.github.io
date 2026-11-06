@@ -76,7 +76,7 @@ author_profile: false
         <span>PI · NSFC &amp; CAST · RMB 340,000</span>
       </div>
       <a class="zw-metric zw-metric-honor" href="https://www.antresearch.com/cooperation/InTech" target="_blank" rel="noopener">
-        <strong>2025</strong>
+        <strong>Global 10</strong>
         <span>Inaugural Ant Group InTech Scholarship</span>
       </a>
       <div class="zw-metric zw-metric-honor">
@@ -85,7 +85,7 @@ author_profile: false
       </div>
       <a class="zw-metric zw-metric-honor" href="https://gszz.hust.edu.cn/info/1087/3863.htm" target="_blank" rel="noopener">
         <strong>Top 10</strong>
-        <span>2026 HUST Academic Rising Star (华中科技大学学术新星)</span>
+        <span>Academic Rising Star, HUST</span>
       </a>
       <div class="zw-metric zw-metric-honor">
         <strong>2025</strong>
@@ -193,7 +193,7 @@ author_profile: false
     </div>
 
     <ol class="zw-news-list" tabindex="0" aria-label="News timeline, newest first">
-      <li><time datetime="2026-10">Oct. 2026</time><p>Named one of ten university-wide recipients of the <a href="https://gszz.hust.edu.cn/info/1087/3863.htm" target="_blank" rel="noopener">2026 HUST Academic Rising Star Scholarship</a> (华中科技大学“学术新星”奖学金).</p></li>
+      <li><time datetime="2026-10">Oct. 2026</time><p>Named one of ten university-wide recipients of <a href="https://gszz.hust.edu.cn/info/1087/3863.htm" target="_blank" rel="noopener">Academic Rising Star, HUST</a> (华中科技大学学术新星).</p></li>
       <li><time datetime="2026-10">Oct. 2026</time><p><a href="https://arxiv.org/abs/2610.08817" target="_blank" rel="noopener">DenoFlow</a> was accepted by <em>Knowledge-Based Systems</em>.</p></li>
       <li><time datetime="2026-10">Oct. 2026</time><p>Released the <a href="https://arxiv.org/abs/2610.33058" target="_blank" rel="noopener">KDHNet</a> preprint.</p></li>
       <li><time datetime="2026-09">Sep. 2026</time><p>Awarded the Ph.D. National Scholarship (国家奖学金) for the third consecutive year, marking four National Scholarships overall.</p></li>
@@ -347,11 +347,12 @@ author_profile: false
 
     <div class="zw-honors-grid">
       <article><span>2025</span><h3><a href="https://www.antresearch.com/cooperation/InTech" target="_blank" rel="noopener">Inaugural Ant Group InTech Scholarship</a></h3><p>One of ten recipients worldwide in the inaugural cohort; featured by <a href="https://zjrb.zjol.com.cn/html/2025-09/14/content_3851946.htm?div=-1" target="_blank" rel="noopener"><em>Zhejiang Daily</em> (《浙江日报》)</a>.</p></article>
-      <article><span>2026</span><h3><a href="https://gszz.hust.edu.cn/info/1087/3863.htm" target="_blank" rel="noopener">HUST Academic Rising Star (华中科技大学学术新星)</a></h3><p>One of ten recipients selected university-wide for outstanding academic innovation.</p></article>
+      <article><span>2026</span><h3><a href="https://gszz.hust.edu.cn/info/1087/3863.htm" target="_blank" rel="noopener">Academic Rising Star, HUST (华中科技大学学术新星)</a></h3><p>One of ten recipients selected university-wide for outstanding academic innovation.</p></article>
       <article><span>2020; 2024–2026</span><h3>National Scholarship (国家奖学金)</h3><p>Three consecutive awards during Ph.D. study (2024–2026); four-time recipient overall, including undergraduate study (2020).</p></article>
       <article><span>2021–2025</span><h3>National BCI Recognition</h3><p>Top 10 Advances in Brain–Computer Interfaces in China (2025), Top 10 Highlights (2024), and three national BCI competition awards: First Prize (2023), Second Prize (2021), and Second Prize (2025).</p></article>
       <article><span>2026</span><h3><a href="https://www.hbkx.org.cn/news/info?newsid=71523fdd30cc43cc9e07df816ee19e9c" target="_blank" rel="noopener">Excellent Scientific and Technical Paper Award</a></h3><p>Awarded to the <em>National Science Review</em> paper <a href="https://academic.oup.com/nsr/article/12/6/nwaf086/8052010" target="_blank" rel="noopener"><em>Canine EEG Helps Human</em></a> by the Hubei Association for Science and Technology (湖北省科协优秀科技论文奖).</p></article>
       <article><span>2025</span><h3>HUST Merit Student Pacesetter (华中科技大学三好学生标兵)</h3><p>Highest student honor at HUST.</p></article>
+      <article><span>2021</span><h3>Outstanding Graduate of Hunan Province (湖南省优秀毕业生)</h3><p>Provincial-level distinction awarded for academic excellence and comprehensive achievement.</p></article>
       <article><span>2022</span><h3>IEEE CIS Student Grant</h3><p>One of five recipients worldwide.</p></article>
     </div>
   </section>
